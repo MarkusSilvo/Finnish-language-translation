@@ -13,6 +13,4 @@ Includes translations of the following add-ons
 Question Threads
 User Activity by Xon
 
-
-This xenforo translation is also available in our forums!
-FOLLOW THE DISCUSSION TO GET ANNOUNCEMENTS FOR UPDATES!
+Over 9000 lines off translations

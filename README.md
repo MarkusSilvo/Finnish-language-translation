@@ -1,8 +1,8 @@
 # Finnish language translation Xenforo | suomenkielinen käännöspaketti  
 https://forums.makke.ovh/threads/finnish-language-translation-xenforo-suomenkielinen-kaeaennoespaketti.2/  
   
-Installation:  
-Installation: Extract the .zip file  
+Installation: 
+Extract the .zip file  
 Send .xml file to AdminCP for your site. Appearance -> Languages -> Import  
    
 Includes translations of the following add-ons:  

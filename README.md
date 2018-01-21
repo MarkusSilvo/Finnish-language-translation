@@ -2,7 +2,6 @@
 https://forums.makke.ovh/threads/finnish-language-translation-xenforo-1-4-x-2-x-suomenkielinen-kaeaennoespaketti.2/
 
 Installation:
-Extract the .zip file
 Send .xml file to AdminCP for your site. Appearance -> Languages -> Import
 
 

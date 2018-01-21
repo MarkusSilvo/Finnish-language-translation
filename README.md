@@ -1,4 +1,4 @@
-# Finnish language translation Xenforo 1.4.x - 2.x | suomenkielinen käännöspaketti
+# Finnish language translation Xenforo | suomenkielinen käännöspaketti
 https://forums.makke.ovh/threads/finnish-language-translation-xenforo-1-4-x-2-x-suomenkielinen-kaeaennoespaketti.2/
 
 Installation:

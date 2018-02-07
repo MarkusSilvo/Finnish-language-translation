@@ -1270,7 +1270,6 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="currency.lkr" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Sri Lankan rupees]]></phrase>
   <phrase title="currency.lrd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Liberian dollars]]></phrase>
   <phrase title="currency.ltl" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Lithuanian litai]]></phrase>
-  <phrase title="currency.lvl" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Latvian lati]]></phrase>
   <phrase title="currency.lyd" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Libyan dinars]]></phrase>
   <phrase title="currency.mad" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Moroccan dirhams]]></phrase>
   <phrase title="currency.mdl" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Moldovan lei]]></phrase>
@@ -6081,7 +6080,7 @@ Content being reported:
   <phrase title="section_context" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Section context]]></phrase>
   <phrase title="security_error_occurred" addon_id="XF" version_id="0" version_string=""><![CDATA[Security error occurred. Please press back, refresh the page, and try again.]]></phrase>
   <phrase title="see_comments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[See comments]]></phrase>
-  <phrase title="see_more" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Näe lisää]]></phrase>
+  <phrase title="see_more" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Näytä lisää]]></phrase>
   <phrase title="select_all" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Valitse kaikki]]></phrase>
   <phrase title="select_for_moderation" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Valitse moderoitavaksi]]></phrase>
   <phrase title="select_forum_for_feed" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Select the forum into which new discussions created from this feed will be posted.]]></phrase>
@@ -6175,7 +6174,7 @@ Content being reported:
   <phrase title="simple_replacement" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Simple Replacement]]></phrase>
   <phrase title="single_choice" addon_id="XF" version_id="1040470" version_string="1.4.4"><![CDATA[Yksi vaihtoehto]]></phrase>
   <phrase title="single_line_text_box" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Single-line text box]]></phrase>
-  <phrase title="site_currently_being_upgraded" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[The site is currently being upgraded. Please check back later.]]></phrase>
+  <phrase title="site_currently_being_upgraded" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Sivustoa päivitetään parhaillaan. Ole hyvä ja palaa hetken kuluttua takaisin.]]></phrase>
   <phrase title="site_key" addon_id="XF" version_id="1040470" version_string="1.4.4"><![CDATA[Site Key]]></phrase>
   <phrase title="site_title" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Site Title]]></phrase>
   <phrase title="site_url" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Site URL]]></phrase>

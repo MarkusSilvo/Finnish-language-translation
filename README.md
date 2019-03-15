@@ -21,7 +21,3 @@ Redis cache
 [TH] Last Post Avatars
 
 [TH] Holidays
-  
-  
-
-Over 9000 lines off translations

@@ -4,8 +4,10 @@ https://bbs.markus.ovh/threads/finnish-language-translation-xenforo-suomenkielin
 Installation: 
 Extract the .zip file  
 Send .xml file to AdminCP for your site. Appearance -> Languages -> Import  
-   
+
+
 Includes translations of the following add-ons:  
+
 Question Threads
 
 User Activity by Xon
@@ -20,4 +22,6 @@ Redis cache
 
 [TH] Holidays
   
+  
+
 Over 9000 lines off translations

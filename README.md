@@ -8,16 +8,10 @@ Send .xml file to AdminCP for your site. Appearance -> Languages -> Import
 
 Includes translations of the following add-ons:  
 
-Question Threads
-
-User Activity by Xon
-
-Redis cache
-
-[TH] UI.X
-
-[TH] Nodes
-
-[TH] Last Post Avatars
-
-[TH] Holidays
+- Question Threads
+- User Activity by Xon
+- Redis cache
+- [TH] UI.X
+- [TH] Nodes
+- [TH] Last Post Avatars
+- [TH] Holidays

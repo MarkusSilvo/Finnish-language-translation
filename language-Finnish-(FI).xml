@@ -1983,8 +1983,8 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="ellipsis_and_x_more" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[... and {count} more.]]></phrase>
   <phrase title="ellipsis_character" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ellipsis character]]></phrase>
   <phrase title="else_if_tag_found_after_else_tag" addon_id="XF" version_id="0" version_string=""><![CDATA[Else if tag found after else tag.]]></phrase>
-  <phrase title="email" addon_id="XF" version_id="1040470" version_string="1.4.4"><![CDATA[Sähköpostiosoite]]></phrase>
-  <phrase title="email_address" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Sähköpostiosoite]]></phrase>
+  <phrase title="email" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Sähköposti]]></phrase>
+  <phrase title="email_address" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Sähköpostiosoite]]></phrase>
   <phrase title="email_address_contains" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[User's email address contains]]></phrase>
   <phrase title="email_address_you_entered_appears_have_typo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The email address you entered appears to have a typo. Please try another.]]></phrase>
   <phrase title="email_address_you_entered_has_been_banned_by_administrator" addon_id="XF" version_id="0" version_string=""><![CDATA[The email address you entered has been banned by the administrator. Please try another.]]></phrase>
@@ -5101,7 +5101,7 @@ Jos jokin ei vastaa kyseisen tiedoston odotettua sisältöä.  siitä ilmoitetaa
   <phrase title="forum_import_log_cannot_be_found" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[The forum import log cannot be found.]]></phrase>
   <phrase title="forum_is_currently_closed_only_admins_may_access" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Foorumi on tällä hetkellä suljettu. Vain järjestelmänvalvojat voivat käyttää foorumia.]]></phrase>
   <phrase title="forum_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum limit]]></phrase>
-  <phrase title="forum_list" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Osioiden listaus]]></phrase>
+  <phrase title="forum_list" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Foorumilista]]></phrase>
   <phrase title="forum_min_tags_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This will require users to provide at least this many tags when creating a thread.]]></phrase>
   <phrase title="forum_moderator" addon_id="XF" version_id="0" version_string=""><![CDATA[Forum Moderator]]></phrase>
   <phrase title="forum_watch_notification_limit" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Forum Watch Notification Limit]]></phrase>
@@ -6616,7 +6616,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.searchMinWordLength" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Search Minimum Word Length]]></phrase>
   <phrase title="option.searchResultsPerPage" addon_id="XF" version_id="0" version_string=""><![CDATA[Hakutuloksia per sivu]]></phrase>
   <phrase title="option.selectQuotable" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Enable Select-to-Quote]]></phrase>
-  <phrase title="option.shareThisPagePosition" addon_id="SidebarPositions" version_id="0" version_string=""><![CDATA[Share This Page Position]]></phrase>
+  <phrase title="option.shareThisPagePosition" addon_id="" version_id="0" version_string=""><![CDATA[Jaa tämä sivu sijainti]]></phrase>
   <phrase title="option.sharedIpsCheckLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Shared IPs check limit]]></phrase>
   <phrase title="option.shortcodeToEmoji" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Convert short code to emoji / smilies]]></phrase>
   <phrase title="option.showEmojiInSmilieMenu" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Show emoji in smilie menu]]></phrase>
@@ -8521,7 +8521,7 @@ You will not be asked to update again until a new update has been released on th
 ]]></phrase>
   <phrase title="please_enter_valid_dependent_permission_id" addon_id="XF" version_id="0" version_string=""><![CDATA[Please enter a valid dependent permission ID. The specified permission could not be found.]]></phrase>
   <phrase title="please_enter_valid_designer_mode_id_using_rules" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please enter a valid designer mode ID using only a-z, A-Z, 0-9, _ and - characters. The value must not start with 0-9.]]></phrase>
-  <phrase title="please_enter_valid_email" addon_id="XF" version_id="1000170" version_string="1.0.1"><![CDATA[Syötä toimiva sähköpostiosoite, kiitos.]]></phrase>
+  <phrase title="please_enter_valid_email" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Anna kelvollinen sähköpostiosoite.]]></phrase>
   <phrase title="please_enter_valid_extension_class" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Please enter a valid extension class.]]></phrase>
   <phrase title="please_enter_valid_facebook_username_using_alphanumeric_dot_numbers" addon_id="XF" version_id="0" version_string=""><![CDATA[Please enter a valid Facebook username using only a-z, 0-9, and . characters, or a user ID using only numbers.]]></phrase>
   <phrase title="please_enter_valid_field_id" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Please enter a valid field ID.]]></phrase>
@@ -12728,6 +12728,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.forum_overview_members_online" addon_id="" version_id="0" version_string=""><![CDATA[Käyttäjiä paikalla]]></phrase>
   <phrase title="widget.forum_overview_new_posts" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.forum_overview_new_profile_posts" addon_id="" version_id="0" version_string=""><![CDATA[Uudet Profiiliviestit]]></phrase>
+  <phrase title="widget.forum_overview_share_page" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.latest_followed_profile_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Latest profile posts by followers]]></phrase>
   <phrase title="widget.latest_posts" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Viimeisimmät keskustelut]]></phrase>
   <phrase title="widget.latest_profile_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Latest profile posts]]></phrase>
@@ -12758,7 +12759,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget_def.newest_members" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Uusimmat jäsenet]]></phrase>
   <phrase title="widget_def.online_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Online statistics]]></phrase>
   <phrase title="widget_def.php_callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PHP callback]]></phrase>
-  <phrase title="widget_def.share_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Share this page]]></phrase>
+  <phrase title="widget_def.share_page" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Jaa tämä sivu]]></phrase>
   <phrase title="widget_def.template_syntax" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template syntax]]></phrase>
   <phrase title="widget_def.th_post_thread_uix" addon_id="ThemeHouse/UIX" version_id="2010292" version_string="2.1.2 Patch Level 2"><![CDATA[Luo uusi keskustelu]]></phrase>
   <phrase title="widget_def.th_widget_login_uix" addon_id="ThemeHouse/UIX" version_id="2000070" version_string="2.0.0"><![CDATA[[UI.X] Login form]]></phrase>

@@ -1,4 +1,4 @@
-# Finnish language translation Xenforo | suomenkielinen käännöspaketti  
+# Finnish language translation Xenforo | Xenforo suomenkielinen käännöspaketti  
 
 Installation: 
 Extract the .zip file  

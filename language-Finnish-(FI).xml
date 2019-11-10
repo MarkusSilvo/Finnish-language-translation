@@ -1637,7 +1637,7 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="dark_ratings_youve_received" addon_id="PostRating" version_id="36" version_string="1.7.2"><![CDATA[Arvioinnit jotka olet saanut]]></phrase>
   <phrase title="dark_received" addon_id="PostRating" version_id="36" version_string="1.7.2"><![CDATA[Saadut]]></phrase>
   <phrase title="dark_recount_ratings" addon_id="PostRating" version_id="4" version_string="0.0.1"><![CDATA[Recount Ratings]]></phrase>
-  <phrase title="dark_replied_to_x" addon_id="TaigaChat" global_cache="1" version_id="20" version_string="1.0.0"><![CDATA[replied to thread {thread}.]]></phrase>
+  <phrase title="dark_replied_to_x" addon_id="TaigaChat" version_id="0" version_string=""><![CDATA[vastasi keskusteluun {thread}.]]></phrase>
   <phrase title="dark_requested_rating_not_found" addon_id="PostRating" version_id="4" version_string="0.0.1"><![CDATA[The requested rating could not be found.]]></phrase>
   <phrase title="dark_save_rating" addon_id="PostRating" version_id="4" version_string="0.0.1"><![CDATA[Save Rating]]></phrase>
   <phrase title="dark_saved_color" addon_id="TaigaChat" global_cache="1" version_id="20" version_string="1.0.0"><![CDATA[Saved shoutbox message color successfully.]]></phrase>
@@ -6087,7 +6087,7 @@ This only controls the tab selection.  It will not automatically add a link to t
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Käyttäjätunnuksesi]]></phrase>
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Profiilisi]]></phrase>
   <phrase title="nav.findThreads" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Löydä keskusteluita]]></phrase>
-  <phrase title="nav.forumList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum list]]></phrase>
+  <phrase title="nav.forumList" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Foorumilista]]></phrase>
   <phrase title="nav.forums" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Foorumi]]></phrase>
   <phrase title="nav.home" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Etusivu]]></phrase>
   <phrase title="nav.latestActivity" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Viimeisin toiminta]]></phrase>
@@ -9047,7 +9047,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="push_conversation_create" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{sender} started the conversation {title} with you.]]></phrase>
   <phrase title="push_conversation_invite" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{sender} added you to the conversation {title}.]]></phrase>
   <phrase title="push_conversation_notifications" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Push conversation notifications]]></phrase>
-  <phrase title="push_conversation_reply" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{sender} replied to the conversation {title}.]]></phrase>
+  <phrase title="push_conversation_reply" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[{sender} vastasi keskusteluun {title}.]]></phrase>
   <phrase title="push_disable_label" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Disable push notifications]]></phrase>
   <phrase title="push_enable_label" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Enable push notifications]]></phrase>
   <phrase title="push_enable_notification_body" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Thank you for enabling push notifications!]]></phrase>
@@ -11491,7 +11491,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="th_uix_icon_explain" addon_id="ThemeHouse/UIX" version_id="2010270" version_string="2.1.2"><![CDATA[Notice icon shown in all UI.X based styles. You may either use FontAwesome or Material Design Icons with their respective prefixes.]]></phrase>
   <phrase title="th_uix_image_successfully_uploaded" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[Image successfully uploaded]]></phrase>
   <phrase title="th_uix_posted" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[posted]]></phrase>
-  <phrase title="th_uix_replied" addon_id="ThemeHouse/UIX" version_id="2000791" version_string="2.0.7 Patch Level 1"><![CDATA[replied]]></phrase>
+  <phrase title="th_uix_replied" addon_id="ThemeHouse/UIX" version_id="2010292" version_string="2.1.2 Patch Level 2"><![CDATA[vastasi]]></phrase>
   <phrase title="th_uix_sp_upload_allowed_file_types" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[Allowed file extensions are: .jpg, .jpeg, .jpe, .png, .gif]]></phrase>
   <phrase title="th_uix_upload_style_property_image" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[Upload style property image]]></phrase>
   <phrase title="th_use_custom_value_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Use custom value]]></phrase>
@@ -12567,7 +12567,7 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="visits_in_last_hour_may_not_be_considered" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Käynnit viimeisen tunnin aikana eivät ehkä ole mukana.]]></phrase>
   <phrase title="votes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ääniä]]></phrase>
   <phrase title="warn" addon_id="XF" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[Anna varoitus]]></phrase>
-  <phrase title="warn_member" addon_id="XF" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[Anna varoitus]]></phrase>
+  <phrase title="warn_member" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Anna varoitus]]></phrase>
   <phrase title="warning" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Warning]]></phrase>
   <phrase title="warning_action_applied_crossing_threshold" addon_id="XF" version_id="1040370" version_string="1.4.3"><![CDATA[This warning action will only be applied when a user crosses the points threshold. As such, users with this many points or more will not have this action applied until their warning point total drops below this threshold and then crosses it again.]]></phrase>
   <phrase title="warning_actions" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Warning Actions]]></phrase>
@@ -12621,7 +12621,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="watch_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watch category]]></phrase>
   <phrase title="watch_content_on_creation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watch content on creation]]></phrase>
   <phrase title="watch_content_on_interaction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watch content on interaction]]></phrase>
-  <phrase title="watch_forum" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Seuraa foorumia]]></phrase>
+  <phrase title="watch_forum" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Seuraa foorumia]]></phrase>
   <phrase title="watch_this_thread" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Seuraa tätä keskustelua]]></phrase>
   <phrase title="watch_thread" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Seuraa keskustelua]]></phrase>
   <phrase title="watched_categories" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched categories]]></phrase>
@@ -12908,7 +12908,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="yesterday_at_x" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[eilen klo {time}]]></phrase>
   <phrase title="you_already_following_this_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You are already following this member.]]></phrase>
   <phrase title="you_already_ignoring_this_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You are already ignoring this member.]]></phrase>
-  <phrase title="you_already_logged_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You are already logged in. Please click <a href="{link}">here</a> to return to the forum list.]]></phrase>
+  <phrase title="you_already_logged_in" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Olet jo kirjautunut sisään. Palaa foorumiluetteloon napsauttamalla <a href="{link}">tähän</a>.]]></phrase>
   <phrase title="you_are_ignoring_content_by_this_member" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[You are ignoring content by this member.]]></phrase>
   <phrase title="you_are_no_longer_able_to_reply_thread_x" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[You are no longer able to reply to the thread {title}.]]></phrase>
   <phrase title="you_are_using_out_of_date_browser_upgrade" addon_id="XF" version_id="1040270" version_string="1.4.2"><![CDATA[You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.]]></phrase>

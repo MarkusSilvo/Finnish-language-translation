@@ -1,7 +1,14 @@
-# Finnish language translation Xenforo | Xenforo suomenkielinen käännöspaketti  
+# Xenforo suomenkielinen käännöspaketti | Finnish language translation Xenforo 
+
+Lataa osoitteesta: https://github.com/MarkusSilvo/Xenforo-Finnish-language-translation/releases
+
+Asennus: 
+Pura .zip-tiedosto
+Lähetä .xml-tiedosto sivustosi ylläpitopaneelista (admin.php) kautta sivustollesi. Appearance -> Languages -> Import
+
+-------------------
 
 Download from: https://github.com/MarkusSilvo/Xenforo-Finnish-language-translation/releases
 
-Installation: 
-Extract the .zip file  
-Send .xml file to AdminCP for your site. Appearance -> Languages -> Import
+Installation: Extract the .zip file
+Upload an .xml file from your site's admin panel (admin.php) to your site. Appearance -> Languages -> Import

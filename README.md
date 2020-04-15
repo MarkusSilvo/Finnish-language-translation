@@ -1,4 +1,4 @@
-# Xenforo suomenkielinen käännöspaketti | Finnish language translation Xenforo 
+# Xenforo suomenkielinen käännöspaketti 2.x | Xenforo finnish translation 2.x 
 
 Lataa osoitteesta: https://github.com/MarkusSilvo/Xenforo-Finnish-language-translation/releases
 

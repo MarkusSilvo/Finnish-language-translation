@@ -5,6 +5,7 @@ Lataa osoitteesta: https://github.com/MarkusSilvo/Xenforo-Finnish-language-trans
 Asennus: 
 Pura .zip-tiedosto
 Lähetä .xml-tiedosto sivustosi ylläpitopaneelista (admin.php) kautta sivustollesi. Appearance -> Languages -> Import
+
 (Xenforon ylläpito osiota ei ole käänetty kokonaan)
 -------------------
 

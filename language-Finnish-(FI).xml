@@ -6280,9 +6280,9 @@ This only controls the tab selection.  It will not automatically add a link to t
   <phrase title="news_feed_disabled" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The news feed is currently disabled. This may be a temporary performance-saving measure if the site is very busy at present.]]></phrase>
   <phrase title="news_feed_is_currently_empty" addon_id="XF" version_id="1000470" version_string="1.0.4"><![CDATA[Ei uusia tapahtumia sivustolla.]]></phrase>
   <phrase title="news_feed_post_insert" addon_id="XF" version_id="0" version_string=""><![CDATA[{username} vastasi keskusteluun {threadTitle}.]]></phrase>
-  <phrase title="news_feed_profile_post_comment_insert" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[{usernamePoster} commented on {usernameReceiver}'s profile post.]]></phrase>
+  <phrase title="news_feed_profile_post_comment_insert" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{usernamePoster} kommentoi {usernameReceiver} profiiliviestiin.]]></phrase>
   <phrase title="news_feed_profile_post_insert" addon_id="XF" version_id="1000470" version_string="1.0.4"><![CDATA[{usernamePoster} jätti viestin jäsenen {usernameReceiver} profiiliin:]]></phrase>
-  <phrase title="news_feed_profile_post_insert_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username} updated their <a href="{href}">status</a>.]]></phrase>
+  <phrase title="news_feed_profile_post_insert_status" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{username} päivitti oman <a href="{href}">tilansa</a>.]]></phrase>
   <phrase title="news_feed_thread_insert" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{username} loi uuden keskustelun {threadTitle} foorumiin {forumTitle}.]]></phrase>
   <phrase title="next" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Seuraava]]></phrase>
   <phrase title="next_run" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Seuraava suoritus]]></phrase>
@@ -7121,7 +7121,7 @@ If left blank, backup directory will default to XenForo's internal_data/backups 
   <phrase title="option_explain.EWRbackup_files_enable" addon_id="EWR/Backup" version_id="2002" version_string="2.0.0.2"><![CDATA[Any files PHP fails to read, will be skipped in the backup process.]]></phrase>
   <phrase title="option_explain.EWRbackup_files_shrink" addon_id="EWR/Backup" version_id="2002" version_string="2.0.0.2"><![CDATA[]]></phrase>
   <phrase title="option_explain.EWRbackup_inactive" addon_id="EWR/Backup" version_id="1" version_string="1"><![CDATA[]]></phrase>
-  <phrase title="option_explain.EWRbackup_message" addon_id="EWR/Backup" version_id="2103" version_string="2.1.0.3"><![CDATA[Kun foorumi ei ole aktiivinen/suljettu, tämä viesti näytetään sivuston kävijöille. Voit käyttää myös HTML: ää.]]></phrase>
+  <phrase title="option_explain.EWRbackup_message" addon_id="EWR/Backup" version_id="2103" version_string="2.1.0.3"><![CDATA[Kun foorumi ei ole aktiivinen, tämä viesti näytetään sivuston kävijöille. Voit käyttää myös HTML: ää.]]></phrase>
   <phrase title="option_explain.EWRbackup_mysql_customs" addon_id="EWR/Backup" version_id="1" version_string="1"><![CDATA[A list of custom option flags and their uses can be found at <a href="https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html#mysqldump-option-summary" target="_blank">dev.mysql.com</a>.]]></phrase>
   <phrase title="option_explain.EWRbackup_mysql_enable" addon_id="EWR/Backup" version_id="2002" version_string="2.0.0.2"><![CDATA[]]></phrase>
   <phrase title="option_explain.EWRbackup_mysql_options" addon_id="EWR/Backup" version_id="1" version_string="1"><![CDATA[]]></phrase>
@@ -7272,7 +7272,7 @@ Vaihtoehto "GDPR" -vaihtoehdolle
   <phrase title="option_explain.bdtagme_userGroupGravatar" addon_id="bdTagMe" version_id="25" version_string="1.5.9"><![CDATA[User groups will show up in suggestion list with a small image. You can use any image you want by uploading to <a href="http://gravatar.com/" tabindex="-1">Gravatar</a> and enter the email address here.]]></phrase>
   <phrase title="option_explain.boardActive" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[]]></phrase>
   <phrase title="option_explain.boardDescription" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kirjoita foorumille kuvaus. Tämä sijoitetaan foorumin kotisivun metakuvaustunnisteeseen, joten vältä HTML: n käyttöä.]]></phrase>
-  <phrase title="option_explain.boardInactiveMessage" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kun foorumi ei ole aktiivinen/suljettu, tämä viesti näytetään sivuston kävijöille. Voit käyttää myös HTML: ää.]]></phrase>
+  <phrase title="option_explain.boardInactiveMessage" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kun foorumi ei ole aktiivinen, tämä viesti näytetään sivuston kävijöille. Voit käyttää myös HTML: ää.]]></phrase>
   <phrase title="option_explain.boardTitle" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Foorumin otsikko. Tämä näkyy sivujen yläosassa ja sitä käytetään myös sähköposteissa.]]></phrase>
   <phrase title="option_explain.boardUrl" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ensisijainen URL-osoite foorumillesi. Älä sisälly viimeistä "/" tai "index.php". URL-osoitteen tulisi näyttää samanlaiselta kuin esim tämä: https://www.example.com/forum]]></phrase>
   <phrase title="option_explain.boardUrlCanonical" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If enabled, the board URL setting will be treated as the canonical installation URL. If visitors access your site through a different URL, they will be redirected to the appropriate canonical URL. When enabled, you must ensure that your board URL setting is correct. If it is not correct, areas outside the admin control panel will not be accessible!]]></phrase>
@@ -8258,8 +8258,8 @@ Licensed to: markus.silvo@gmail.com]]></phrase>
   <phrase title="or_enter_payment_details_manually" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Tai syötä maksutiedot manuaalisesti]]></phrase>
   <phrase title="or_separator" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Tai]]></phrase>
   <phrase title="order_by" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Järjestys]]></phrase>
-  <phrase title="ordered_by" addon_id="XF" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[Ordered By]]></phrase>
-  <phrase title="ordered_list" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Järjestetty lista]]></phrase>
+  <phrase title="ordered_by" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Järjestetty mukaan]]></phrase>
+  <phrase title="ordered_list" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Järjestetty lista]]></phrase>
   <phrase title="other" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Muu]]></phrase>
   <phrase title="other_currencies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Other currencies]]></phrase>
   <phrase title="other_devices_trusted_disable_desc" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Muihin laitteisiin luotetaan tällä hetkellä. Sinua ei pyydetä suorittamaan kaksivaiheista vahvistusta näiltä laitteilta. Jos olet menettänyt pääsyn luotettaviin laitteisiin, on suositeltavaa lopettaa näiden laitteiden luottaminen.]]></phrase>
@@ -9137,7 +9137,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="post_poll" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Luo äänestys]]></phrase>
   <phrase title="post_public_warning" addon_id="XF" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[Anna näkyvä varoitus]]></phrase>
   <phrase title="post_reactions" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Keskustelun reaktiot]]></phrase>
-  <phrase title="post_reply" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lähetä vastaus]]></phrase>
+  <phrase title="post_reply" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lähetä vastaus]]></phrase>
   <phrase title="post_thread" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Luo uusi keskustelu]]></phrase>
   <phrase title="post_thread_in" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Lähetä keskustelu...]]></phrase>
   <phrase title="post_verb" addon_id="XF" version_id="1040570" version_string="1.4.5"><![CDATA[Julkaise]]></phrase>
@@ -9218,10 +9218,10 @@ This also applies to MASTER phrases and code event listeners that begin with thi
 <h2> Muutokset tähän käytäntöön </h2>
 <p> Voimme tehdä muutoksia tähän käytäntöön milloin tahansa. Sinua saatetaan pyytää tarkistamaan ja hyväksymään uudelleen tämän käytännön tiedot, jos ne muuttuvat tulevaisuudessa. </p>]]></phrase>
   <phrase title="private" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Yksityinen]]></phrase>
-  <phrase title="private_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Private category]]></phrase>
+  <phrase title="private_category" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Yksityinen kategoria]]></phrase>
   <phrase title="private_category_hint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If selected, users will only be able to view this category if they are explicitly granted permissions.]]></phrase>
   <phrase title="private_key" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Private Key]]></phrase>
-  <phrase title="private_node" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Private node]]></phrase>
+  <phrase title="private_node" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Yksityinen solmu]]></phrase>
   <phrase title="privileges_and_status" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Privileges and Status]]></phrase>
   <phrase title="problem_accessing_resource_page" addon_id="AddOnInstaller" version_id="3" version_string="1.0 ALPHA 1"><![CDATA[There has been a problem accessing the Resource Manager page.]]></phrase>
   <phrase title="proceed" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Eteenpäin]]></phrase>
@@ -9229,7 +9229,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="processing_approval_queue" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Käsitellään hyväksyntäjonoa]]></phrase>
   <phrase title="processing_email_bounces" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Käsitellään sähköpostin ponnahduksia]]></phrase>
   <phrase title="processing_email_unsubscribe_requests" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Processing email unsubscribe requests]]></phrase>
-  <phrase title="profile_info" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Profiilin tiedot]]></phrase>
+  <phrase title="profile_info" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Profiilin tiedot]]></phrase>
   <phrase title="profile_post" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Profiiliviesti]]></phrase>
   <phrase title="profile_post_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post by {name}]]></phrase>
   <phrase title="profile_post_comment" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Profile Post Comment]]></phrase>
@@ -9290,7 +9290,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="push_one_account_upgrades_expired_renew_now" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[One of your account upgrades has expired. Renew now!]]></phrase>
   <phrase title="push_subscription_updated_successfully" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Push-tilauksen päivitys onnistui.]]></phrase>
   <phrase title="push_to_left" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Työnnä vasemmalle]]></phrase>
-  <phrase title="push_x_also_commented_on_ys_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} also commented on {poster}'s profile post.]]></phrase>
+  <phrase title="push_x_also_commented_on_ys_profile_post" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{name} myös kommentoi {poster} profiiliviestiin.]]></phrase>
   <phrase title="push_x_also_commented_on_ys_status" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} also commented on {poster}'s status.]]></phrase>
   <phrase title="push_x_commented_on_your_post_on_ys_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} commented on your post on {profile}'s profile.]]></phrase>
   <phrase title="push_x_commented_on_your_status" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} commented on your status.]]></phrase>
@@ -9298,7 +9298,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="push_x_mentioned_you_comment_on_ys_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} mentioned you in a comment on {profile}'s profile.]]></phrase>
   <phrase title="push_x_mentioned_you_message_on_ys_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} mentioned you in a message on {profile}'s profile.]]></phrase>
   <phrase title="push_x_reacted_to_your_comment_on_your_profile_post" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[{name} reagoi kommenttiisi profiiliviestissäsi reaktion {reaction} kanssa.]]></phrase>
-  <phrase title="push_x_reacted_to_your_comment_on_ys_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to your comment on {poster}'s profile post with {reaction}.]]></phrase>
+  <phrase title="push_x_reacted_to_your_comment_on_ys_profile_post" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{name} reagoi kommenttiin käyttäjän {poster} profiiliviestissä reaktiolla {reaction}.]]></phrase>
   <phrase title="push_x_reacted_to_your_post_on_ys_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to your post on {profile}'s profile with {reaction}.]]></phrase>
   <phrase title="push_x_reacted_to_your_status" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[{name} reagoi tilaasi {reaction}.]]></phrase>
   <phrase title="push_your_status_update_was_edited" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Your status update was edited.]]></phrase>
@@ -9393,7 +9393,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="reason" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Syy]]></phrase>
   <phrase title="reason_for_ban" addon_id="XF" version_id="1040870" version_string="1.4.8"><![CDATA[Syy porttikiellolle]]></phrase>
   <phrase title="reason_for_banning" addon_id="XF" version_id="1010370" version_string="1.1.3"><![CDATA[Porttikiellon syy]]></phrase>
-  <phrase title="reason_for_deletion" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Poiston syy]]></phrase>
+  <phrase title="reason_for_deletion" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Poiston syy]]></phrase>
   <phrase title="reassign" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Päätä uudelleen]]></phrase>
   <phrase title="rebuild" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Rakenna uudelleen]]></phrase>
   <phrase title="rebuild_attachment_thumbnails" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Rebuild Attachment Thumbnails]]></phrase>
@@ -9429,16 +9429,16 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="receive_site_mailings_option" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Vastaanota uutisia ja päivitys sähköposteja]]></phrase>
   <phrase title="receive_this_users_news_feed" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Vastaanota tämän jäsenen uutissyöte]]></phrase>
   <phrase title="receive_your_news_feed" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[voivat seurata uutisiasi]]></phrase>
-  <phrase title="received_by" addon_id="XF" version_id="1010270" version_string="1.1.2"><![CDATA[Lähettäjä]]></phrase>
+  <phrase title="received_by" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Vastaanottaja]]></phrase>
   <phrase title="received_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Received by {name}]]></phrase>
   <phrase title="received_unexpected_response_code_x_message_y" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[Received unexpected response code {code} ({message})]]></phrase>
-  <phrase title="receiving_member" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[vastaanottava jäsen]]></phrase>
+  <phrase title="receiving_member" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Vastaanottava jäsen]]></phrase>
   <phrase title="recent_content_by_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Viimeksi luotua sisältöä käyttäjältä {name}]]></phrase>
   <phrase title="recent_years_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Recent years are easy to guess.]]></phrase>
   <phrase title="recently_closed_reports" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Viimeksi suljettuja raportteja]]></phrase>
   <phrase title="recently_used" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Äskettäin käytetty]]></phrase>
   <phrase title="recentposts_recent_posts" addon_id="RecentPosts" version_id="1" version_string="2.1"><![CDATA[Viimeisimmät keskustelut]]></phrase>
-  <phrase title="recipient" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Recipient]]></phrase>
+  <phrase title="recipient" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Vastaanottaja]]></phrase>
   <phrase title="recipients" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Vastaanottajat]]></phrase>
   <phrase title="recurring_payments" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Recurring payments]]></phrase>
   <phrase title="recurring_payments_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[A payment will automatically be taken every time period to keep the upgrade active.<br />
@@ -9538,7 +9538,7 @@ Otherwise, the node will take 100% of the available horizontal space (full width
   <phrase title="reply_quoting_this_message" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Vastaa lainaten tätä viestiä]]></phrase>
   <phrase title="reply_to_conversation" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Vastaa keskusteluun]]></phrase>
   <phrase title="reply_to_conversation_at_x" addon_id="XF" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Reply to conversation at {boardTitle}]]></phrase>
-  <phrase title="reply_to_thread" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Vastaa keskusteluun]]></phrase>
+  <phrase title="reply_to_thread" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Vastaa keskusteluun]]></phrase>
   <phrase title="reply_to_watched_thread_x" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{title} - uusi vastaus seurattuun viestiin
 ]]></phrase>
   <phrase title="report" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Raportoi]]></phrase>
@@ -9620,11 +9620,11 @@ Content being reported:
   <phrase title="resource_url_must_be_this_format" addon_id="AddOnInstaller" version_id="1020000" version_string="1.2.0"><![CDATA[Resource Manager URLs must be in this format: <b>https://xenforo.com/community/resources/resource-name.1234/</b>]]></phrase>
   <phrase title="responsive_width" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Responsive width]]></phrase>
   <phrase title="restart_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Restart import]]></phrase>
-  <phrase title="restore" addon_id="XF" version_id="1040570" version_string="1.4.5"><![CDATA[Palauta]]></phrase>
+  <phrase title="restore" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Palauta]]></phrase>
   <phrase title="restore_dismissed_notices" addon_id="XF" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Palauta kuitatut huomautukset]]></phrase>
   <phrase title="restore_dismissed_notices_hint" addon_id="XF" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Voit palauttaa nähtäväksi aikaisemmin kuittaamasi huomautukset  valitsemalla tämän vaihtoehdon.
 ]]></phrase>
-  <phrase title="restored" addon_id="XF" version_id="1040570" version_string="1.4.5"><![CDATA[Palautti]]></phrase>
+  <phrase title="restored" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Palautettu]]></phrase>
   <phrase title="results" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Results]]></phrase>
   <phrase title="results_only_viewable_after_voting" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Results are only viewable after voting.]]></phrase>
   <phrase title="retain_content_ids" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Retain content IDs]]></phrase>
@@ -9847,7 +9847,7 @@ Content being reported:
   <phrase title="single_line_text_box" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Single-line text box]]></phrase>
   <phrase title="site_currently_being_upgraded" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Sivustoa päivitetään parhaillaan. Palaa myöhemmin uudelleen.]]></phrase>
   <phrase title="site_key" addon_id="XF" version_id="1040470" version_string="1.4.4"><![CDATA[Site Key]]></phrase>
-  <phrase title="site_title" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Site Title]]></phrase>
+  <phrase title="site_title" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Sivuston otsikko]]></phrase>
   <phrase title="site_url" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Site URL]]></phrase>
   <phrase title="sitemap" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Sitemap]]></phrase>
   <phrase title="sitemap_contents_can_be_controlled_via_sitemap_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The sitemap contents can be controlled via the <a href="admin.php?options/groups/sitemap/">XML sitemap generation</a> options.]]></phrase>
@@ -9920,7 +9920,7 @@ Content being reported:
   <phrase title="specified_url_cannot_be_embedded_as_media" addon_id="XF" version_id="1000270" version_string="1.0.2"><![CDATA[Antamaasi osoitetta ei voi liittää viestiin suoraan: liitä se pelkkänä linkkinä.
 ]]></phrase>
   <phrase title="specified_user_is_already_administrator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The specified user is already an administrator.]]></phrase>
-  <phrase title="specify_image" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Specify an Image]]></phrase>
+  <phrase title="specify_image" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Määritä kuva]]></phrase>
   <phrase title="spin_box" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Spin Box]]></phrase>
   <phrase title="spoiler" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Spoileri]]></phrase>
   <phrase title="spoiler_content_hidden" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spoiler content hidden.]]></phrase>
@@ -13262,7 +13262,7 @@ Callback arguments:
   <phrase title="x_reacted_to_your_post_on_ys_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to <a {post_attributes}>your post</a> on {profile}'s profile with {reaction}.]]></phrase>
   <phrase title="x_reacted_to_your_status" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[{name} reagoi <a {status_attributes}>tilaasi</a> reaktiolla {reaction}.]]></phrase>
   <phrase title="x_reacted_to_ys_comment_on_your_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to <a {post_params}>{poster}'s comment</a> on your profile post with {reaction}.]]></phrase>
-  <phrase title="x_reacted_to_ys_comment_on_zs_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to <a {post_params}>{poster}'s comment</a> on {profile}'s profile post with {reaction}.]]></phrase>
+  <phrase title="x_reacted_to_ys_comment_on_zs_profile_post" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{name} reagoi <a {post_params}>{poster} kommenttiin</a> {profile} profiiliviestissä reaktiolla {reaction}.]]></phrase>
   <phrase title="x_reacted_to_ys_message_in_the_conversation_z" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to <a {posterParams}>{poster}'s message</a> in the conversation {title} with {reaction}.]]></phrase>
   <phrase title="x_reacted_to_ys_post_in_the_thread_z" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[{name} reagoi <a {posterParams}>{poster}</a> viestiin keskustelussa {title} reaktiolla {reaction}.]]></phrase>
   <phrase title="x_reacted_to_ys_post_on_your_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to <a {post_params}>{poster}'s post</a> on your profile with {reaction}.]]></phrase>

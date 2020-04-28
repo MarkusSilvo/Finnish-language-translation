@@ -327,7 +327,7 @@
   <phrase title="admin_navigation.admins" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ylläpitäjät]]></phrase>
   <phrase title="admin_navigation.advertising" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Mainonta]]></phrase>
   <phrase title="admin_navigation.advertisingPositions" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Mainonnan sijainnit]]></phrase>
-  <phrase title="admin_navigation.alertUsers" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ilmoita käyttäjiä]]></phrase>
+  <phrase title="admin_navigation.alertUsers" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ilmoita käyttäjille]]></phrase>
   <phrase title="admin_navigation.analyzePermissions" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Analysoi käyttöoikeudet]]></phrase>
   <phrase title="admin_navigation.apiKeys" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[API-avaimet]]></phrase>
   <phrase title="admin_navigation.apiScopes" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API scopes]]></phrase>
@@ -461,7 +461,7 @@
   <phrase title="admin_navigation.th_imageoptimizer" addon_id="ThemeHouse/ImageOptimizer" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[Image optimizer]]></phrase>
   <phrase title="admin_navigation.th_nodeLayout_nodes" addon_id="ThemeHouse/Nodes" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Solmun ulkoasu ja muotoilu]]></phrase>
   <phrase title="admin_navigation.th_uix" addon_id="ThemeHouse/UIX" version_id="2010293" version_string="2.1.2 Patch Level 3"><![CDATA[ThemeHouse tyylit]]></phrase>
-  <phrase title="admin_navigation.th_unco_styles" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[TH] User Name Styles]]></phrase>
+  <phrase title="admin_navigation.th_unco_styles" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[[TH] User Name Styles]]></phrase>
   <phrase title="admin_navigation.threadContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread content]]></phrase>
   <phrase title="admin_navigation.threadFields" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Muokatut keskustelu kentät]]></phrase>
   <phrase title="admin_navigation.threadPrefixes" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Keskustelun etuliitteet]]></phrase>
@@ -1079,15 +1079,15 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="button.save" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Tallenna]]></phrase>
   <phrase title="button.search" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Etsi]]></phrase>
   <phrase title="button.show" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Näytä]]></phrase>
-  <phrase title="button.sort" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sort]]></phrase>
+  <phrase title="button.sort" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lajittele]]></phrase>
   <phrase title="button.submit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Submit]]></phrase>
   <phrase title="button.translate" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Käännä]]></phrase>
   <phrase title="button_manager_reset_it_is_not_possible_to_reverse_this_action" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[It is not possible to reverse this action. The button configuration for this toolbar will be reset to its default state.]]></phrase>
   <phrase title="button_removed" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Button removed]]></phrase>
   <phrase title="buttons_menus_may_not_be_duplicated" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Buttons and menus may not be duplicated.]]></phrase>
   <phrase title="by" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Tekijän]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_privacy_policy" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Rekisteröimällä hyväksyt <a href="{privacy}" target="_blank"> tietosuojakäytäntömme</a>.]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_terms_and_privacy_policy" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Rekisteröimällä hyväksyt <a href="{tos}" target="_blank"> ehdot</a> ja <a href="{privacy}" target="_blank"> tietosuojakäytäntömme</a>.]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_privacy_policy" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Rekisteröitymällä hyväksyt <a href="{privacy}" target="_blank"> tietosuojakäytäntömme</a>.]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_terms_and_privacy_policy" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Rekisteröitymällä hyväksyt <a href="{tos}" target="_blank"> ehdot</a> ja <a href="{privacy}" target="_blank"> tietosuojakäytäntömme</a>.]]></phrase>
   <phrase title="by_registering_you_agree_to_our_terms_and_rules" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Rekisteröitymällä hyväksyt tämän sivuston <a href="{tos}" target="_blank">Säännöt ja ehdot</a>.]]></phrase>
   <phrase title="by_url" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[URL-osoitteen mukaan]]></phrase>
   <phrase title="by_user_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[By {name}]]></phrase>
@@ -1468,7 +1468,7 @@ Jos olet muokannut näitä tiedostoja itse, voit ohittaa tämän viestin, muuten
   <phrase title="cron_entry.taigachatCleanUpDaily" addon_id="TaigaChat" version_id="7327" version_string="0.0.1"><![CDATA[TaigaChat Daily Clean Up]]></phrase>
   <phrase title="cron_entry.taigachatPublicHtml" addon_id="TaigaChat" version_id="20" version_string="1.0.0"><![CDATA[TaigaChat Rebuild Public HTML]]></phrase>
   <phrase title="cron_entry.th_imageOptimize" addon_id="ThemeHouse/ImageOptimizer" version_id="1010170" version_string="1.1.1"><![CDATA[[TH] Image Optimizer: Optimize images]]></phrase>
-  <phrase title="cron_entry.th_unco_regular_check" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Check user name styling validity]]></phrase>
+  <phrase title="cron_entry.th_unco_regular_check" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Tarkista käyttäjänimen muotoilun pätevyys]]></phrase>
   <phrase title="cron_entry.th_updateCheck_uix" addon_id="ThemeHouse/UIX" version_id="2000070" version_string="2.0.0"><![CDATA[[TH] UI.X: Check for updates]]></phrase>
   <phrase title="cron_entry.th_updateCurrent_holidays" addon_id="ThemeHouse/Holidays" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Update current holiday]]></phrase>
   <phrase title="cron_entry.trophy" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Päivitä käyttäjäpalkinnot]]></phrase>
@@ -6419,8 +6419,8 @@ This only controls the tab selection.  It will not automatically add a link to t
   <phrase title="notify_author_of_this_action" addon_id="XF" version_id="1040870" version_string="1.4.8"><![CDATA[Ilmoita tekijälle tästä toimenpiteestä.]]></phrase>
   <phrase title="notify_members_watching_destination_forum" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ilmoita kohdefoorumia seuraaville jäsenille]]></phrase>
   <phrase title="notify_thread_starter_of_this_action" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ilmoita keskustelun aloittajalle tästä toiminnasta.]]></phrase>
-  <phrase title="notify_user_if_action_was_taken" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Ilmoita käyttäjälle, jos toimenpiteisiin ryhdyttiin]]></phrase>
-  <phrase title="notify_user_of_this_action" addon_id="XF" version_id="1040870" version_string="1.4.8"><![CDATA[Ilmoita käyttäjälle tästä.]]></phrase>
+  <phrase title="notify_user_if_action_was_taken" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ilmoita käyttäjälle, jos toimenpiteisiin ryhdyttiin]]></phrase>
+  <phrase title="notify_user_of_this_action" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ilmoita käyttäjälle tästä.]]></phrase>
   <phrase title="number" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Number]]></phrase>
   <phrase title="number_of_users_matching_criteria" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Number of users matching criteria]]></phrase>
   <phrase title="numeric" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Numeerinen]]></phrase>
@@ -6507,7 +6507,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.SV_UA_TrackRobots" addon_id="SV/UserActivity" version_id="1000000" version_string="1.0.0"><![CDATA[Track Robots]]></phrase>
   <phrase title="option.UA_fillFactor" addon_id="SV/UserActivity" version_id="1000000" version_string="1.0.0"><![CDATA[Fill Factor]]></phrase>
   <phrase title="option.UA_pruneChance" addon_id="SV/UserActivity" version_id="1000000" version_string="1.0.0"><![CDATA[Prune Chance]]></phrase>
-  <phrase title="option.WhoHasVisted24Sort" addon_id="WhoHasVisited" version_id="1030702" version_string="1.3.8"><![CDATA[Sort By]]></phrase>
+  <phrase title="option.WhoHasVisted24Sort" addon_id="WhoHasVisited" version_id="0" version_string=""><![CDATA[Lajitteluperuste]]></phrase>
   <phrase title="option.acpSearchExclude" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Quick search content types]]></phrase>
   <phrase title="option.addBanUserGroup" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lisää käyttäjäryhmään kun kielto tapahtuu]]></phrase>
   <phrase title="option.adminRequireTfa" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Vaadi kaksivaiheinen vahvistus päästäksesi järjestelmänvalvojan ohjauspaneeliin]]></phrase>
@@ -6546,8 +6546,8 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.boardTitle" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Foorumin otsikko]]></phrase>
   <phrase title="option.boardUrl" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Foorumin URL-osoite]]></phrase>
   <phrase title="option.boardUrlCanonical" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable board URL canonicalization]]></phrase>
-  <phrase title="option.bookmarkSortBy" addon_id="Bookmark" version_id="1" version_string="1.2"><![CDATA[Sort By]]></phrase>
-  <phrase title="option.bookmarkSortOrder" addon_id="Bookmark" version_id="1" version_string="1.2"><![CDATA[Sort Order]]></phrase>
+  <phrase title="option.bookmarkSortBy" addon_id="Bookmark" version_id="0" version_string=""><![CDATA[Lajitteluperuste]]></phrase>
+  <phrase title="option.bookmarkSortOrder" addon_id="Bookmark" version_id="0" version_string=""><![CDATA[Lajittelujärjestys]]></phrase>
   <phrase title="option.bounceEmailAddress" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Bounce sähköpostiosoite]]></phrase>
   <phrase title="option.cakedayIcon" addon_id="Datio/Cakeday" version_id="1000012" version_string="v1.0.0-Alpha-2"><![CDATA[Cakeday icon]]></phrase>
   <phrase title="option.calendarEventsTodayPosition" addon_id="SidebarPositions" version_id="1" version_string="1.8"><![CDATA[Calendar Events Today Position]]></phrase>
@@ -6639,7 +6639,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.inactiveMembersMinimumDays" addon_id="InactiveMembers" version_id="1" version_string="1.0"><![CDATA[Minimum Days]]></phrase>
   <phrase title="option.inactiveMembersMinimumPosts" addon_id="InactiveMembers" version_id="1" version_string="1.0"><![CDATA[Minimum Posts]]></phrase>
   <phrase title="option.inactiveMembersShowAuthor" addon_id="InactiveMembers" version_id="1" version_string="3.6"><![CDATA[Show Author]]></phrase>
-  <phrase title="option.inactiveMembersSortForumTitles" addon_id="InactiveMembers" version_id="1" version_string="3.6"><![CDATA[Sort Forum Titles]]></phrase>
+  <phrase title="option.inactiveMembersSortForumTitles" addon_id="InactiveMembers" version_id="0" version_string=""><![CDATA[Lajittele fooruminimikkeet]]></phrase>
   <phrase title="option.inactiveMembersTestUserId" addon_id="InactiveMembers" version_id="1" version_string="3.6"><![CDATA[Test User ID]]></phrase>
   <phrase title="option.includeTitleInUrls" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lisää sisältö otsikko URL-osoitteisiin]]></phrase>
   <phrase title="option.indexRoute" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Hakemistosivun reitti]]></phrase>
@@ -6823,7 +6823,7 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.sv_threadcountcache_short" addon_id="SV/RedisCache" version_id="1010100" version_string="1.1.1"><![CDATA[Short Thread Count Expiry time]]></phrase>
   <phrase title="option.tagCloud" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Enable tag cloud with up to X tags:]]></phrase>
   <phrase title="option.tagCloudMinUses" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Vähimmäismäärä avainsana pilvi käyttöjä]]></phrase>
-  <phrase title="option.tagLength" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tagin pituusrajoitus]]></phrase>
+  <phrase title="option.tagLength" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Avainsanan pituusrajoitus]]></phrase>
   <phrase title="option.tagValidation" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tunnisteiden validointi]]></phrase>
   <phrase title="option.templateHistoryLength" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Mallin historian pituus (päivinä)]]></phrase>
   <phrase title="option.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Terms and rules last update]]></phrase>
@@ -6864,11 +6864,11 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.thuix_enableManifest" addon_id="ThemeHouse/UIX" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Enable manifest.json]]></phrase>
   <phrase title="option.thuix_enableStyleOptions" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Enable style options in user preferences]]></phrase>
   <phrase title="option.thuix_userStyleChangeStorage" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Remember user style changes]]></phrase>
-  <phrase title="option.thuix_webAppDescription" addon_id="ThemeHouse/UIX" version_id="2010293" version_string="2.1.2 Patch Level 3"><![CDATA[Web app description]]></phrase>
+  <phrase title="option.thuix_webAppDescription" addon_id="ThemeHouse/UIX" version_id="2010294" version_string="2.1.2 Patch Level 4"><![CDATA[Web-sovelluksen kuvaus]]></phrase>
   <phrase title="option.thuix_webAppDisplay" addon_id="ThemeHouse/UIX" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Web app display]]></phrase>
   <phrase title="option.thuix_webAppName" addon_id="ThemeHouse/UIX" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Web app name]]></phrase>
   <phrase title="option.thuix_webAppShortName" addon_id="ThemeHouse/UIX" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Web app short name]]></phrase>
-  <phrase title="option.thusernamecolor_disallowedColors" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Disallowed custom colors]]></phrase>
+  <phrase title="option.thusernamecolor_disallowedColors" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Kielletyt mukautetut värit]]></phrase>
   <phrase title="option.thxpresslite_auth_with_wp" addon_id="ThemeHouse/XPressLite" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[Authenticate with WordPress]]></phrase>
   <phrase title="option.thxpresslite_import_roles" addon_id="ThemeHouse/XPressLite" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[Import roles]]></phrase>
   <phrase title="option.thxpresslite_sync_roles" addon_id="ThemeHouse/XPressLite" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[&nbsp;]]></phrase>
@@ -7483,7 +7483,7 @@ Title also accepts pure HTML; see editor_ui.css for more icons.]]></phrase>
   <phrase title="option_explain.emailBounceHandler" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[This option allows the "Bounced Email Address" account to be automatically read and processed for bounced email reports. This will detect if emails sent to a user bounce, forcing the user to update their email address and preventing the system from emailing them until this happens. This can help reduce the chance of email sent from your board from being considered spam.<br />
 <br />
 This option will read and remove emails from the specified account when processing. It MUST be directed to an account whose sole purpose is collecting bounce emails from this XenForo installation. A value must be entered for the "Bounced Email Address" option.]]></phrase>
-  <phrase title="option_explain.emailConversationIncludeMessage" addon_id="XF" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[With this option enabled, notification emails sent to conversation recipients will contain the full text of the message about which they are being notified. With this option disabled, they will need to visit the forum to read the message.]]></phrase>
+  <phrase title="option_explain.emailConversationIncludeMessage" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kun tämä vaihtoehto on käytössä, keskustelun vastaanottajille lähetettävät ilmoitussähköpostit sisältävät sen viestin koko tekstin, josta heille ilmoitetaan. Kun tämä vaihtoehto on poistettu käytöstä, heidän on vierailtava foorumilla lukeakseen koko viestin sisällön.]]></phrase>
   <phrase title="option_explain.emailFileCheckWarning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If enabled, and no email address is provided, the warning emails will be sent to the <a href="admin.php?options/contactEmailAddress/view">contact email address</a>.]]></phrase>
   <phrase title="option_explain.emailLogDecode" addon_id="EmailLog" version_id="1" version_string="1.3"><![CDATA[Select this if English is not the default language.]]></phrase>
   <phrase title="option_explain.emailLogLimit" addon_id="EmailLog" version_id="1" version_string="1.3"><![CDATA[Limit the number of results to display.]]></phrase>
@@ -7496,7 +7496,7 @@ All threshold values are limited to bounces generated in the last 30 days.]]></p
   <phrase title="option_explain.emailUnsubscribeHandler" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[This option allows the "Unsubscribe email address" account to be automatically read and processed for unsubscribe email requests. Requests to this address will disable the "Receive news and update emails" option for users.<br />
 <br />
 This option will read and remove emails from the specified account when processing. It MUST be directed to an account whose sole purpose is collecting unsubscribe request emails from this XenForo installation. A value must be entered for the "Unsubscribe email address" option.]]></phrase>
-  <phrase title="option_explain.emailWatchedThreadIncludeMessage" addon_id="XF" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[With this option enabled, notification emails sent to users watching threads will contain the full text of the message about which they are being notified. With this option disabled, they will need to visit the forum to read the message.]]></phrase>
+  <phrase title="option_explain.emailWatchedThreadIncludeMessage" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kun tämä vaihtoehto on käytössä, keskusteluja/foorumeita seuraaville käyttäjille lähetettävät ilmoitussähköpostit sisältävät sen viestin koko tekstin, josta heille ilmoitetaan. Kun tämä vaihtoehto on poistettu käytöstä, heidän on vierailtava foorumilla lukeakseen koko viestin sisältö.]]></phrase>
   <phrase title="option_explain.emojiSource" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[If you have chosen a value above other than "native" (which will always be served from the device, if available) then you may choose from which source to serve the emoji artwork from.<br />
 <br />
 By default, we will always serve the graphics from the preferred CDN, though if you wanted to download the artwork and host it yourself, or use a different CDN, you can specify the path here.]]></phrase>
@@ -7504,39 +7504,37 @@ By default, we will always serve the graphics from the preferred CDN, though if 
 <br />
 <b>Note:</b> Image emojis will only be displayed in areas which support rich text input.]]></phrase>
   <phrase title="option_explain.enableMemberList" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos tämä on käytössä, henkilöt voivat selata aakkosellista käyttäjäluetteloa. Tällä voi olla vaikutuksia suorituskykyyn suuren määrän käyttäjien kanssa.]]></phrase>
-  <phrase title="option_explain.enableNewsFeed" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[With this option disabled, viewing the news feed will be completely disabled.]]></phrase>
+  <phrase title="option_explain.enableNewsFeed" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kun tämä vaihtoehto on poistettu käytöstä, uutissyötteen katseleminen poistetaan kokonaan käytöstä.]]></phrase>
   <phrase title="option_explain.enableNotices" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos et käytä ilmoitusjärjestelmää, voit poistaa sen kokonaan käytöstä ja tallentaa kyselyn istunnon luomiseen.]]></phrase>
   <phrase title="option_explain.enablePush" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos tämä on käytössä, käyttäjä voi tilata vastaanottaa ilmoituksensa laitteilla, jotka ovat yhteensopivia Push-sovellusliittymän kanssa. Käyttäjät voivat ottaa push-ilmoitukset käyttöön vain, jos he käyttävät yhteensopivaa laitetta. Tätä ominaisuutta tukee useimmat selaimet, paitsi macOS Safari ja kaikki iOS selaimet.<br />
 <br />
 <strong>Huomaa:</strong> Voit ottaa tämän vaihtoehdon käyttöön vain, jos käytät PHP 7.1 tai uudempaa, <a href = "https://secure.php.net/manual/en/book.gmp.php "target =" _ blank "> <code>gmp</code></a>, <a href =" https://secure.php.net/manual/en/book.mbstring.php "target =" _ blank " > <code> mbstring </code> </a> ja <a href="https://secure.php.net/manual/en/book.openssl.php" target="_blank"> <code> openssl </code> </a> -laajennukset käytössä ja HTTPS käytössä.]]></phrase>
   <phrase title="option_explain.enableSearch" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kun tämä vaihtoehto on poistettu käytöstä, hakukone ei toimi.]]></phrase>
   <phrase title="option_explain.enableTagging" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Tagging is a system that allows keywords to be applied to content to aid searching and content browsing.]]></phrase>
-  <phrase title="option_explain.enableTrophies" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[If enabled your users can be awarded <a href="admin.php?trophies/">trophies</a> for completing certain actions or reaching certain milestones. If disabled, the <a href="admin.php?user-title-ladder/">user title ladder</a> will no longer be able to use Trophy Points.]]></phrase>
+  <phrase title="option_explain.enableTrophies" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos tämä on käytössä, käyttäjillesi voidaan myöntää <a href="admin.php?trophies/">palkintoja</a> tiettyjen toimien suorittamisesta tai tiettyjen välitavoitteiden saavuttamisesta. Jos toiminto on poistettu käytöstä, <a href="admin.php?user-title-ladder/">käyttäjän otsikot</a> eivät enää voi käyttää palkintopisteitä.]]></phrase>
   <phrase title="option_explain.enableVerp" addon_id="XF" version_id="1040270" version_string="1.4.2"><![CDATA[If enabled, sent emails will include the recipient email address in the bounce address field. This enables more accurate and more secure automated bounce email handling. If using automated bounce processing, enabling this option is strongly recommended.<br />
 <br />
 This option requires that the specified bounce account is a catch-all account or supports a "+" as a wildcard separator (such as in Gmail). For example, if this option is enabled with a bounce address of bounce@example.com, the email might be returned to bounce+123abc+user=domain.com@example.com.]]></phrase>
-  <phrase title="option_explain.extraCaptchaKeys" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[This option can't be edited manually. It is edited only via the "captcha" option.]]></phrase>
-  <phrase title="option_explain.facebookLike" addon_id="XF" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[If this feature is enabled, a Facebook 'Like' or 'Recommend' button will be displayed on various pages including the thread view page, allowing Facebook users to 'Like' the page and in doing so, share it with their Facebook friends.<br />
-<br />
-<b>This feature does not require the Facebook application ID or application secret fields to be completed.</b>]]></phrase>
+  <phrase title="option_explain.extraCaptchaKeys" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tätä vaihtoehtoa ei voi muokata manuaalisesti. Sitä muokataan vain captcha-vaihtoehdon avulla.]]></phrase>
+  <phrase title="option_explain.facebookLike" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos tämä ominaisuus on käytössä, Facebook-painike näkyy useilla sivuilla, mukaan lukien keskusteluiden katselusivu, jolloin Facebook-käyttäjät voivat jakaa sen Facebook-ystäviensä kanssa.]]></phrase>
   <phrase title="option_explain.facebook_indexing_enabled" addon_id="tapatalk" version_id="60" version_string="2.4.2"><![CDATA[Deep-Linking Thread from Link in Facebook App.]]></phrase>
-  <phrase title="option_explain.floodCheckLength" addon_id="XF" version_id="0" version_string=""><![CDATA[Users will have to wait this many seconds between posting messages. Users with the permission "Can Bypass Flood Check" will be exempt from this option.]]></phrase>
+  <phrase title="option_explain.floodCheckLength" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Käyttäjien on odotettava näin monta sekuntia viestien lähettämisen välillä. Käyttäjät, joilla on lupa "Voi ohittaa tulvatarkistuksen", vapautetaan tästä vaihtoehdosta.]]></phrase>
   <phrase title="option_explain.floodCheckLengthDiscussion" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Users will have to wait this many seconds between posting new discussions (threads, conversations etc.). If this option is set to 0, the value for 'minimum time between messages' will be used.]]></phrase>
   <phrase title="option_explain.forumStatisticsPosition" addon_id="SidebarPositions" version_id="1" version_string="1.6"><![CDATA[idebar position for the XenForo Forum Statistics block.]]></phrase>
   <phrase title="option_explain.forumsDefaultPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When entering the forums section, this will be the default page users will be taken to. They will be able to access the alternative page via sub-navigation options.]]></phrase>
   <phrase title="option_explain.full_ads" addon_id="tapatalk" version_id="28" version_string="2.2.0"><![CDATA[Tapatalk will show a one-time welcome screen to mobile web users informing them to download and view your forum in the free app. This screen will contain your forum branding only along with a download button.]]></phrase>
   <phrase title="option_explain.full_banner" addon_id="tapatalk" version_id="26" version_string="2.1.1"><![CDATA[Tapatalk will show a smart banner to mobile users, when your forum is viewed by a mobile web browser. The smart banner will contain two buttons: "Open in app" and "Install".]]></phrase>
-  <phrase title="option_explain.geoLocationUrl" addon_id="XF" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[The URL specified here will be used to give information (such as a map) about a physical location. The URL must include a <strong>{location}</strong> token.]]></phrase>
+  <phrase title="option_explain.geoLocationUrl" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tässä määritettyä URL-osoitetta käytetään tietojen (kuten kartan) antamiseen fyysisestä sijainnista. URL-osoitteessa on oltava <strong>{location}</strong> -merkki.]]></phrase>
   <phrase title="option_explain.googleAnalyticsAnonymize" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[If Google Analytics is enabled above and you wish to anonymize IP addresses, you can enable this option.]]></phrase>
   <phrase title="option_explain.googleAnalyticsWebPropertyId" addon_id="XF" version_id="0" version_string=""><![CDATA[You may enter your <a href="http://code.google.com/apis/analytics/">Google Analytics</a> web property ID here to have the Analytics HTML automatically added to your public-facing pages.]]></phrase>
   <phrase title="option_explain.google_indexing_enabled" addon_id="tapatalk" version_id="60" version_string="2.4.2"><![CDATA[Deep-Linking Thread from Google Search Result.]]></phrase>
-  <phrase title="option_explain.gravatarEnable" addon_id="XF" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[If enabled, your users may source their avatars from <a href="http://www.gravatar.com" target="_blank">Gravatar</a>. When a new user registers, XenForo will automatically search for a Gravatar associated with their email address. If disabled, this will not remove Gravatars from users that already have them.]]></phrase>
+  <phrase title="option_explain.gravatarEnable" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos tämä on käytössä, käyttäjät voivat hankkia avatareja <a href="https://www.gravatar.com" target="_blank">Gravatarista</a>. Kun uusi käyttäjä rekisteröi, XenForo etsii automaattisesti Gravataria, joka liittyy heidän sähköpostiosoitteeseen. Jos tämä ei ole käytössä, tämä ei poista Gravatareja käyttäjiltä, joilla ne on jo.]]></phrase>
   <phrase title="option_explain.guestShowSignatures" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Voit piilottaa jäsenten allekirjoitukset maksimoidaksesi 'signaali-kohinasuhteesi' näytettäessä viestiketjuja vieraille.]]></phrase>
   <phrase title="option_explain.guestTimeZone" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kaikki päivämäärät ja ajat näytetään vieraille tässä aikavyöhykkeessä.]]></phrase>
   <phrase title="option_explain.hideForums" addon_id="tapatalk" version_id="28" version_string="2.2.0"><![CDATA[Hide forums and sub-forums you do not wish to be listed in Tapatalk]]></phrase>
   <phrase title="option_explain.homePageUrl" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tämä on kotisivusi URL-osoite foorumin ulkopuolella. Jos tämä jätetään tyhjäksi, 'Koti' ei tule näkyviin navigointiin.]]></phrase>
-  <phrase title="option_explain.imageCacheRefresh" addon_id="XF" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[If a value greater than 0 is entered, images cached by the image proxy will be refreshed after this many days have passed. This can be used in conjunction with a long cache lifetime to allow images to be updated periodically while retaining resilience against the image being removed. If a value of 0 is entered, images will only be updated when the cache entry expires.]]></phrase>
-  <phrase title="option_explain.imageCacheTTL" addon_id="XF" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[Enter the number of days that proxied images should be retained for, before they are removed from your system. If the image is re-requested after this time, it will automatically be fetched again. Use 0 to retain the images indefinitely.]]></phrase>
+  <phrase title="option_explain.imageCacheRefresh" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos syötetään arvo, joka on suurempi kuin 0, kuvan välityspalvelimen välimuistiin tallennetut kuvat päivitetään tämän monen päivän kuluttua. Tätä voidaan käyttää pitkän välimuistin käyttöiän ajan, jotta kuvia voidaan päivittää säännöllisesti säilyttäen samalla joustavuus poistettavaa kuvaa vastaan. Jos syötetään arvo 0, kuvat päivitetään vasta, kun välimuistin merkintä vanhenee.]]></phrase>
+  <phrase title="option_explain.imageCacheTTL" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Syötä päivien lukumäärä, jonka välityspalvelussa olevia kuvia tulisi säilyttää ennen niiden poistamista järjestelmästä. Jos kuvaa pyydetään uudelleen tämän ajan kuluttua, se haetaan automaattisesti uudestaan. Pidä kuvia rajoittamattomana antamalla arvoksi 0.]]></phrase>
   <phrase title="option_explain.imageLibrary" addon_id="XF" version_id="1000470" version_string="1.0.4"><![CDATA[XenForo can make use of various different image processing libraries to produce image thumbnails etc. Select your preferred library from the list above.]]></phrase>
   <phrase title="option_explain.imageLinkProxy" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[By enabling these options, you may proxy and cache images and links posted in messages through your own server, allowing tracking of clicks etc. Proxying of images is especially important if you are running your site through SSL (HTTPS).]]></phrase>
   <phrase title="option_explain.imageLinkProxyKey" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[If you have enabled the image or link proxy, this secret key will ensure that images and links are only proxied if the requests originated at your forum. If you find that links are being accessed via third-party sites, you can change this secret key to expire these links. All links stored on the forum will be automatically updated to use the new secret key.]]></phrase>
@@ -7554,9 +7552,9 @@ This option requires that the specified bounce account is a catch-all account or
   <phrase title="option_explain.inactiveMembersShowAuthor" addon_id="InactiveMembers" version_id="1" version_string="3.6"><![CDATA[Show thread author.]]></phrase>
   <phrase title="option_explain.inactiveMembersSortForumTitles" addon_id="InactiveMembers" version_id="1" version_string="3.9"><![CDATA[By default threads are sorted by most viewed only. To additionally sort by forum title, select this option.]]></phrase>
   <phrase title="option_explain.inactiveMembersTestUserId" addon_id="InactiveMembers" version_id="1" version_string="3.8"><![CDATA[To send a test email, enter User ID, click Save Changes and run Inactive Members Cron Entry manually. Enter 0 to disable this function.]]></phrase>
-  <phrase title="option_explain.includeTitleInUrls" addon_id="XF" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[With this disabled, a URL such as /threads/my-thread.128/ would exclude the title and be output as /threads/128/]]></phrase>
-  <phrase title="option_explain.indexRoute" addon_id="XF" version_id="1030470" version_string="1.3.4"><![CDATA[If you wish to change the default index page of the forums, you may enter the route path here. The route path is the section of the URL to a page after your main forum directory URL, such as forums/ or pages/page-name/. Do not reference a route filter here.]]></phrase>
-  <phrase title="option_explain.ipInfoUrl" addon_id="XF" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Specify a URL to be used for requesting more information about an IP address. The URL must include <strong>{ip}</strong>, which will be replaced with the actual IP address.]]></phrase>
+  <phrase title="option_explain.includeTitleInUrls" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tämän ollessa pois käytöstä, URL-osoite, kuten /threads/my-thread.128/, sulkee pois otsikon ja tulostetaan muodossa /threads/128/]]></phrase>
+  <phrase title="option_explain.indexRoute" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos haluat muuttaa foorumien oletushakemistosivua, voit kirjoittaa reitin polun tähän. Reittipolku on osa URL-osoitetta sivulle tärkeimmän foorumin hakemistosi URL-osoitteen jälkeen, kuten foorumi/ tai sivuilla sivu/sivun-nimi/. Älä viitaa tässä reittisuodattimeen.]]></phrase>
+  <phrase title="option_explain.ipInfoUrl" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Määritä URL-osoite, jota käytetään pyydettäessä lisätietoja IP-osoitteesta. URL-osoitteen tulee sisältää <strong>{ip}</strong>, joka korvataan todellisella IP-osoitteella.]]></phrase>
   <phrase title="option_explain.ipLogCleanUp" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Old IP logs are rarely useful and simply take up space. They can be pruned after a specified amount of time if desired.]]></phrase>
   <phrase title="option_explain.jQuerySource" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[Controls the source of the jQuery core JavaScript library. You may host this yourself (Local) or use one of the recommended CDN sources. Google and Microsoft both support HTTPS/SSL, but the jQuery CDN does not.]]></phrase>
   <phrase title="option_explain.jrahmy_deferJs_blacklist" addon_id="jrahmy_deferJs" version_id="220" version_string="2.2.0"><![CDATA[List a unique string of text from any script tags which should not be moved. Use a line break between items.<br><br>
@@ -7571,7 +7569,7 @@ In seconds.]]></phrase>
   <phrase title="option_explain.loginLimit" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos käyttäjä ei onnistu sisäänkirjautuessa vähintään 4 kertaa 15 minuutin aikana, tätä menetelmää käytetään estämään raa'at voimahyökkäykset.]]></phrase>
   <phrase title="option_explain.logoLink" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos koti-URL-osoite on annettu, valitse tämä vaihtoehto linkittääksesi pääsivun logon kyseiseen URL-osoitteeseen. Jos tätä vaihtoehtoa ei ole valittu, logo linkittää aina hakemistosivun alkuun.]]></phrase>
   <phrase title="option_explain.lostPasswordCaptcha" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Voit lisätä CAPTCHA-suojauksen lomakkeeseen, jotta robotit eivät tulvisi unohdettu salasana lomaketta.]]></phrase>
-  <phrase title="option_explain.lostPasswordTimeLimit" addon_id="XF" version_id="1000370" version_string="1.0.3"><![CDATA[To prevent flooding, you may require a delay between lost password requests. Enter a length of time in seconds that users must wait.]]></phrase>
+  <phrase title="option_explain.lostPasswordTimeLimit" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tulvien estämiseksi saatat vaatia viivettä kadonneiden salasanapyyntöjen välillä. Anna sekunneissa pituus, jonka käyttäjien on odotettava.]]></phrase>
   <phrase title="option_explain.maxContentSpamMessages" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Käyttäjien viestit tarkistetaan vain roskapostiksi, kunnes he ovat onnistuneesti lähettäneet tämän monen viestin. Poista kaikki roskapostitarkistukset käytöstä asettamalla arvoksi 0.]]></phrase>
   <phrase title="option_explain.maxContentTags" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[This controls the maximum number of tags that can be applied to a piece of content. Use 0 to disable this limit.]]></phrase>
   <phrase title="option_explain.maxContentTagsPerUser" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Beyond controlling the maximum number of tags on a piece of content, you can limit the number of tags each user may apply to prevent a single user from abusing the system. Use 0 to disable this limit.]]></phrase>
@@ -7643,18 +7641,18 @@ Example: http://www.domain.com/members/?type=likes]]></phrase>
   <phrase title="option_explain.recentPostsExcludeForums" addon_id="RecentPosts" version_id="1" version_string="1.0"><![CDATA[Enter the forum ID's you wish to exclude. Separate each forum ID with a comma.]]></phrase>
   <phrase title="option_explain.recentPostsLimit" addon_id="RecentPosts" version_id="1" version_string="1.0"><![CDATA[Limit the number of Recent Posts displayed in the sidebar.]]></phrase>
   <phrase title="option_explain.recentPostsPosition" addon_id="SidebarPositions" version_id="1" version_string="1.0"><![CDATA[Sidebar position for the Recent Posts add-on.]]></phrase>
-  <phrase title="option_explain.redditShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The Reddit <a href="https://www.reddit.com/buttons/" target="_blank">share button</a> allows your users to share your content quickly and easily directly to Reddit.]]></phrase>
+  <phrase title="option_explain.redditShare" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Reddit jako -painikkeen avulla käyttäjät voivat jakaa sisältösi nopeasti ja helposti suoraan Redditille.]]></phrase>
   <phrase title="option_explain.reg_url" addon_id="tapatalk" version_id="2" version_string="1.0.1"><![CDATA[Registration URL relative to your forum root path]]></phrase>
   <phrase title="option_explain.registrationCheckDnsBl" addon_id="XF" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Check IP addresses in DNS block lists when a new user registers to help prevent spam. If the StopForumSpam integration is not enabled, the Tornevall DNSBL will be checked.]]></phrase>
-  <phrase title="option_explain.registrationDefaults" addon_id="XF" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[In order to keep the registration form short, many preferences are not shown. This option allows you to set the default values for newly registered users.]]></phrase>
-  <phrase title="option_explain.registrationSetup" addon_id="XF" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="option_explain.registrationTimer" addon_id="XF" version_id="1010470" version_string="1.1.4"><![CDATA[Use this option to set a minimum number of seconds that a registration must take before being submitted. This can help prevent spam registrations. Use 0 to disable this option.]]></phrase>
+  <phrase title="option_explain.registrationDefaults" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Rekisteröintilomakkeen pitämiseksi lyhyenä monia asetuksia ei näytetä. Tämän vaihtoehdon avulla voit asettaa oletusarvot vasta rekisteröityneille käyttäjille.]]></phrase>
+  <phrase title="option_explain.registrationSetup" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Nämä perusasetukset luovat perustan uusille rekisteröinteille foorumiisi.]]></phrase>
+  <phrase title="option_explain.registrationTimer" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Käytä tätä asetusta asettaaksesi vähimmäis sekunttimäärän, joka rekisteröinnin on kestettävä ennen lähettämistä. Tämä voi auttaa estämään roskapostia rekisteröinneissä. Poista tämä vaihtoehto käytöstä asettamalla arvoksi 0.]]></phrase>
   <phrase title="option_explain.registrationWelcome" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.rellect_favicon_exclude" addon_id="rellect_favicon_for_links" version_id="9" version_string="2.1.0"><![CDATA[Note: the message setting includes several kinds of content (forum posts, profile posts, resources, etc..).]]></phrase>
   <phrase title="option_explain.rellect_nodes_grid_frontend_enabled" addon_id="rellect_nodes_grid" version_id="6" version_string="2.0.0b1"><![CDATA[Admins with permission to manage nodes will have a button to customize the grid from the front-end.<br />
 Untick this option to disable that.]]></phrase>
   <phrase title="option_explain.removePunctuations" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(2) Remove punctuations form search words. Separate each punctuation with a space.]]></phrase>
-  <phrase title="option_explain.reportIntoForumId" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If a forum is selected here, the report center will be disabled and a thread will be posted whenever content is reported.]]></phrase>
+  <phrase title="option_explain.reportIntoForumId" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos jokin foorumi valitaan tähän, raporttikeskus poistetaan käytöstä ja keskustelu lähetetään aina tänne, kun sisältö ilmoitetaan.]]></phrase>
   <phrase title="option_explain.romanizeUrls" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If selected, accented and non-Latin characters in a URL will be converted to Latin equivalents if possible.]]></phrase>
   <phrase title="option_explain.rootBreadcrumb" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Specify the navigation item that will serve as the 'root' of your breadcrumb list.]]></phrase>
   <phrase title="option_explain.satellitePosition" addon_id="SidebarPositions" version_id="1" version_string="1.0"><![CDATA[Sidebar position for the Satellite add-on.]]></phrase>
@@ -7672,7 +7670,7 @@ Untick this option to disable that.]]></phrase>
   <phrase title="option_explain.sharedIpsCheckLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When checking for other users having used the same IP addresses, this control limits the search to the last X days.]]></phrase>
   <phrase title="option_explain.shortcodeToEmoji" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[If enabled common <code>:short_code:</code> will be converted to emoji and, where supported, we will display suggestions as you type. If an emoji and smilie share the same short code, the smilie will be used.]]></phrase>
   <phrase title="option_explain.showEmojiInSmilieMenu" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[If enabled, the smilie menu will display a categorised list of all emoji in addition to your custom smilies.]]></phrase>
-  <phrase title="option_explain.showFirstCookieNotice" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Kun käyttäjä ensin näyttää sivun (ilman XenForo-evästeitä), jos se on käytössä, käyttäjä näkee ilmoituksen siitä, että tämä sivusto käyttää evästeitä ja käyttää evästeitä edelleen. Tämä vaihtoehto on tarkoitettu EU: n evästeasetusten noudattamisen helpottamiseksi.]]></phrase>
+  <phrase title="option_explain.showFirstCookieNotice" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kun vieras tarkastelee sivua, jos se on käytössä, vieras näkee ilmoituksen, jossa todetaan, että tämä sivusto käyttää evästeitä ja että evästeiden käyttö jatkuu. Tämä ilmoitus on hyväksyttävä, tai se jatkuu näytöllä. Tämän vaihtoehdon tarkoituksena on helpottaa EU:n evästelainsäädännön ja GDPR:n noudattamista.]]></phrase>
   <phrase title="option_explain.showMessageOnlineStatus" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[If enabled, messages will display an icon if the author is currently online.]]></phrase>
   <phrase title="option_explain.sidebarExtraOnePosition" addon_id="SidebarPositions" version_id="1" version_string="1.3"><![CDATA[Sidebar position for the Sidebar Extra One add-on.]]></phrase>
   <phrase title="option_explain.sidebarExtraTwoPosition" addon_id="SidebarPositions" version_id="1" version_string="1.3"><![CDATA[Sidebar position for the Sidebar Extra Two add-on.]]></phrase>
@@ -7717,7 +7715,7 @@ Note: if Show Below First Post and Show Below Quick Reply are both selected, sim
   <phrase title="option_explain.similarThreadsSimpleResults" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) If checked, results will be shown in a very simple data row.]]></phrase>
   <phrase title="option_explain.similarThreadsStopCharacters" addon_id="SimilarThreads" version_id="1" version_string="5.0"><![CDATA[Separate each character with a space.]]></phrase>
   <phrase title="option_explain.similarThreadsStopWords" addon_id="SimilarThreads" version_id="1" version_string="5.0"><![CDATA[Separate each word with a space.]]></phrase>
-  <phrase title="option_explain.sitemapAutoRebuild" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[If this option is enabled, the sitemap will be rebuilt automatically periodically. If this option is disabled, the sitemap will only be updated when it is rebuilt manually through <i>Tools &gt; Rebuild Caches</i>. The current sitemap can be accessed via <a href="sitemap.php">sitemap.php</a>.]]></phrase>
+  <phrase title="option_explain.sitemapAutoRebuild" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos tämä vaihtoehto on käytössä, sivukartta rakennetaan automaattisesti uudelleen määräajoin. Jos tämä vaihtoehto on poistettu käytöstä, sivukartta päivitetään vasta, kun se rakennetaan uudelleen manuaalisesti <i>Työkalut ja välimuistien uudelleenrakentaminen </i>. Nykyiseen sivukarttaan pääsee<a href="sitemap.php">sitemap.php</a> -sivulla.]]></phrase>
   <phrase title="option_explain.sitemapAutoSubmit" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Once a sitemap is built, if this option is enabled, the updated version will be automatically submitted to search engines. If this option is not enabled, search engines will only know about the sitemap if it is listed in robots.txt or if you manually submit it to them.]]></phrase>
   <phrase title="option_explain.sitemapExclude" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[If you wish to exclude certain content types from the sitemap, that can be done here. Note that content must be guest accessible to be included in the sitemap, regardless of this setting.]]></phrase>
   <phrase title="option_explain.sitemapExtraUrls" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[If desired, you may include additional URLs that would not otherwise be included in the sitemap. Place each URL on separate lines. Note that these URLs must match your board URL or they will not be included. Partial URLs will be converted to absolute URLs automatically.]]></phrase>
@@ -7801,7 +7799,7 @@ Note: if Show Below First Post and Show Below Quick Reply are both selected, sim
   <phrase title="option_explain.thuix_enableManifest" addon_id="ThemeHouse/UIX" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[This will add an app manifest to all pages to allow the forum to be saved as a web app.]]></phrase>
   <phrase title="option_explain.thuix_enableStyleOptions" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[This allows users with the appropriate permissions to override the above settings for collapsed sidebar and collapsed side navigation from their preferences page.]]></phrase>
   <phrase title="option_explain.thuix_userStyleChangeStorage" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Select how you would like user style changes (e.g. collapsed sidebar) to be remembered. User session data is deleted after a user has been inactive for 4 hours.]]></phrase>
-  <phrase title="option_explain.thuix_webAppDescription" addon_id="ThemeHouse/UIX" version_id="2010293" version_string="2.1.2 Patch Level 3"><![CDATA[This is the description used in the web app install prompt.]]></phrase>
+  <phrase title="option_explain.thuix_webAppDescription" addon_id="ThemeHouse/UIX" version_id="2010294" version_string="2.1.2 Patch Level 4"><![CDATA[Tätä kuvausta käytetään verkkosovelluksen asennuskehotteessa.]]></phrase>
   <phrase title="option_explain.thuix_webAppDisplay" addon_id="ThemeHouse/UIX" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[You can customize what browser UI is shown when your app is launched. For example, you can hide the address bar and browser chrome. Or you may want to go completely full screen.]]></phrase>
   <phrase title="option_explain.thuix_webAppName" addon_id="ThemeHouse/UIX" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[This is the name used in the web app install prompt. If a short name is not provided, this name is also used on the user's home screen, launcher, or other places where space may be limited.]]></phrase>
   <phrase title="option_explain.thuix_webAppShortName" addon_id="ThemeHouse/UIX" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[If not empty, this name is used instead of the web app name on the user's home screen, launcher, or other places where space may be limited.]]></phrase>
@@ -7815,7 +7813,7 @@ If a WordPress user is found, and a XenForo user for its email address exists, t
   <phrase title="option_explain.todaysBirthdaysCutoffDays" addon_id="TodaysBirthdays" version_id="1" version_string="1.0"><![CDATA[Members with last activity greater than X days will not have their birthdays shown.]]></phrase>
   <phrase title="option_explain.todaysBirthdaysPosition" addon_id="SidebarPositions" version_id="1" version_string="1.0"><![CDATA[Sidebar position for the Today's Birthdays add-on.]]></phrase>
   <phrase title="option_explain.tosForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[If you decide to <a href="admin.php?force-agreement/terms" target="_blank">Force terms and rules agreement</a> then the routes listed here will bypass being redirected to the force agreement page. The route path is the section of the URL to a page after your main forum directory URL, such as forums/ or pages/page-name/. Do not reference a route filter here.]]></phrase>
-  <phrase title="option_explain.tosUrl" addon_id="XF" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[This link will be shown in the footer and users will have to agree to the terms and rules during registration.]]></phrase>
+  <phrase title="option_explain.tosUrl" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tämä linkki näkyy alatunnisteessa, ja käyttäjien on hyväksyttävä ehdot ja säännöt rekisteröinnin aikana.]]></phrase>
   <phrase title="option_explain.tp_android_url" addon_id="tapatalk" version_id="15" version_string="1.5.2"><![CDATA[Enter your BYO App URL from Google Play, to be used on Android device]]></phrase>
   <phrase title="option_explain.tp_app_banner_msg" addon_id="tapatalk" version_id="15" version_string="1.5.2"><![CDATA[E.g. "Follow {your_forum_name} with {app_name} for [os_platform]". Do not change the [os_platform] tag as it is displayed dynamically based on user's device platform.]]></phrase>
   <phrase title="option_explain.tp_app_ios_id" addon_id="tapatalk" version_id="15" version_string="1.5.2"><![CDATA[Enter your product ID in Apple App Store, to be used on iPhone device]]></phrase>
@@ -8077,7 +8075,7 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
   <phrase title="option_group_description.basicBoard" addon_id="XF" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[]]></phrase>
   <phrase title="option_group_description.bdMails" addon_id="bdMails" version_id="1" version_string="0.9-dev"><![CDATA[]]></phrase>
   <phrase title="option_group_description.bdtagme" addon_id="bdTagMe" version_id="8" version_string="1.2.3"><![CDATA[]]></phrase>
-  <phrase title="option_group_description.boardActive" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Laita foorumisi päälle taikka pois täältä.]]></phrase>
+  <phrase title="option_group_description.boardActive" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Laita foorumi päälle ja pois täältä.]]></phrase>
   <phrase title="option_group_description.cakeday" addon_id="Datio/Cakeday" version_id="1000012" version_string="v1.0.0-Alpha-2"><![CDATA[Change the default cake icons and tweak other related options.]]></phrase>
   <phrase title="option_group_description.censoringOptions" addon_id="XF" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[User-generated text will be subject to the censorship rules you define here.]]></phrase>
   <phrase title="option_group_description.cf_detect" addon_id="cf_detect" version_id="1" version_string="1.0.0"><![CDATA[This add-on assigns the correct remote IP address if the originating IP address is from CloudFlare's network.]]></phrase>
@@ -8125,7 +8123,7 @@ Licensed to: markus.silvo@gmail.com]]></phrase>
   <phrase title="option_group_description.th_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.thconnectedaccountproviders" addon_id="ThemeHouse/ConnectedAccountProviders" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Options for the [TH] Connected Account Providers add-on.]]></phrase>
   <phrase title="option_group_description.thnodes" addon_id="ThemeHouse/Nodes" version_id="1000570" version_string="1.0.5"><![CDATA[Options for the [TH] Nodes add-on.]]></phrase>
-  <phrase title="option_group_description.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Options for the [TH] User Name Color add-on.]]></phrase>
+  <phrase title="option_group_description.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[[TH] User Name Color -lisäosan vaihtoehdot.]]></phrase>
   <phrase title="option_group_description.thxpresslite" addon_id="ThemeHouse/XPressLite" version_id="1000070" version_string="1.0.0"><![CDATA[Options for the [TH] XPress Forum User Bridge add-on.]]></phrase>
   <phrase title="option_group_description.uix" addon_id="uix" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Options for UI.X are here.]]></phrase>
   <phrase title="option_group_description.uix_adminCp" addon_id="uix" version_id="1000115" version_string="1.0.1 Dev Build 15"><![CDATA[]]></phrase>
@@ -8264,7 +8262,7 @@ Licensed to: markus.silvo@gmail.com]]></phrase>
   <phrase title="other_currencies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Other currencies]]></phrase>
   <phrase title="other_devices_trusted_disable_desc" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Muihin laitteisiin luotetaan tällä hetkellä. Sinua ei pyydetä suorittamaan kaksivaiheista vahvistusta näiltä laitteilta. Jos olet menettänyt pääsyn luotettaviin laitteisiin, on suositeltavaa lopettaa näiden laitteiden luottaminen.]]></phrase>
   <phrase title="other_languages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Other languages]]></phrase>
-  <phrase title="other_participants" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Other Participants]]></phrase>
+  <phrase title="other_participants" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Muut osallistujat]]></phrase>
   <phrase title="other_using_custom_css_class_name" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Other, using custom CSS class name]]></phrase>
   <phrase title="otherwise_insert_into_moderation_queue" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Otherwise, messages will be placed into the moderation queue.]]></phrase>
   <phrase title="outbound_email_test_body" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[<div>You are receiving this test email from {username} at {board}.</div>]]></phrase>
@@ -8280,7 +8278,7 @@ Licensed to: markus.silvo@gmail.com]]></phrase>
   <phrase title="overwrite_language" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Overwrite language]]></phrase>
   <phrase title="overwrite_language_id_explain" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Overwriting the language will only replace the phrases in the language. All other language properties will remain the same.]]></phrase>
   <phrase title="overwrite_style" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Overwrite style]]></phrase>
-  <phrase title="padding" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Padding]]></phrase>
+  <phrase title="padding" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Pehmustus]]></phrase>
   <phrase title="page" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Sivu]]></phrase>
   <phrase title="page_callback_explanation_html" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Voit määrittää tässä valinnaisesti PHP-takaisinkutsun hakeaksesi lisätietoja tai muuttaaksesi sivusi ohjaimen vastausta.<br />
 <br />
@@ -8504,7 +8502,7 @@ Takaisinkutsun argumentit:
   <phrase title="permission.profilePost_view" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[View profile posts]]></phrase>
   <phrase title="permission.profilePost_viewDeleted" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[View deleted profile posts]]></phrase>
   <phrase title="permission.profilePost_viewModerated" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[View moderated profile posts]]></phrase>
-  <phrase title="permission.profilePost_warn" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Give warnings on profile posts]]></phrase>
+  <phrase title="permission.profilePost_warn" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Anna varoitus profiiliviestistä]]></phrase>
   <phrase title="permission.recentPostsGroupID_recentPostsID" addon_id="RecentPosts" version_id="1" version_string="1.9"><![CDATA[Recent Posts]]></phrase>
   <phrase title="permission.searchLogGroupID_searchLogID" addon_id="SearchLog" version_id="1" version_string="1.6"><![CDATA[View Search Log]]></phrase>
   <phrase title="permission.signature_align" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Allow alignment changes]]></phrase>
@@ -8528,7 +8526,7 @@ Takaisinkutsun argumentit:
   <phrase title="permission.th_uix_showWelcomeSection" addon_id="ThemeHouse/UIX" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Show welcome section]]></phrase>
   <phrase title="permission.th_uix_togglePageWidth" addon_id="ThemeHouse/UIX" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Can toggle page width]]></phrase>
   <phrase title="permission.th_unco_bypassCustomColorRestrict" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Bypass custom color restrictions]]></phrase>
-  <phrase title="permission.th_unco_use" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Change user name style]]></phrase>
+  <phrase title="permission.th_unco_use" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Vaihda käyttäjänimen tyyli]]></phrase>
   <phrase title="permission.th_unco_useCustom" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Set custom user name color]]></phrase>
   <phrase title="permission.uix_canCollapseSidebar" addon_id="uix" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Can Collapse Sidebar]]></phrase>
   <phrase title="permission.uix_canUseStylerPanel" addon_id="uix" version_id="1000115" version_string="1.0.1 Dev Build 15"><![CDATA[Can Use AD Styler Panel]]></phrase>
@@ -9122,7 +9120,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="position_of_this_item_relative_to_other_nodes_with_same_parent" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The position of this item relative to other nodes with the same parent.]]></phrase>
   <phrase title="positive_integer" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Positive Integer]]></phrase>
   <phrase title="possible_choices" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Possible Choices]]></phrase>
-  <phrase title="possible_responses" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Mahdolliset vastaukset]]></phrase>
+  <phrase title="possible_responses" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Mahdolliset vastaukset]]></phrase>
   <phrase title="post_comment" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lähetä kommentti]]></phrase>
   <phrase title="post_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post date]]></phrase>
   <phrase title="post_edit_history" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Keskustelun muokkaus historia]]></phrase>
@@ -9146,9 +9144,8 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="posted_in_thread_x_in_forum_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posted in thread <a href="{postLink}">{threadTitle}</a> in forum <a href="{forumLink}">{forumTitle}</a>]]></phrase>
   <phrase title="posted_on_profile_post_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posted on profile post by <a href="{commentLink}">{user}</a>]]></phrase>
   <phrase title="posted_on_profile_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Posted on profile <a href="{profilePostLink}">{user}</a>]]></phrase>
-  <phrase title="posted_on_the_profile_of_member" addon_id="XF" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[Viesti löytyy jäsenen profiilista
-]]></phrase>
-  <phrase title="posting_user" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Lähettänyt käyttäjä]]></phrase>
+  <phrase title="posted_on_the_profile_of_member" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lähetetty jäsenprofiiliin]]></phrase>
+  <phrase title="posting_user" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lähettänyt käyttäjä]]></phrase>
   <phrase title="postings" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Uusimmat viestit]]></phrase>
   <phrase title="posts" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Viestejä]]></phrase>
   <phrase title="preferences" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Sivustoasetukset]]></phrase>
@@ -9220,7 +9217,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="private" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Yksityinen]]></phrase>
   <phrase title="private_category" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Yksityinen kategoria]]></phrase>
   <phrase title="private_category_hint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If selected, users will only be able to view this category if they are explicitly granted permissions.]]></phrase>
-  <phrase title="private_key" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Private Key]]></phrase>
+  <phrase title="private_key" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Yksityinen avain]]></phrase>
   <phrase title="private_node" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Yksityinen solmu]]></phrase>
   <phrase title="privileges_and_status" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Privileges and Status]]></phrase>
   <phrase title="problem_accessing_resource_page" addon_id="AddOnInstaller" version_id="3" version_string="1.0 ALPHA 1"><![CDATA[There has been a problem accessing the Resource Manager page.]]></phrase>
@@ -9232,10 +9229,10 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="profile_info" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Profiilin tiedot]]></phrase>
   <phrase title="profile_post" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Profiiliviesti]]></phrase>
   <phrase title="profile_post_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profile post by {name}]]></phrase>
-  <phrase title="profile_post_comment" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Profile Post Comment]]></phrase>
-  <phrase title="profile_post_comment_by_x" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Profile Post Comment by {username}]]></phrase>
+  <phrase title="profile_post_comment" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Profiiliviestien kommentti]]></phrase>
+  <phrase title="profile_post_comment_by_x" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Profiiliviestikommentin kirjoittanut {username}]]></phrase>
   <phrase title="profile_post_comment_reactions" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Profile post comment reactions]]></phrase>
-  <phrase title="profile_post_comments" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Profile Post Comments]]></phrase>
+  <phrase title="profile_post_comments" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Profiilikommentit]]></phrase>
   <phrase title="profile_post_for_x" addon_id="XF" version_id="0" version_string=""><![CDATA[Profiiliviesti käyttäjälle {username}]]></phrase>
   <phrase title="profile_post_reactions" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Profiili keskustelun reaktiot]]></phrase>
   <phrase title="profile_posts" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Profiiliviestit]]></phrase>
@@ -9259,8 +9256,8 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="provider" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Provider]]></phrase>
   <phrase title="provider_class" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Provider class]]></phrase>
   <phrase title="provider_id" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Provider ID]]></phrase>
-  <phrase title="proxy_images" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Proxy Images]]></phrase>
-  <phrase title="proxy_links" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Proxy Links]]></phrase>
+  <phrase title="proxy_images" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Proxy kuvia]]></phrase>
+  <phrase title="proxy_links" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Proxy linkit]]></phrase>
   <phrase title="public" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Julkinen]]></phrase>
   <phrase title="public_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Public navigation]]></phrase>
   <phrase title="public_templates" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Julkiset ulkoasut]]></phrase>
@@ -9303,7 +9300,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="push_x_reacted_to_your_status" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[{name} reagoi tilaasi {reaction}.]]></phrase>
   <phrase title="push_your_status_update_was_edited" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Your status update was edited.]]></phrase>
   <phrase title="question" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Kysymys]]></phrase>
-  <phrase title="question_and_answer_captchas" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Kysymys ja vastaus CAPTCHAt]]></phrase>
+  <phrase title="question_and_answer_captchas" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kysymys ja vastaus CAPTCHA(t)]]></phrase>
   <phrase title="question_is_active" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Kysymys on käytössä]]></phrase>
   <phrase title="questionthreads_activity_new_thread" addon_id="QuestionThreads" version_id="1000070" version_string="1.0.0"><![CDATA[{username} posted the question {threadTitle} in {forumTitle}.]]></phrase>
   <phrase title="questionthreads_activity_reply_thread" addon_id="QuestionThreads" version_id="1000070" version_string="1.0.0"><![CDATA[{username} replied to the question {threadTitle}.]]></phrase>
@@ -9350,7 +9347,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="quote_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quote messages]]></phrase>
   <phrase title="radio_buttons" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Radio Buttons]]></phrase>
   <phrase title="radius" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Radius]]></phrase>
-  <phrase title="rating" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Rating]]></phrase>
+  <phrase title="rating" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Luokitus]]></phrase>
   <phrase title="raw" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Raaka]]></phrase>
   <phrase title="raw_response" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Raaka vastaus]]></phrase>
   <phrase title="raw_statistics" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Raakatilastot]]></phrase>
@@ -9396,26 +9393,26 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="reason_for_deletion" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Poiston syy]]></phrase>
   <phrase title="reassign" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Päätä uudelleen]]></phrase>
   <phrase title="rebuild" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Rakenna uudelleen]]></phrase>
-  <phrase title="rebuild_attachment_thumbnails" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Rebuild Attachment Thumbnails]]></phrase>
-  <phrase title="rebuild_caches" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Rebuild Caches]]></phrase>
+  <phrase title="rebuild_attachment_thumbnails" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Uudelleenrakenna liitteiden pikkukuvat]]></phrase>
+  <phrase title="rebuild_caches" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Uudelleenrakenna välimuistit]]></phrase>
   <phrase title="rebuild_conversation_embed_metadata" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rebuild conversation embed metadata]]></phrase>
-  <phrase title="rebuild_conversations" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Rebuild Conversations]]></phrase>
-  <phrase title="rebuild_daily_statistics" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Rebuild Daily Statistics]]></phrase>
+  <phrase title="rebuild_conversations" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Uudelleenrakenna keskustelut]]></phrase>
+  <phrase title="rebuild_daily_statistics" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Uudelleenrakenna päivittäiset tilastot]]></phrase>
   <phrase title="rebuild_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rebuild forums]]></phrase>
   <phrase title="rebuild_likes_counted_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rebuild likes counted status]]></phrase>
-  <phrase title="rebuild_now" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Rebuild Now]]></phrase>
+  <phrase title="rebuild_now" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Uudelleenrakenna nyt]]></phrase>
   <phrase title="rebuild_poll_information" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Rakenna kyselyjen tiedot uudelleen]]></phrase>
   <phrase title="rebuild_position_and_post_counters" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Rebuild position and post counters]]></phrase>
   <phrase title="rebuild_post_embed_metadata" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rebuild post embed metadata]]></phrase>
   <phrase title="rebuild_profile_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rebuild profile posts]]></phrase>
   <phrase title="rebuild_reaction_score" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Rebuild reaction score]]></phrase>
   <phrase title="rebuild_reactions_counted_status" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Rebuild reactions counted status]]></phrase>
-  <phrase title="rebuild_search_index" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Rebuild Search Index]]></phrase>
+  <phrase title="rebuild_search_index" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Uudelleenrakenna haku Index]]></phrase>
   <phrase title="rebuild_sitemap" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rebuild sitemap]]></phrase>
   <phrase title="rebuild_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rebuild threads]]></phrase>
-  <phrase title="rebuild_trophies" addon_id="XF" version_id="1020170" version_string="1.2.1"><![CDATA[Rebuild Trophies]]></phrase>
-  <phrase title="rebuild_user_caches" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Rebuild User Caches]]></phrase>
-  <phrase title="rebuild_user_group_promotions" addon_id="XF" version_id="1020170" version_string="1.2.1"><![CDATA[Rebuild User Group Promotions]]></phrase>
+  <phrase title="rebuild_trophies" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Uudelleenrakenna saavutukset]]></phrase>
+  <phrase title="rebuild_user_caches" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Uudelleenrakenna käyttäjien välimuistit]]></phrase>
+  <phrase title="rebuild_user_group_promotions" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Uudelleenrakenna käyttäjien ryhmäylennykset]]></phrase>
   <phrase title="rebuilding" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Uudelleenrakennetaan]]></phrase>
   <phrase title="recaptcha_config_hint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No extra configuration is required for this CAPTCHA. But if you would like additional features, such as security preferences and analytics, you should get your own API keys from <a href="http://www.google.com/recaptcha" target="_blank">http://www.google.com/recaptcha</a> and enter them below.<br />
 <br />
@@ -9433,7 +9430,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="received_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Received by {name}]]></phrase>
   <phrase title="received_unexpected_response_code_x_message_y" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[Received unexpected response code {code} ({message})]]></phrase>
   <phrase title="receiving_member" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Vastaanottava jäsen]]></phrase>
-  <phrase title="recent_content_by_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Viimeksi luotua sisältöä käyttäjältä {name}]]></phrase>
+  <phrase title="recent_content_by_x" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Viimeksi luotua sisältöä käyttäjältä {name}]]></phrase>
   <phrase title="recent_years_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Recent years are easy to guess.]]></phrase>
   <phrase title="recently_closed_reports" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Viimeksi suljettuja raportteja]]></phrase>
   <phrase title="recently_used" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Äskettäin käytetty]]></phrase>
@@ -9494,7 +9491,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="rejected_user_log" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rejected user log]]></phrase>
   <phrase title="rejected_user_log_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rejected user log entry]]></phrase>
   <phrase title="rejected_users_will_not_be_deleted_user_state_will_be_set_to_rejected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rejected users will not be deleted but their user state will be set to 'rejected'. If a reason is provided above, it will be displayed when they next log in.]]></phrase>
-  <phrase title="related_twitter_account" addon_id="XF" version_id="1040470" version_string="1.4.4"><![CDATA[Liittyvä tili: @...]]></phrase>
+  <phrase title="related_twitter_account" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Liittyvä tili: @...]]></phrase>
   <phrase title="relevance" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Relevance]]></phrase>
   <phrase title="rellect_favicon_definition" addon_id="rellect_favicon_for_links" version_id="9" version_string="2.1.0"><![CDATA[Favicons are used as a visual reminder of the website identity.]]></phrase>
   <phrase title="rellect_favicon_external_links" addon_id="rellect_favicon_for_links" version_id="8" version_string="1.1.0"><![CDATA[External Links]]></phrase>
@@ -9528,7 +9525,7 @@ Otherwise, the node will take 100% of the available horizontal space (full width
   <phrase title="replace_all" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Replace all]]></phrase>
   <phrase title="replace_question" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Replace?]]></phrase>
   <phrase title="replace_route_must_start_with_route_prefix" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[The replace route must start with a route prefix.]]></phrase>
-  <phrase title="replace_with" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Replace With]]></phrase>
+  <phrase title="replace_with" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Korvataa seuraavan kanssa]]></phrase>
   <phrase title="replacement_mode" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Replacement Mode]]></phrase>
   <phrase title="replacement_optional" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Replacement (optional)]]></phrase>
   <phrase title="replies" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Vastauksia]]></phrase>
@@ -9536,7 +9533,7 @@ Otherwise, the node will take 100% of the available horizontal space (full width
   <phrase title="reply_count_between" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reply count between]]></phrase>
   <phrase title="reply_placeholder" addon_id="XF" version_id="1040570" version_string="1.4.5"><![CDATA[Kirjoita vastaus...]]></phrase>
   <phrase title="reply_quoting_this_message" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Vastaa lainaten tätä viestiä]]></phrase>
-  <phrase title="reply_to_conversation" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Vastaa keskusteluun]]></phrase>
+  <phrase title="reply_to_conversation" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Vastaa keskusteluun]]></phrase>
   <phrase title="reply_to_conversation_at_x" addon_id="XF" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Reply to conversation at {boardTitle}]]></phrase>
   <phrase title="reply_to_thread" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Vastaa keskusteluun]]></phrase>
   <phrase title="reply_to_watched_thread_x" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{title} - uusi vastaus seurattuun viestiin
@@ -9638,13 +9635,13 @@ Content being reported:
   <phrase title="revert_customized_value" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Revert customized value]]></phrase>
   <phrase title="revert_edits" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Palauta muokkaukset]]></phrase>
   <phrase title="revert_edits_within_last" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Revert edits within last]]></phrase>
-  <phrase title="revert_message_edits" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Revert Message Edits]]></phrase>
+  <phrase title="revert_message_edits" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Palauta viestin muokkaukset]]></phrase>
   <phrase title="reverting_edits" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reverting Edits]]></phrase>
   <phrase title="review" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Tarkista]]></phrase>
   <phrase title="review_selected_messages" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tarkista valittuja viestejä]]></phrase>
   <phrase title="rich_text_box" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rich text box]]></phrase>
   <phrase title="rich_text_editor_supports_four_button_configs" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The rich-text editor supports a total of four possible button configurations which are applied depending on the device viewport size.]]></phrase>
-  <phrase title="right" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Right]]></phrase>
+  <phrase title="right" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Oikea]]></phrase>
   <phrase title="right_to_left" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Right-to-left]]></phrase>
   <phrase title="rm_username_password_save_explain" addon_id="AddOnInstaller" version_id="11" version_string="1.0.0 RC5"><![CDATA[You can click "Remember Me" to save your XenForo username and password in the database. This is done at your own risk. Please remember (much like your SMTP settings) no effort is made to encrypt this sensitive credential. It is stored in the database as plain text.]]></phrase>
   <phrase title="rm_username_password_saved_explain" addon_id="AddOnInstaller" version_id="11" version_string="1.0.0 RC5"><![CDATA[You have already saved your XenForo username and password. If you wish to edit this, go to the <a href="admin.php?options/list/serviceProviders">External Service Providers</a> options group.]]></phrase>
@@ -9682,9 +9679,9 @@ Content being reported:
   <phrase title="s2_maximum_selected" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[You can only select {count} item(s).]]></phrase>
   <phrase title="s2_no_results" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Ei tuloksia.]]></phrase>
   <phrase title="s2_searching" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Etsii...]]></phrase>
-  <phrase title="save_and_exit" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Tallenna ja poistu]]></phrase>
+  <phrase title="save_and_exit" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tallenna ja poistu]]></phrase>
   <phrase title="save_as_default" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Tallenna oletukseksi]]></phrase>
-  <phrase title="save_draft" addon_id="XF" version_id="1040470" version_string="1.4.4"><![CDATA[Tallenna luonnos]]></phrase>
+  <phrase title="save_draft" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tallenna luonnos]]></phrase>
   <phrase title="save_drafts_every_x_seconds" addon_id="XF" version_id="1040470" version_string="1.4.4"><![CDATA[Tallenna luonnos joka X sekunnin jälkeen]]></phrase>
   <phrase title="save_update_settings" addon_id="AddOnInstaller" version_id="6" version_string="1.0.0"><![CDATA[Save Update Settings]]></phrase>
   <phrase title="scope_id" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Scope ID]]></phrase>
@@ -9701,7 +9698,7 @@ Content being reported:
   <phrase title="search_index" addon_id="XF" version_id="0" version_string=""><![CDATA[Hakuindeksi]]></phrase>
   <phrase title="search_logs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search logs]]></phrase>
   <phrase title="search_phrases" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Etsi lauseita]]></phrase>
-  <phrase title="search_profile_posts" addon_id="XF" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[Etsi profiileista]]></phrase>
+  <phrase title="search_profile_posts" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Etsi profiiliviesteistä]]></phrase>
   <phrase title="search_promotion_history" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Search Promotion History]]></phrase>
   <phrase title="search_results" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hakutulokset]]></phrase>
   <phrase title="search_results_for_query" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hakutulokset]]></phrase>
@@ -9767,7 +9764,7 @@ Content being reported:
   <phrase title="serve_from_preferred_cdn" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Serve from preferred CDN]]></phrase>
   <phrase title="server_did_not_respond_in_time_try_again" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Palvelin ei vastannut. Kokeile uudelleen.]]></phrase>
   <phrase title="server_environment_report" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Server environment report]]></phrase>
-  <phrase title="server_error_log" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Server Error Log]]></phrase>
+  <phrase title="server_error_log" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Palvelimen virheloki]]></phrase>
   <phrase title="server_error_occurred" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Palvelinvirhe. Kokeile uudelleen.]]></phrase>
   <phrase title="server_errors_have_been_logged" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Palvelinvirheitä on kirjattu. Ole hyvä ja tarkista nämä.]]></phrase>
   <phrase title="server_software" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Server software]]></phrase>
@@ -9882,9 +9879,9 @@ Content being reported:
   <phrase title="sort" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Lajittele]]></phrase>
   <phrase title="sort_admin_navigation" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Lajittele adminin navigointi]]></phrase>
   <phrase title="sort_by" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lajittele]]></phrase>
-  <phrase title="sort_categories" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sort categories]]></phrase>
+  <phrase title="sort_categories" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lajittele kategoriat]]></phrase>
   <phrase title="sort_direction" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Lajittele suunta]]></phrase>
-  <phrase title="sort_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sort navigation]]></phrase>
+  <phrase title="sort_navigation" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lajittele navigointi]]></phrase>
   <phrase title="sort_nodes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sort nodes]]></phrase>
   <phrase title="sort_order" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[Sort order]]></phrase>
   <phrase title="sort_reactions" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lajittele reaktiot]]></phrase>
@@ -11493,7 +11490,7 @@ Note: the value should be a number (without units).]]></phrase>
   <phrase title="suhosin_enabled" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Suhosin enabled]]></phrase>
   <phrase title="super_administrator" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Super Administrator]]></phrase>
   <phrase title="super_admins_have_all_admin_permissions_and_can_manage_other_admins" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Super-järjestelmänvalvojilla on kaikki järjestelmänvalvojan oikeudet ja he voivat hallita muita ylläpitäjiä.]]></phrase>
-  <phrase title="super_admins_will_not_be_updated" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Super admins will not be updated.]]></phrase>
+  <phrase title="super_admins_will_not_be_updated" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ylläpitäjiä ei päivitetä.]]></phrase>
   <phrase title="super_moderator" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Super moderaattori]]></phrase>
   <phrase title="super_moderator_can_moderate_entire_board" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[A super moderator can moderate the entire board.]]></phrase>
   <phrase title="super_moderators" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Super moderaattorit]]></phrase>
@@ -11509,7 +11506,7 @@ Viesti lähetetään osoitteeseen {email}.]]></phrase>
   <phrase title="table_prefix_incorrect_try_x" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[The specified table prefix is not correct, but the following prefixes were found in the database - try one of these:<br />
 <br />
 <code>{prefixlist}</code>]]></phrase>
-  <phrase title="table_prefix_or_database_name_is_not_correct" addon_id="XF" version_id="0" version_string=""><![CDATA[The table prefix or database name is not correct.]]></phrase>
+  <phrase title="table_prefix_or_database_name_is_not_correct" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Taulukon etuliite tai tietokannan nimi ei ole oikein.]]></phrase>
   <phrase title="tabs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tabs]]></phrase>
   <phrase title="tag" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Tag]]></phrase>
   <phrase title="tag_contains" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Tag contains]]></phrase>
@@ -11532,7 +11529,7 @@ Viesti lähetetään osoitteeseen {email}.]]></phrase>
   <phrase title="tapatalk_get_user_info" addon_id="tapatalk" version_id="61" version_string="2.4.2"><![CDATA[[Käyttäen Tapatalkkia]Katsomassa jäsenen profiilia]]></phrase>
   <phrase title="tapatalk_latest" addon_id="tapatalk" version_id="61" version_string="2.4.2"><![CDATA[[Käyttäen Tapatalkkia]Katsomassa viimeisintä sisältöä]]></phrase>
   <phrase title="tapatalk_search" addon_id="tapatalk" version_id="61" version_string="2.4.2"><![CDATA[[Käyttäen Tapatalkkia]Etsimässä]]></phrase>
-  <phrase title="target_tag" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Target Tag]]></phrase>
+  <phrase title="target_tag" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kohde avainsana]]></phrase>
   <phrase title="target_user" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Target user]]></phrase>
   <phrase title="tckHCaptchaIntegration_hcaptcha_config_hint" addon_id="TickTackk/hCaptchaIntegration" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Sinun olisi hankittava omat API-avaimet <a href="https://dashboard.hcaptcha.com/" target="_blank">hCaptcha-hallintapaneelista</a> ja kirjoitettava ne alle.]]></phrase>
   <phrase title="tckHCaptchaIntegration_use_hcaptcha" addon_id="TickTackk/hCaptchaIntegration" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Käytä hCAPTCHA]]></phrase>
@@ -11549,7 +11546,7 @@ Viesti lähetetään osoitteeseen {email}.]]></phrase>
   <phrase title="template_modification_test" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Template Modification Test]]></phrase>
   <phrase title="template_modification_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template modification type]]></phrase>
   <phrase title="template_modifications" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Template Modifications]]></phrase>
-  <phrase title="template_name" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Template Name]]></phrase>
+  <phrase title="template_name" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Mallin nimi]]></phrase>
   <phrase title="template_search_results" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Template Search Results]]></phrase>
   <phrase title="template_status" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Mallin tila]]></phrase>
   <phrase title="template_style_properties_must_define_template_and_type_via_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template style properties must define a template and type via the value parameters.]]></phrase>
@@ -11651,7 +11648,7 @@ Viesti lähetetään osoitteeseen {email}.]]></phrase>
   <phrase title="th_cap_reddit_client_id_explain" addon_id="ThemeHouse/ConnectedAccountProviders" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The client ID that is associated with your <a href="https://www.reddit.com/prefs/apps" target="_blank">Reddit application</a> for this domain.]]></phrase>
   <phrase title="th_cap_reddit_client_secret_explain" addon_id="ThemeHouse/ConnectedAccountProviders" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The secret for the Reddit application you created for this domain.]]></phrase>
   <phrase title="th_cap_secure_key" addon_id="ThemeHouse/ConnectedAccountProviders" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Secure key]]></phrase>
-  <phrase title="th_cap_sort_providers" addon_id="ThemeHouse/ConnectedAccountProviders" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Sort connected account providers]]></phrase>
+  <phrase title="th_cap_sort_providers" addon_id="ThemeHouse/ConnectedAccountProviders" version_id="1000070" version_string="1.0.0"><![CDATA[Lajittele kytkettyjen tilien tarjoajat]]></phrase>
   <phrase title="th_cap_spotify_client_id_explain" addon_id="ThemeHouse/ConnectedAccountProviders" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The client ID that is associated with your <a href="https://developer.spotify.com/dashboard/applications" target="_blank">Spotify application</a> for this domain.]]></phrase>
   <phrase title="th_cap_spotify_client_secret_explain" addon_id="ThemeHouse/ConnectedAccountProviders" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The secret for the Spotify application you created for this domain.]]></phrase>
   <phrase title="th_cap_steam_api_key_explain" addon_id="ThemeHouse/ConnectedAccountProviders" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Your <a href="https://steamcommunity.com/dev/apikey" target="_blank">Steam api key</a> for this domain.]]></phrase>
@@ -11849,35 +11846,35 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="th_uix_replied" addon_id="ThemeHouse/UIX" version_id="2010292" version_string="2.1.2 Patch Level 2"><![CDATA[vastasi]]></phrase>
   <phrase title="th_uix_sp_upload_allowed_file_types" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[Allowed file extensions are: .jpg, .jpeg, .jpe, .png, .gif]]></phrase>
   <phrase title="th_uix_upload_style_property_image" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[Upload style property image]]></phrase>
-  <phrase title="th_unco_add_style" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Add style]]></phrase>
-  <phrase title="th_unco_add_user_name_style" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Add user name style]]></phrase>
-  <phrase title="th_unco_available_if" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Available if]]></phrase>
-  <phrase title="th_unco_color_is_not_allowed_or_valid" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Custom name color is not allowed or invalid.]]></phrase>
-  <phrase title="th_unco_custom_color" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Custom color]]></phrase>
-  <phrase title="th_unco_custom_name_color_blue_value_at_least_x" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User name custom color blue share is at least X]]></phrase>
-  <phrase title="th_unco_custom_name_color_blue_value_no_more_than_x" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User name custom color blue share is no more than X]]></phrase>
-  <phrase title="th_unco_custom_name_color_green_value_at_least_x" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User name custom color green share is at least X]]></phrase>
-  <phrase title="th_unco_custom_name_color_green_value_no_more_than_x" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User name custom color green share is no more than X]]></phrase>
-  <phrase title="th_unco_custom_name_color_red_value_at_least_x" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User name custom color red share is at least X]]></phrase>
-  <phrase title="th_unco_custom_name_color_red_value_no_more_than_x" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User name custom color red share is no more than X]]></phrase>
-  <phrase title="th_unco_custom_name_style_invalid" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Custom name style is invalid.]]></phrase>
-  <phrase title="th_unco_default_none" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Default (none)]]></phrase>
-  <phrase title="th_unco_edit_user_name_style" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Edit user name style]]></phrase>
-  <phrase title="th_unco_no_styles_have_been_created_yet" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[No styles have been created yet.]]></phrase>
-  <phrase title="th_unco_sort_user_name_styles" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Sort user name styles]]></phrase>
-  <phrase title="th_unco_styling" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Styling]]></phrase>
-  <phrase title="th_unco_user_has_color_preset" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User has a name style]]></phrase>
-  <phrase title="th_unco_user_has_custom_color" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User has a custom name color]]></phrase>
-  <phrase title="th_unco_user_has_no_user_name_color" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User does NOT have a name color]]></phrase>
+  <phrase title="th_unco_add_style" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Lisää tyyli]]></phrase>
+  <phrase title="th_unco_add_user_name_style" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Lisää käyttäjänimen tyyli]]></phrase>
+  <phrase title="th_unco_available_if" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Saatavilla jos]]></phrase>
+  <phrase title="th_unco_color_is_not_allowed_or_valid" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Muokatun nimen väri ei ole sallittu tai virheellinen.]]></phrase>
+  <phrase title="th_unco_custom_color" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Muokattu väri]]></phrase>
+  <phrase title="th_unco_custom_name_color_blue_value_at_least_x" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjätunnuksen mukautettu väri sininen osuus on vähintään X]]></phrase>
+  <phrase title="th_unco_custom_name_color_blue_value_no_more_than_x" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjätunnuksen mukautettu väri sininen osuus on enintään X]]></phrase>
+  <phrase title="th_unco_custom_name_color_green_value_at_least_x" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjätunnuksen mukautetun värinvihreä osuus on vähintään X]]></phrase>
+  <phrase title="th_unco_custom_name_color_green_value_no_more_than_x" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjänimen mukautettu väri vihreä osuus on enintään X]]></phrase>
+  <phrase title="th_unco_custom_name_color_red_value_at_least_x" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjänimen mukautettu väri punainen osuus on vähintään X]]></phrase>
+  <phrase title="th_unco_custom_name_color_red_value_no_more_than_x" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjänimen mukautettu punainen punainen osuus on enintään X]]></phrase>
+  <phrase title="th_unco_custom_name_style_invalid" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Muokattu nimityyli on virheellinen.]]></phrase>
+  <phrase title="th_unco_default_none" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Oletus (ei mitään)]]></phrase>
+  <phrase title="th_unco_edit_user_name_style" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Muokkaa käyttäjätunnustyyliä]]></phrase>
+  <phrase title="th_unco_no_styles_have_been_created_yet" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Tyylejä ei ole vielä luotu.]]></phrase>
+  <phrase title="th_unco_sort_user_name_styles" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Lajittele käyttäjänimen tyylit]]></phrase>
+  <phrase title="th_unco_styling" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Muotoilu]]></phrase>
+  <phrase title="th_unco_user_has_color_preset" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjällä on nimityyli]]></phrase>
+  <phrase title="th_unco_user_has_custom_color" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjällä on mukautettu nimen väri]]></phrase>
+  <phrase title="th_unco_user_has_no_user_name_color" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjällä EI ole nimen väriä]]></phrase>
   <phrase title="th_unco_user_has_user_name_color" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User has a name color]]></phrase>
-  <phrase title="th_unco_user_name_color" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User name color]]></phrase>
-  <phrase title="th_unco_user_name_color_style_not_one_of" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User name style is NOT one of the following]]></phrase>
-  <phrase title="th_unco_user_name_color_style_one_of" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[User name style is one of the following]]></phrase>
-  <phrase title="th_unco_user_name_style.2" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Red]]></phrase>
-  <phrase title="th_unco_user_name_style.3" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[Gold]]></phrase>
-  <phrase title="th_unco_user_name_style_options" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[User name style options]]></phrase>
-  <phrase title="th_unco_user_name_styles" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[User name styles]]></phrase>
-  <phrase title="th_unco_user_name_styling" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[User name styling]]></phrase>
+  <phrase title="th_unco_user_name_color" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjänimen väri]]></phrase>
+  <phrase title="th_unco_user_name_color_style_not_one_of" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjätunnustyyli EI ole yksi seuraavista]]></phrase>
+  <phrase title="th_unco_user_name_color_style_one_of" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjätunnustyyli on yksi seuraavista]]></phrase>
+  <phrase title="th_unco_user_name_style.2" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Punainen]]></phrase>
+  <phrase title="th_unco_user_name_style.3" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Kulta]]></phrase>
+  <phrase title="th_unco_user_name_style_options" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjätunnuksen tyylivaihtoehdot]]></phrase>
+  <phrase title="th_unco_user_name_styles" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjätunnuksen tyylit]]></phrase>
+  <phrase title="th_unco_user_name_styling" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[Käyttäjänimen muotoilu]]></phrase>
   <phrase title="th_use_custom_value_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Use custom value]]></phrase>
   <phrase title="th_use_default_value_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use default value]]></phrase>
   <phrase title="th_version_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Version]]></phrase>
@@ -12037,7 +12034,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="this_user_will_be_deleted" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[This user will be deleted.]]></phrase>
   <phrase title="this_user_will_receive_promotion_when_meets_requirements" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[This user will receive this promotion when he or she meets the requirements.]]></phrase>
   <phrase title="this_users_profile_is_not_available" addon_id="XF" version_id="1040570" version_string="1.4.5"><![CDATA[Tämän käyttäjän profiili ei ole saatavilla.]]></phrase>
-  <phrase title="this_widget_is_currently_used_in_x_positions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This widget is currently used in {positions} position(s).]]></phrase>
+  <phrase title="this_widget_is_currently_used_in_x_positions" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tätä vimpainta käytetään tällä hetkellä {position} sijainneissa.]]></phrase>
   <phrase title="this_will_allow_other_people_to_see_what_page_you_currently_viewing" addon_id="XF" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Näytä muille, mitä sivua tarkastelet juuri nyt.
 
 ]]></phrase>
@@ -12141,7 +12138,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="thuix_no_compatible_style_versions" addon_id="ThemeHouse/UIX" version_id="2010054" version_string="2.1.0 Release Candidate 4"><![CDATA[There are no versions of this style that are compatible with your currently installed version of XenForo. If this version of XenForo has recently been released, please try again later.]]></phrase>
   <phrase title="thuix_platform" addon_id="ThemeHouse/UIX" version_id="2000670" version_string="2.0.6"><![CDATA[Platform]]></phrase>
   <phrase title="thuix_registered_users_only" addon_id="ThemeHouse/UIX" version_id="2001070" version_string="2.0.10"><![CDATA[Registered users only]]></phrase>
-  <phrase title="thuix_share_this_page" addon_id="ThemeHouse/UIX" version_id="2010293" version_string="2.1.2 Patch Level 3"><![CDATA[Share this page]]></phrase>
+  <phrase title="thuix_share_this_page" addon_id="ThemeHouse/UIX" version_id="2010294" version_string="2.1.2 Patch Level 4"><![CDATA[Jaa tämä sivu]]></phrase>
   <phrase title="thuix_show_postbit_by_default" addon_id="ThemeHouse/UIX" version_id="2010232" version_string="2.1.2 Beta 2"><![CDATA[Show postbit by default]]></phrase>
   <phrase title="thuix_show_postbit_by_default_hint" addon_id="ThemeHouse/UIX" version_id="2010232" version_string="2.1.2 Beta 2"><![CDATA[If the selected style includes a collapsible postbit, this will show the postbit on all posts by default.]]></phrase>
   <phrase title="thuix_show_side_navigation_by_default" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Show side navigation by default]]></phrase>
@@ -12506,9 +12503,9 @@ If you have made changes and you continue, you will lose your customizations to 
   <phrase title="uix_zip_extension_not_installed" addon_id="uix" version_id="1000102" version_string="1.0.1 Dev Build 2"><![CDATA[It appears that your server does not have the Zip extension installed. Please install the style manually, or ask your host to enable the PHP Zip extension.]]></phrase>
   <phrase title="unable_edit_master_embed_html_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You are unable to modify the "Master" version of this template. To make changes, you should edit the relevant template in each style.]]></phrase>
   <phrase title="unanswered_threads" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Vastaamattomat keskustelut]]></phrase>
-  <phrase title="unapprove" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Unapprove]]></phrase>
-  <phrase title="unapprove_posts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Alä hyväksy viestejä]]></phrase>
-  <phrase title="unapprove_threads" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Älä hyväksy keskusteluja]]></phrase>
+  <phrase title="unapprove" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Peruuta hyväksyntä]]></phrase>
+  <phrase title="unapprove_posts" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Älä hyväksy viestejä]]></phrase>
+  <phrase title="unapprove_threads" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Älä hyväksy keskusteluja]]></phrase>
   <phrase title="unassign" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Ei päätetty]]></phrase>
   <phrase title="unassociated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unassociated]]></phrase>
   <phrase title="unban_users" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Poista kiellot käyttäjiltä]]></phrase>
@@ -12518,7 +12515,7 @@ If you have made changes and you continue, you will lose your customizations to 
   <phrase title="underline" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Alleviivattu]]></phrase>
   <phrase title="undiscourage_users" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Undiscourage users]]></phrase>
   <phrase title="undo" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Kumoa]]></phrase>
-  <phrase title="uneditable_tags" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Uneditable Tags]]></phrase>
+  <phrase title="uneditable_tags" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Muokkaamattomat tunnisteet]]></phrase>
   <phrase title="unexpected_contents" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Odottamatonta sisältöä]]></phrase>
   <phrase title="unexpected_error_occurred" addon_id="XF" version_id="1010370" version_string="1.1.3"><![CDATA[Yhteysvirhe palvelimelle, kokeile uudelleen hetken kuluttua.]]></phrase>
   <phrase title="unfollow" addon_id="XF" global_cache="1" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Lopeta seuraaminen]]></phrase>
@@ -12526,7 +12523,7 @@ If you have made changes and you continue, you will lose your customizations to 
   <phrase title="unfortunately_report_made_recently_rejected" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Unfortunately, your recent report was rejected: {title}]]></phrase>
   <phrase title="unfortunately_report_made_recently_rejected_comment_x" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Unfortunately, your recent report has been rejected: {title} - {comment}]]></phrase>
   <phrase title="ungrouped" addon_id="XF" global_cache="1" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Ungrouped]]></phrase>
-  <phrase title="ungrouped_permissions" addon_id="XF" version_id="1000270" version_string="1.0.2"><![CDATA[Ungrouped Permissions]]></phrase>
+  <phrase title="ungrouped_permissions" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ryhmittelemättömät käyttöoikeudet]]></phrase>
   <phrase title="ungrouped_properties" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ungrouped properties]]></phrase>
   <phrase title="unignore" addon_id="XF" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[Huomioi jäsen]]></phrase>
   <phrase title="uninstall" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Poista]]></phrase>
@@ -12562,7 +12559,7 @@ If you have made changes and you continue, you will lose your customizations to 
   <phrase title="unlock_threads" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Avaa keskustelut]]></phrase>
   <phrase title="unlocked" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Avattu]]></phrase>
   <phrase title="unmodified" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Muokkaamaton]]></phrase>
-  <phrase title="unordered_list" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Järjestämätön lista]]></phrase>
+  <phrase title="unordered_list" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Järjestämätön lista]]></phrase>
   <phrase title="unread_conversations" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Lukemattomat keskustelut]]></phrase>
   <phrase title="unread_threads" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Lukemattomat keskustelut]]></phrase>
   <phrase title="unsigned_integer" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Allekirjoittamaton kokonaisluku]]></phrase>

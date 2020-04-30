@@ -1444,9 +1444,12 @@ Jos olet muokannut näitä tiedostoja itse, voit ohittaa tämän viestin, muuten
   <phrase title="cron_callback" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Cron-takaisinkutsu]]></phrase>
   <phrase title="cron_entries" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ajoitetut tehtävät]]></phrase>
   <phrase title="cron_entry.AddOnInstallerUpdateCheck" addon_id="AddOnInstaller" version_id="0" version_string=""><![CDATA[Tarkista lisäosapäivitykset automaattisesti]]></phrase>
+  <phrase title="cron_entry.AutoDelete" addon_id="Andy/AutoDelete" version_id="10" version_string="1.0"><![CDATA[Auto delete]]></phrase>
   <phrase title="cron_entry.BanThread" addon_id="BanThread" version_id="1" version_string="1.0"><![CDATA[Ban Thread]]></phrase>
   <phrase title="cron_entry.EmailLog" addon_id="EmailLog" version_id="1" version_string="1.0"><![CDATA[Email Log]]></phrase>
   <phrase title="cron_entry.InactiveMembers" addon_id="InactiveMembers" version_id="1" version_string="3.8"><![CDATA[Inactive Members]]></phrase>
+  <phrase title="cron_entry.MembersRecentlyOnline" addon_id="Andy/MembersRecentlyOnline" version_id="21" version_string="2.1"><![CDATA[Members recently online]]></phrase>
+  <phrase title="cron_entry.WeeklyDigest" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Viikottainen tiivistelmä]]></phrase>
   <phrase title="cron_entry.bdMails_bounce" addon_id="bdMails" version_id="2" version_string="0.9"><![CDATA[[bd] Mails: Bounce Processing]]></phrase>
   <phrase title="cron_entry.cleanUpDaily" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Siivous päivittäin]]></phrase>
   <phrase title="cron_entry.cleanUpHourly" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tunneittain siivous]]></phrase>
@@ -5925,6 +5928,8 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="members_you_follow" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Seuraamasi jäsenet]]></phrase>
   <phrase title="membersonline_title" addon_id="MembersOnline" version_id="1" version_string="1.7"><![CDATA[Jäseniä paikalla - Viimeisimmän 24 tunnin sisällä]]></phrase>
   <phrase title="membersonline_total" addon_id="MembersOnline" version_id="1" version_string="1.7"><![CDATA[Yhteensä:]]></phrase>
+  <phrase title="membersrecentlyonline_members_recently_online" addon_id="Andy/MembersRecentlyOnline" version_id="10" version_string="1.0"><![CDATA[Members recently online]]></phrase>
+  <phrase title="membersrecentlyonline_total" addon_id="Andy/MembersRecentlyOnline" version_id="10" version_string="1.0"><![CDATA[Total]]></phrase>
   <phrase title="menu" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Valikko]]></phrase>
   <phrase title="merge" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Yhdistä]]></phrase>
   <phrase title="merge_into_post" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Yhdistä viestiin]]></phrase>
@@ -6534,6 +6539,8 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.attachmentMaxFileSize" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Liitetiedoston enimmäiskoko]]></phrase>
   <phrase title="option.attachmentMaxPerMessage" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Liitteiden enimmäismäärä viestiä kohden]]></phrase>
   <phrase title="option.attachmentThumbnailDimensions" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Liitteen pikkukuvan mitat]]></phrase>
+  <phrase title="option.autoDeleteDays" addon_id="Andy/AutoDelete" version_id="10" version_string="1.0"><![CDATA[Days]]></phrase>
+  <phrase title="option.autoDeleteIncludeForums" addon_id="Andy/AutoDelete" version_id="10" version_string="1.0"><![CDATA[Include forums]]></phrase>
   <phrase title="option.autoEmbedMedia" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Upota medialinkit automaattisesti]]></phrase>
   <phrase title="option.banThreadDateFormat" addon_id="BanThread" version_id="1" version_string="1.0"><![CDATA[Date Format]]></phrase>
   <phrase title="option.banThreadForumId" addon_id="BanThread" version_id="1" version_string="1.0"><![CDATA[Forum ID]]></phrase>
@@ -6668,6 +6675,10 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.membersOnlineShowAvatars" addon_id="MembersOnline" version_id="1" version_string="1.7"><![CDATA[Show Avatars]]></phrase>
   <phrase title="option.membersOnlineTitleLink" addon_id="MembersOnline" version_id="1" version_string="1.6"><![CDATA[Title Link]]></phrase>
   <phrase title="option.membersPerPage" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jäsenet, jotka luetellaan sivua kohden]]></phrase>
+  <phrase title="option.membersRecentlyOnlineIgnorePrivacy" addon_id="Andy/MembersRecentlyOnline" version_id="17" version_string="1.7"><![CDATA[Ignore privacy]]></phrase>
+  <phrase title="option.membersRecentlyOnlineMinutes" addon_id="Andy/MembersRecentlyOnline" version_id="15" version_string="1.5"><![CDATA[Minutes]]></phrase>
+  <phrase title="option.membersRecentlyOnlineShowAvatars" addon_id="Andy/MembersRecentlyOnline" version_id="10" version_string="1.0"><![CDATA[Show avatars]]></phrase>
+  <phrase title="option.membersRecentlyOnlineSortOrder" addon_id="Andy/MembersRecentlyOnline" version_id="18" version_string="1.8"><![CDATA[Sort order]]></phrase>
   <phrase title="option.messageMaxImages" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Enimmäiskuvat viestiä kohti]]></phrase>
   <phrase title="option.messageMaxLength" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Viestin enimmäispituus]]></phrase>
   <phrase title="option.messageMaxMedia" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Enimmäismäärä median upotuksia viestiä kohden]]></phrase>
@@ -6772,21 +6783,24 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.sidebarPositionsStatistics" addon_id="SidebarPositions" version_id="1" version_string="2.4"><![CDATA[Statistics]]></phrase>
   <phrase title="option.sidebarPositionsTodaysBirthdays" addon_id="SidebarPositions" version_id="0" version_string=""><![CDATA[Syntymäpäivät tänään]]></phrase>
   <phrase title="option.similarThreadsCommonWords" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[Common Words]]></phrase>
-  <phrase title="option.similarThreadsEnhancedSearch" addon_id="SimilarThreads" version_id="1" version_string="4.0"><![CDATA[Enhanced Search]]></phrase>
-  <phrase title="option.similarThreadsExcludeDays" addon_id="SimilarThreads" version_id="1" version_string="4.2"><![CDATA[Exclude Days]]></phrase>
-  <phrase title="option.similarThreadsExcludeForums" addon_id="SimilarThreads" version_id="1" version_string="2.4"><![CDATA[Exclude Forums]]></phrase>
+  <phrase title="option.similarThreadsEnhancedSearch" addon_id="Andy/SimilarThreads" version_id="1" version_string="4.0"><![CDATA[Enhanced Search]]></phrase>
+  <phrase title="option.similarThreadsExcludeDays" addon_id="Andy/SimilarThreads" version_id="1" version_string="4.2"><![CDATA[Exclude Days]]></phrase>
+  <phrase title="option.similarThreadsExcludeForums" addon_id="Andy/SimilarThreads" version_id="1" version_string="2.4"><![CDATA[Exclude Forums]]></phrase>
+  <phrase title="option.similarThreadsLimit" addon_id="Andy/SimilarThreads" version_id="61" version_string="6.1"><![CDATA[Limit]]></phrase>
   <phrase title="option.similarThreadsMaximumResults" addon_id="SimilarThreads" version_id="1" version_string="3.3"><![CDATA[Maximum Results]]></phrase>
-  <phrase title="option.similarThreadsMinimumCommonWordLength" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[Minimum Common Word Length]]></phrase>
-  <phrase title="option.similarThreadsMultibyte" addon_id="SimilarThreads" version_id="1" version_string="2.9"><![CDATA[Multibyte]]></phrase>
+  <phrase title="option.similarThreadsMinimumCommonWordLength" addon_id="Andy/SimilarThreads" version_id="1" version_string="3.4"><![CDATA[Minimum Common Word Length]]></phrase>
+  <phrase title="option.similarThreadsMultibyte" addon_id="Andy/SimilarThreads" version_id="1" version_string="2.9"><![CDATA[Multibyte]]></phrase>
   <phrase title="option.similarThreadsResponsive" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[Responsive]]></phrase>
-  <phrase title="option.similarThreadsSameForum" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[Same Forum]]></phrase>
+  <phrase title="option.similarThreadsSameForum" addon_id="Andy/SimilarThreads" version_id="1" version_string="3.4"><![CDATA[Same Forum]]></phrase>
   <phrase title="option.similarThreadsShowBelowFirstPost" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[Show Below First Post]]></phrase>
-  <phrase title="option.similarThreadsShowBelowQuickReply" addon_id="SimilarThreads" version_id="1" version_string="3.3"><![CDATA[Show Below Quick Reply]]></phrase>
+  <phrase title="option.similarThreadsShowBelowQuickReply" addon_id="Andy/SimilarThreads" version_id="1" version_string="3.3"><![CDATA[Show Below Quick Reply]]></phrase>
   <phrase title="option.similarThreadsShowCreateThread" addon_id="SimilarThreads" version_id="1" version_string="3.3"><![CDATA[Show Create Thread]]></phrase>
+  <phrase title="option.similarThreadsShowPostThread" addon_id="Andy/SimilarThreads" version_id="10" version_string="1.0"><![CDATA[Show post thread]]></phrase>
+  <phrase title="option.similarThreadsShowPostThreadQuickThread" addon_id="Andy/SimilarThreads" version_id="33" version_string="3.3"><![CDATA[Show post thread quick thread]]></phrase>
   <phrase title="option.similarThreadsShowSearchWords" addon_id="SimilarThreads" version_id="1" version_string="4.9"><![CDATA[Show Search Words]]></phrase>
   <phrase title="option.similarThreadsSimpleResults" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[Simple Results]]></phrase>
   <phrase title="option.similarThreadsStopCharacters" addon_id="SimilarThreads" version_id="1" version_string="5.0"><![CDATA[Stop Characters]]></phrase>
-  <phrase title="option.similarThreadsStopWords" addon_id="SimilarThreads" version_id="1" version_string="5.0"><![CDATA[Stop Words]]></phrase>
+  <phrase title="option.similarThreadsStopWords" addon_id="Andy/SimilarThreads" version_id="1" version_string="5.0"><![CDATA[Stop Words]]></phrase>
   <phrase title="option.sitemapAutoRebuild" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Luo sivustokartta automaattisesti]]></phrase>
   <phrase title="option.sitemapAutoSubmit" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lähetä sivustokartta automaattisesti hakukoneille]]></phrase>
   <phrase title="option.sitemapExclude" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Sisälletty sivukartan sisältö]]></phrase>
@@ -6894,6 +6908,13 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.usernameLength" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Käyttäjätunnuksen pituusrajoitus]]></phrase>
   <phrase title="option.usernameValidation" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Käyttäjätunnuksen validointi]]></phrase>
   <phrase title="option.watchAlertActiveOnly" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lähetä vain seuratut sisältöhälytykset/sähköpostiviestit viimeksi aktiivisille käyttäjille:]]></phrase>
+  <phrase title="option.weeklyDigestEmoji" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Emoji]]></phrase>
+  <phrase title="option.weeklyDigestExcludeForums" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Sulje pois foorumit]]></phrase>
+  <phrase title="option.weeklyDigestImageUrl" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Kuvan URL-osoite]]></phrase>
+  <phrase title="option.weeklyDigestLastActivityDays" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Viimeiset aktiviteettipäivät]]></phrase>
+  <phrase title="option.weeklyDigestLimit" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Raja]]></phrase>
+  <phrase title="option.weeklyDigestSortForumTitles" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Lajittele foorumin otsikot]]></phrase>
+  <phrase title="option.weeklyDigestTestUsername" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Testaa käyttäjänimi]]></phrase>
   <phrase title="option.whatsAppShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable WhatsApp share button]]></phrase>
   <phrase title="option.whoHasVisited24MostOnline" addon_id="WhoHasVisited" version_id="1030705" version_string="1.5.0"><![CDATA[Enable Record Online Members]]></phrase>
   <phrase title="option.whoHasVisitedCached" addon_id="WhoHasVisited" version_id="1030703" version_string="1.4.0"><![CDATA[Cache time (minutes)]]></phrase>
@@ -7249,6 +7270,8 @@ Vaihtoehto "GDPR" -vaihtoehdolle
   <phrase title="option_explain.attachmentMaxFileSize" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Anna liitetiedoston enimmäiskoko kilotavuina (KB). Tämän koon suuret liitteet hylätään. Tämän palvelimen kokoonpano rajoittaa tämän arvon arvoon <b>{serverMaxFileSize}</b> KB.]]></phrase>
   <phrase title="option_explain.attachmentMaxPerMessage" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Käytä 0 antaaksesi rajoittamattoman määrän liitteitä viestiä kohden. Poista viestiliitteet käytöstä käyttöoikeusjärjestelmällä.]]></phrase>
   <phrase title="option_explain.attachmentThumbnailDimensions" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Luotujen liitteiden pikkukuvien enimmäisleveys ja -korkeus. Huomaa, että jos tätä arvoa muutetaan, sinun on rakennettava liitteiden pikkukuvat uudelleen "Uusi välimuistit" -järjestelmän avulla.]]></phrase>
+  <phrase title="option_explain.autoDeleteDays" addon_id="Andy/AutoDelete" version_id="10" version_string="1.0"><![CDATA[Delete thread after this many days after last post date.]]></phrase>
+  <phrase title="option_explain.autoDeleteIncludeForums" addon_id="Andy/AutoDelete" version_id="10" version_string="1.0"><![CDATA[Select forums to include.]]></phrase>
   <phrase title="option_explain.autoEmbedMedia" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ota tämä vaihtoehto käyttöön, jos haluat järjestelmän yrittävän upottaa mediaa URL-osoitteisiin, jotka lähettävät vierailijat, jotka osoittavat rekisteröityihin mediasivustoihin. Jos päätät sisällyttää myös linkin sisältöön, median upottaminen voidaan kopioida, kun viesti lainataan.]]></phrase>
   <phrase title="option_explain.auto_approval_tp_user" addon_id="tapatalk" version_id="39" version_string="2.3.4"><![CDATA[Automatically Approve Verified Tapatalk Members]]></phrase>
   <phrase title="option_explain.awedo_NewPostsAndThreads_np_major" addon_id="Awedo_NewPostsAndThreads" version_id="3" version_string="1.1.0-b1"><![CDATA[The major section of the route to the „New Posts“ tab. The default is „find-new“. Change this value only if you use a corresponding route filter.]]></phrase>
@@ -7584,6 +7607,10 @@ In seconds.]]></phrase>
 <br /><br />
 Example: http://www.domain.com/online/?type=registered]]></phrase>
   <phrase title="option_explain.membersPerPage" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Rajoita jäsenten määrää, jotka näytetään rekisteröidyn jäsenluettelon ja online-jäsenluettelon jokaisella sivulla.]]></phrase>
+  <phrase title="option_explain.membersRecentlyOnlineIgnorePrivacy" addon_id="Andy/MembersRecentlyOnline" version_id="17" version_string="1.7"><![CDATA[Always show members recently online and ignore privacy settings.]]></phrase>
+  <phrase title="option_explain.membersRecentlyOnlineMinutes" addon_id="Andy/MembersRecentlyOnline" version_id="20" version_string="2.0"><![CDATA[Show members who have been active within the past X minutes.]]></phrase>
+  <phrase title="option_explain.membersRecentlyOnlineShowAvatars" addon_id="Andy/MembersRecentlyOnline" version_id="20" version_string="2.0"><![CDATA[Enter s xs or xxs for avatar size. Leave blank to show usernames.]]></phrase>
+  <phrase title="option_explain.membersRecentlyOnlineSortOrder" addon_id="Andy/MembersRecentlyOnline" version_id="20" version_string="2.0"><![CDATA[By default the sort order is by last activity. Check to sort by username.]]></phrase>
   <phrase title="option_explain.messageMaxImages" addon_id="XF" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Use 0 to allow an unlimited amount of images per message.]]></phrase>
   <phrase title="option_explain.messageMaxLength" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The maximum number of characters that can be in a message. This includes BB code. Use 0 to disable the limit.]]></phrase>
   <phrase title="option_explain.messageMaxMedia" addon_id="XF" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Use 0 to disable this limit. Disabling the limit or setting it too high is not recommended, as numerous media embeds can cause browser performance problems.]]></phrase>
@@ -7698,23 +7725,26 @@ Untick this option to disable that.]]></phrase>
   <phrase title="option_explain.sidebarPositionsStatistics" addon_id="SidebarPositions" version_id="1" version_string="2.4"><![CDATA[Sidebar position for the Statistics add-on.]]></phrase>
   <phrase title="option_explain.sidebarPositionsTodaysBirthdays" addon_id="SidebarPositions" version_id="1" version_string="2.4"><![CDATA[Sidebar position for the Today's Birthdays add-on.]]></phrase>
   <phrase title="option_explain.similarThreadsCommonWords" addon_id="SimilarThreads" version_id="1" version_string="3.6"><![CDATA[(2) These common words will be excluded from the similar threads search. Separate each word with a space.]]></phrase>
-  <phrase title="option_explain.similarThreadsEnhancedSearch" addon_id="SimilarThreads" version_id="1" version_string="4.0"><![CDATA[Select this to use Enhanced Search.]]></phrase>
-  <phrase title="option_explain.similarThreadsExcludeDays" addon_id="SimilarThreads" version_id="1" version_string="4.9"><![CDATA[Exclude similar threads older than this many days. Enter 0 to disable.]]></phrase>
-  <phrase title="option_explain.similarThreadsExcludeForums" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) Exclude all forums which you don't want to have similar thread results. Separate each forum ID with a comma.]]></phrase>
+  <phrase title="option_explain.similarThreadsEnhancedSearch" addon_id="Andy/SimilarThreads" version_id="1" version_string="4.0"><![CDATA[Select this to use Enhanced Search.]]></phrase>
+  <phrase title="option_explain.similarThreadsExcludeDays" addon_id="Andy/SimilarThreads" version_id="1" version_string="4.9"><![CDATA[Exclude similar threads older than this many days. Enter 0 to disable.]]></phrase>
+  <phrase title="option_explain.similarThreadsExcludeForums" addon_id="Andy/SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) Exclude all forums which you don't want to have similar thread results. Separate each forum ID with a comma.]]></phrase>
+  <phrase title="option_explain.similarThreadsLimit" addon_id="Andy/SimilarThreads" version_id="61" version_string="6.1"><![CDATA[Limit similar threads to this many results.]]></phrase>
   <phrase title="option_explain.similarThreadsMaximumResults" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) Limit similar threads to this many rows.]]></phrase>
-  <phrase title="option_explain.similarThreadsMinimumCommonWordLength" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(2) Exclude words which are less than this many characters.]]></phrase>
-  <phrase title="option_explain.similarThreadsMultibyte" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(2) If checked, support for PHP multibyte will be provided. Typically only used for Chinese, Japanese and Russian languages.]]></phrase>
+  <phrase title="option_explain.similarThreadsMinimumCommonWordLength" addon_id="Andy/SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(2) Exclude words which are less than this many characters.]]></phrase>
+  <phrase title="option_explain.similarThreadsMultibyte" addon_id="Andy/SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(2) If checked, support for PHP multibyte will be provided. Typically only used for Chinese, Japanese and Russian languages.]]></phrase>
   <phrase title="option_explain.similarThreadsResponsive" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) Check this to show similar threads in responsive.]]></phrase>
-  <phrase title="option_explain.similarThreadsSameForum" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) Limit similar threads to same forum.]]></phrase>
+  <phrase title="option_explain.similarThreadsSameForum" addon_id="Andy/SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) Limit similar threads to same forum.]]></phrase>
   <phrase title="option_explain.similarThreadsShowBelowFirstPost" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) When viewing a thread, show similar threads under first post.]]></phrase>
-  <phrase title="option_explain.similarThreadsShowBelowQuickReply" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) When viewing a thread, show similar threads under quick reply. 
+  <phrase title="option_explain.similarThreadsShowBelowQuickReply" addon_id="Andy/SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) When viewing a thread, show similar threads under quick reply. 
 <br /><br />
 Note: if Show Below First Post and Show Below Quick Reply are both selected, similar threads will not show below quick reply on page one.]]></phrase>
   <phrase title="option_explain.similarThreadsShowCreateThread" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) Show similar threads when creating a new thread.]]></phrase>
+  <phrase title="option_explain.similarThreadsShowPostThread" addon_id="Andy/SimilarThreads" version_id="33" version_string="3.3"><![CDATA[Show similar threads when creating a new thread (full page).]]></phrase>
+  <phrase title="option_explain.similarThreadsShowPostThreadQuickThread" addon_id="Andy/SimilarThreads" version_id="33" version_string="3.3"><![CDATA[Show similar threads when creating a new thread (quick thread).]]></phrase>
   <phrase title="option_explain.similarThreadsShowSearchWords" addon_id="SimilarThreads" version_id="1" version_string="5.0"><![CDATA[Show search word(s) in results header.]]></phrase>
   <phrase title="option_explain.similarThreadsSimpleResults" addon_id="SimilarThreads" version_id="1" version_string="3.4"><![CDATA[(1) If checked, results will be shown in a very simple data row.]]></phrase>
   <phrase title="option_explain.similarThreadsStopCharacters" addon_id="SimilarThreads" version_id="1" version_string="5.0"><![CDATA[Separate each character with a space.]]></phrase>
-  <phrase title="option_explain.similarThreadsStopWords" addon_id="SimilarThreads" version_id="1" version_string="5.0"><![CDATA[Separate each word with a space.]]></phrase>
+  <phrase title="option_explain.similarThreadsStopWords" addon_id="Andy/SimilarThreads" version_id="1" version_string="5.0"><![CDATA[Separate each word with a space.]]></phrase>
   <phrase title="option_explain.sitemapAutoRebuild" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos tämä vaihtoehto on käytössä, sivukartta rakennetaan automaattisesti uudelleen määräajoin. Jos tämä vaihtoehto on poistettu käytöstä, sivukartta päivitetään vasta, kun se rakennetaan uudelleen manuaalisesti <i>Työkalut ja välimuistien uudelleenrakentaminen </i>. Nykyiseen sivukarttaan pääsee<a href="sitemap.php">sitemap.php</a> -sivulla.]]></phrase>
   <phrase title="option_explain.sitemapAutoSubmit" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Once a sitemap is built, if this option is enabled, the updated version will be automatically submitted to search engines. If this option is not enabled, search engines will only know about the sitemap if it is listed in robots.txt or if you manually submit it to them.]]></phrase>
   <phrase title="option_explain.sitemapExclude" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[If you wish to exclude certain content types from the sitemap, that can be done here. Note that content must be guest accessible to be included in the sitemap, regardless of this setting.]]></phrase>
@@ -7924,6 +7954,13 @@ Käytä yllä olevaa tekstikenttää määrittääksesi muodon. <b>{title}</b> k
   <phrase title="option_explain.usernameLength" addon_id="XF" version_id="0" version_string=""><![CDATA[This controls the minimum and maximum length of usernames. Use 0 to disable a limit.]]></phrase>
   <phrase title="option_explain.usernameValidation" addon_id="XF" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="option_explain.watchAlertActiveOnly" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[If enabled, watched content alerts and emails will only be sent to users that have visited within the specified number of days. This can improve performance on large or very active installations.]]></phrase>
+  <phrase title="option_explain.weeklyDigestEmoji" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Lisää UTF-8-koodi tähän, jos haluat näyttää hymiön aihekentän alussa. Esimerkki: \xE2\x9E\xA1]]></phrase>
+  <phrase title="option_explain.weeklyDigestExcludeForums" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Sulje pois foorumit sähköpostista.]]></phrase>
+  <phrase title="option_explain.weeklyDigestImageUrl" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Lisää valinnainen kuvan URL-osoite tähän. Mahdollistaa logon tai muun kuvan lisäämisen sähköpostin yläosaan.]]></phrase>
+  <phrase title="option_explain.weeklyDigestLastActivityDays" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Viimeiset toimintapäivät estävät sähköpostien lähettämisen jäsenille, jotka eivät ole kirjautuneet sisään pitkään aikaan.]]></phrase>
+  <phrase title="option_explain.weeklyDigestLimit" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Sähköposti-aiheet ovat rajoitettu tähän numeroon.]]></phrase>
+  <phrase title="option_explain.weeklyDigestSortForumTitles" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Oletuksena keskustelut lajitellaan vain katsotuimpien mukaan. Voit lajitella lisäksi keskustelun otsikon mukaan valitsemalla tämän vaihtoehdon.]]></phrase>
+  <phrase title="option_explain.weeklyDigestTestUsername" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Lähetä testisähköposti kirjoittamalla käyttäjänimi ja napsauttamalla Tallenna. Siirry Cron-merkintöihin ja suorita "Viikottainen tiivistelmä" cron manuaalisesti. Jos haluat poistaa tämän toiminnon käytöstä, jätä se tyhjäksi.]]></phrase>
   <phrase title="option_explain.whatsAppShare" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[If a user clicks this button WhatsApp will open a list of users with whom to share the current page URL and title.]]></phrase>
   <phrase title="option_explain.whoHasVisited24MostOnline" addon_id="WhoHasVisited" version_id="1030705" version_string="1.5.0"><![CDATA[Enable this option to use the record online members feature.]]></phrase>
   <phrase title="option_explain.whoHasVisitedCached" addon_id="WhoHasVisited" version_id="1030703" version_string="1.4.0"><![CDATA[How long would you like to cache the who visited block for? 0 will disable the cache.]]></phrase>
@@ -7970,6 +8007,7 @@ Käytä yllä olevaa tekstikenttää määrittääksesi muodon. <b>{title}</b> k
   <phrase title="option_group.alerts" addon_id="XF" version_id="1040570" version_string="1.4.5"><![CDATA[Käyttäjän varoitukset]]></phrase>
   <phrase title="option_group.appearance" addon_id="XF" version_id="0" version_string=""><![CDATA[Appearance]]></phrase>
   <phrase title="option_group.attachments" addon_id="XF" version_id="0" version_string=""><![CDATA[Attachments]]></phrase>
+  <phrase title="option_group.autoDelete" addon_id="Andy/AutoDelete" version_id="10" version_string="1.0"><![CDATA[Auto delete]]></phrase>
   <phrase title="option_group.awedo_NewPostsAndThreads" addon_id="Awedo_NewPostsAndThreads" version_id="2" version_string="1.0.2"><![CDATA[New Posts and Threads]]></phrase>
   <phrase title="option_group.azuCloud" addon_id="AzuCloud" version_id="1" version_string="0.0.1"><![CDATA[AzuCloud]]></phrase>
   <phrase title="option_group.basicBoard" addon_id="XF" version_id="0" version_string=""><![CDATA[Basic Board Information]]></phrase>
@@ -7990,6 +8028,7 @@ Käytä yllä olevaa tekstikenttää määrittääksesi muodon. <b>{title}</b> k
   <phrase title="option_group.jrahmy_deferJs" addon_id="jrahmy_deferJs" version_id="1" version_string="1.0.0"><![CDATA[Defer JS]]></phrase>
   <phrase title="option_group.logging" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Logging Options]]></phrase>
   <phrase title="option_group.mediaEmbedding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Media embedding]]></phrase>
+  <phrase title="option_group.membersRecentlyOnline" addon_id="Andy/MembersRecentlyOnline" version_id="10" version_string="1.0"><![CDATA[Members recently online]]></phrase>
   <phrase title="option_group.messageOptions" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Viestit]]></phrase>
   <phrase title="option_group.newsfeed" addon_id="XF" version_id="0" version_string=""><![CDATA[News Feed]]></phrase>
   <phrase title="option_group.nodeList" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Node & Forum list]]></phrase>
@@ -8002,6 +8041,7 @@ Käytä yllä olevaa tekstikenttää määrittääksesi muodon. <b>{title}</b> k
   <phrase title="option_group.seo" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Search Engine Optimisation (SEO)]]></phrase>
   <phrase title="option_group.serviceProviders" addon_id="XF" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[External Service Providers]]></phrase>
   <phrase title="option_group.sharing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sharing]]></phrase>
+  <phrase title="option_group.similarThreads" addon_id="Andy/SimilarThreads" version_id="10" version_string="1.0"><![CDATA[Similar threads]]></phrase>
   <phrase title="option_group.sitemap" addon_id="XF" version_id="1040470" version_string="1.4.4"><![CDATA[XML Sitemap Generation]]></phrase>
   <phrase title="option_group.spam" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Roskapostin hallinta]]></phrase>
   <phrase title="option_group.stats" addon_id="XF" version_id="0" version_string=""><![CDATA[Statistics and Metrics]]></phrase>
@@ -8029,6 +8069,7 @@ Käytä yllä olevaa tekstikenttää määrittääksesi muodon. <b>{title}</b> k
   <phrase title="option_group.uix_welcomeBlock" addon_id="uix" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[[UI.X] Welcome Block]]></phrase>
   <phrase title="option_group.users" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[User Options]]></phrase>
   <phrase title="option_group.usersAndRegistration" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[User Registration]]></phrase>
+  <phrase title="option_group.weeklyDigest" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Viikoittainen tiivistelmä]]></phrase>
   <phrase title="option_group_belongs_to_disabled_addon" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The add-on <em>{addon}</em>, to which this option group belongs, is currently disabled.<br />
 <br />
 You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of installed add-ons</a>.]]></phrase>
@@ -8070,6 +8111,7 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
   <phrase title="option_group_description.alerts" addon_id="XF" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[When events happen that affect individual users, they are alerted via this system. As large volumes of alerts are generated, they are periodically pruned from the database.]]></phrase>
   <phrase title="option_group_description.appearance" addon_id="XF" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[ These options control how your site appears to your visitors. ]]></phrase>
   <phrase title="option_group_description.attachments" addon_id="XF" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Attachments are files that are uploaded to the board along with messages.]]></phrase>
+  <phrase title="option_group_description.autoDelete" addon_id="Andy/AutoDelete" version_id="10" version_string="1.0"><![CDATA[Options here control the Auto delete add-on.]]></phrase>
   <phrase title="option_group_description.awedo_NewPostsAndThreads" addon_id="Awedo_NewPostsAndThreads" version_id="2" version_string="1.0.2"><![CDATA[]]></phrase>
   <phrase title="option_group_description.azuCloud" addon_id="AzuCloud" version_id="1" version_string="0.0.1"><![CDATA[AzuCloud SEO Cloud by Darkimmortal]]></phrase>
   <phrase title="option_group_description.basicBoard" addon_id="XF" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[]]></phrase>
@@ -8091,6 +8133,7 @@ You may set a user into 'discouraged' mode by editing their user profile, or dis
   <phrase title="option_group_description.jrahmy_deferJs" addon_id="jrahmy_deferJs" version_id="1" version_string="1.0.0"><![CDATA[Options for deferring javascripts.]]></phrase>
   <phrase title="option_group_description.logging" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Options that control what data is logged and how long it is maintained.]]></phrase>
   <phrase title="option_group_description.mediaEmbedding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contains settings related to embedding external media such as videos, audio clips and social media content.]]></phrase>
+  <phrase title="option_group_description.membersRecentlyOnline" addon_id="Andy/MembersRecentlyOnline" version_id="10" version_string="1.0"><![CDATA[Options here control the Members recently online add-on.]]></phrase>
   <phrase title="option_group_description.messageOptions" addon_id="XF" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Options here control messages posted by users to the system, including messages in threads, profile posts, personal conversations etc.]]></phrase>
   <phrase title="option_group_description.newsfeed" addon_id="XF" version_id="1000270" version_string="1.0.2"><![CDATA[The news feed, or activity stream is a constantly-updated log of things that your registered members do, which can be viewed back by other visitors.<br />
 <br />
@@ -8108,6 +8151,7 @@ Licensed to: markus.silvo@gmail.com]]></phrase>
   <phrase title="option_group_description.seo" addon_id="XF" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[You may tweak various link-building and content display options here.]]></phrase>
   <phrase title="option_group_description.serviceProviders" addon_id="XF" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[For some functions, XenForo will hand off to a third party service provider. You may change some of the defaults used here.]]></phrase>
   <phrase title="option_group_description.sharing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[These options control the social network sharing features of XenForo.]]></phrase>
+  <phrase title="option_group_description.similarThreads" addon_id="Andy/SimilarThreads" version_id="10" version_string="1.0"><![CDATA[Options here control the Similar threads add-on.]]></phrase>
   <phrase title="option_group_description.sitemap" addon_id="XF" version_id="1040470" version_string="1.4.4"><![CDATA[These options allow you to control how the XML sitemap is generated and submitted to search engines. The sitemap can be used to speed up search engine indexing of your site.]]></phrase>
   <phrase title="option_group_description.spam" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Roskapostin puhdistus- ja estämisjärjestelmien oletusasetukset sijaitsevat täällä.]]></phrase>
   <phrase title="option_group_description.stats" addon_id="XF" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[]]></phrase>
@@ -8136,6 +8180,7 @@ Licensed to: markus.silvo@gmail.com]]></phrase>
   <phrase title="option_group_description.uix_welcomeBlock" addon_id="uix" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[]]></phrase>
   <phrase title="option_group_description.users" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[]]></phrase>
   <phrase title="option_group_description.usersAndRegistration" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[]]></phrase>
+  <phrase title="option_group_description.weeklyDigest" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Tässä olevat asetukset ohjaavat Viikoittaisen tiivistelmän lisäosaa.]]></phrase>
   <phrase title="option_group_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Option group IDs must be unique. The specified ID is already in use.]]></phrase>
   <phrase title="option_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Option ID]]></phrase>
   <phrase title="option_ids_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[Option IDs must be unique. The specified ID is already in use.]]></phrase>
@@ -8477,6 +8522,8 @@ Takaisinkutsun argumentit:
   <phrase title="permission.group_uix" addon_id="uix" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[UI.X Permissions]]></phrase>
   <phrase title="permission.memberNotesGroupID_memberNotesID" addon_id="MemberNotes" version_id="1" version_string="1.0"><![CDATA[Member Notes]]></phrase>
   <phrase title="permission.membersOnlineGroupID_membersOnlineID" addon_id="MembersOnline" version_id="1" version_string="1.0"><![CDATA[Members Online]]></phrase>
+  <phrase title="permission.membersRecentlyOnline_view" addon_id="Andy/MembersRecentlyOnline" version_id="10" version_string="1.0"><![CDATA[View]]></phrase>
+  <phrase title="permission.membersRecentlyOnline_viewAsAdmin" addon_id="Andy/MembersRecentlyOnline" version_id="11" version_string="1.1"><![CDATA[View as admin]]></phrase>
   <phrase title="permission.mostLikesGroupID_mostLikesID" addon_id="MostLikes" version_id="1" version_string="1.3"><![CDATA[Most Likes]]></phrase>
   <phrase title="permission.newMembersGroupID_newMembersID" addon_id="NewMembers" version_id="0" version_string=""><![CDATA[Uudet jäsenet]]></phrase>
   <phrase title="permission.newPostsAndThreads_view_new_content_link" addon_id="Awedo_NewPostsAndThreads" version_id="3" version_string="1.1.0-b1"><![CDATA[View link for new content in navigation bar]]></phrase>
@@ -8520,6 +8567,7 @@ Takaisinkutsun argumentit:
   <phrase title="permission.signature_maxTextSize" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Maximum text size (1 - 7)]]></phrase>
   <phrase title="permission.signature_media" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Allow embedded media]]></phrase>
   <phrase title="permission.similarThreadsGroupID_similarThreadsID" addon_id="SimilarThreads" version_id="1" version_string="3.0"><![CDATA[Similar Threads]]></phrase>
+  <phrase title="permission.similarThreads_view" addon_id="Andy/SimilarThreads" version_id="10" version_string="1.0"><![CDATA[View]]></phrase>
   <phrase title="permission.staffActivityGroupID_staffActivityID" addon_id="StaffActivity" version_id="1" version_string="1.0"><![CDATA[Staff Activity]]></phrase>
   <phrase title="permission.th_uix_collapseCategories" addon_id="ThemeHouse/UIX" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Can collapse categories]]></phrase>
   <phrase title="permission.th_uix_collapseSidebar" addon_id="ThemeHouse/UIX" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Can collapse sidebar]]></phrase>
@@ -8555,6 +8603,7 @@ Takaisinkutsun argumentit:
   <phrase title="permission_interface.generalPermissions" addon_id="XF" version_id="0" version_string=""><![CDATA[General Permissions]]></phrase>
   <phrase title="permission_interface.memberNotesInterfaceGroupID" addon_id="MemberNotes" version_id="1" version_string="1.0"><![CDATA[Member Notes]]></phrase>
   <phrase title="permission_interface.membersOnlineInterfaceGroupID" addon_id="MembersOnline" version_id="1" version_string="1.0"><![CDATA[Members Online]]></phrase>
+  <phrase title="permission_interface.membersRecentlyOnline" addon_id="Andy/MembersRecentlyOnline" version_id="10" version_string="1.0"><![CDATA[Members recently online]]></phrase>
   <phrase title="permission_interface.mostLikesInterfaceGroupID" addon_id="MostLikes" version_id="1" version_string="1.3"><![CDATA[Most Likes]]></phrase>
   <phrase title="permission_interface.newMembersInterfaceGroupID" addon_id="NewMembers" version_id="0" version_string=""><![CDATA[Uudet jäsenet]]></phrase>
   <phrase title="permission_interface.postAttachmentPermissions" addon_id="XF" version_id="0" version_string=""><![CDATA[Post Attachment Permissions]]></phrase>
@@ -8564,6 +8613,7 @@ Takaisinkutsun argumentit:
   <phrase title="permission_interface.recentPostsInterfaceGroupID" addon_id="RecentPosts" version_id="1" version_string="1.9"><![CDATA[Recent Posts]]></phrase>
   <phrase title="permission_interface.searchLogInterfaceGroupID" addon_id="SearchLog" version_id="1" version_string="1.6"><![CDATA[Search Log]]></phrase>
   <phrase title="permission_interface.signaturePermissions" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Signature Permissions]]></phrase>
+  <phrase title="permission_interface.similarThreads" addon_id="Andy/SimilarThreads" version_id="10" version_string="1.0"><![CDATA[Similar threads]]></phrase>
   <phrase title="permission_interface.similarThreadsInterfaceGroupID" addon_id="SimilarThreads" version_id="1" version_string="3.0"><![CDATA[Similar Threads]]></phrase>
   <phrase title="permission_interface.staffActivityInterfaceGroupID" addon_id="StaffActivity" version_id="1" version_string="1.0"><![CDATA[Staff Activity]]></phrase>
   <phrase title="permission_interface.th_uix" addon_id="ThemeHouse/UIX" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[UI.X Permissions]]></phrase>
@@ -9539,7 +9589,7 @@ Otherwise, the node will take 100% of the available horizontal space (full width
   <phrase title="reply_to_watched_thread_x" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{title} - uusi vastaus seurattuun viestiin
 ]]></phrase>
   <phrase title="report" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Raportoi]]></phrase>
-  <phrase title="report_content" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Raportoi ylläpidolle tästä viestistä]]></phrase>
+  <phrase title="report_content" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Raportoi ylläpidolle tästä sisällöstä]]></phrase>
   <phrase title="report_noun" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Raportoi]]></phrase>
   <phrase title="report_reason" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Raportin syy]]></phrase>
   <phrase title="report_resolution_alert_comment_append" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[I]The following alert was sent:[/I]
@@ -9834,7 +9884,12 @@ Content being reported:
   <phrase title="sidebar" addon_id="" version_id="0" version_string=""><![CDATA[Sivupalkki]]></phrase>
   <phrase title="sign_up_with_steam" addon_id="Steam" version_id="167" version_string="1.5.2"><![CDATA[Rekisteröidy Steamin kanssa]]></phrase>
   <phrase title="signature" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Allekirjoitus]]></phrase>
-  <phrase title="similarthreads_similar_threads" addon_id="SimilarThreads" version_id="1" version_string="3.8"><![CDATA[Samankaltaiset keskustelut]]></phrase>
+  <phrase title="similarthreads_date" addon_id="Andy/SimilarThreads" version_id="67" version_string="6.7"><![CDATA[Päivä]]></phrase>
+  <phrase title="similarthreads_enhanced_search_is_not_enabled" addon_id="Andy/SimilarThreads" version_id="67" version_string="6.7"><![CDATA[Parannettu haku ei ole käytössä. Siirry Samankaltaisten ketjujen Asetukset-sivulle ja poista Enhanced search -vaihtoehdon valinta.]]></phrase>
+  <phrase title="similarthreads_forum" addon_id="Andy/SimilarThreads" version_id="67" version_string="6.7"><![CDATA[Foorumi]]></phrase>
+  <phrase title="similarthreads_replies" addon_id="Andy/SimilarThreads" version_id="67" version_string="6.7"><![CDATA[Vastaukset]]></phrase>
+  <phrase title="similarthreads_similar_threads" addon_id="Andy/SimilarThreads" version_id="1" version_string="3.8"><![CDATA[Samankaltaiset keskustelut]]></phrase>
+  <phrase title="similarthreads_thread_starter" addon_id="Andy/SimilarThreads" version_id="67" version_string="6.7"><![CDATA[Keskustelun aloittaja]]></phrase>
   <phrase title="simple" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Simple]]></phrase>
   <phrase title="simple_border_color" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Simple border color]]></phrase>
   <phrase title="simple_border_radius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Simple border radius]]></phrase>
@@ -12085,19 +12140,6 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="thread_list_date_limit_used_on_busy_forums_to_improve_performance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This can be used on busy forums to improve performance by only listing recently updated threads by default.]]></phrase>
   <phrase title="thread_lists" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread lists]]></phrase>
   <phrase title="thread_polls" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Thread polls]]></phrase>
-  <phrase title="thread_prefix.1" addon_id="" version_id="0" version_string=""><![CDATA[Tivi]]></phrase>
-  <phrase title="thread_prefix.10" addon_id="" version_id="0" version_string=""><![CDATA[C]]></phrase>
-  <phrase title="thread_prefix.11" addon_id="" version_id="0" version_string=""><![CDATA[C++]]></phrase>
-  <phrase title="thread_prefix.12" addon_id="" version_id="0" version_string=""><![CDATA[C#]]></phrase>
-  <phrase title="thread_prefix.13" addon_id="" version_id="0" version_string=""><![CDATA[Objective-C]]></phrase>
-  <phrase title="thread_prefix.14" addon_id="" version_id="0" version_string=""><![CDATA[Muu kieli]]></phrase>
-  <phrase title="thread_prefix.2" addon_id="" version_id="0" version_string=""><![CDATA[Cracked]]></phrase>
-  <phrase title="thread_prefix.3" addon_id="" version_id="0" version_string=""><![CDATA[Tivi.fi]]></phrase>
-  <phrase title="thread_prefix.4" addon_id="" version_id="0" version_string=""><![CDATA[Mainos]]></phrase>
-  <phrase title="thread_prefix.5" addon_id="" version_id="0" version_string=""><![CDATA[Kysymys]]></phrase>
-  <phrase title="thread_prefix.6" addon_id="" version_id="0" version_string=""><![CDATA[Ei vastattu]]></phrase>
-  <phrase title="thread_prefix.7" addon_id="" version_id="0" version_string=""><![CDATA[Vastattu]]></phrase>
-  <phrase title="thread_prefix.8" addon_id="" version_id="0" version_string=""><![CDATA[Ongelma]]></phrase>
   <phrase title="thread_prefix_group.1" addon_id="" version_id="0" version_string=""><![CDATA[C-Ohjelmointikielet]]></phrase>
   <phrase title="thread_prefixes" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Keskustelun etuliitteet]]></phrase>
   <phrase title="thread_prompt.default" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Keskustelun otsikko]]></phrase>
@@ -13042,6 +13084,18 @@ Tilisi käyttöoikeudet voivat olla rajoitetut näiden toimien perusteella. Pid�
   <phrase title="week_start_day" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Week start day]]></phrase>
   <phrase title="weekly" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Viikottain]]></phrase>
   <phrase title="weekly_statistics" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Viikkotilastot]]></phrase>
+  <phrase title="weeklydigest_description" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Viikoittainen tiivistelmä lähettää sinulle joka viikko sähköpostin edellisen viikon aktiivisimmista aiheista.]]></phrase>
+  <phrase title="weeklydigest_from" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Lähettänyt]]></phrase>
+  <phrase title="weeklydigest_save" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Tallenna]]></phrase>
+  <phrase title="weeklydigest_select" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Valitse]]></phrase>
+  <phrase title="weeklydigest_stop_receiving_these_emails" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Lopeta näiden sähköpostien vastaanottaminen.]]></phrase>
+  <phrase title="weeklydigest_subject" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Viime viikon suosituimmat keskustelun aiheet]]></phrase>
+  <phrase title="weeklydigest_subscribe" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Tilaa]]></phrase>
+  <phrase title="weeklydigest_this_message_was_sent_to_you_because" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Tämä viesti lähetettiin sinulle, koska "viikoittaisen tiivistelmä" asetukset on asetettu tilatuksi.]]></phrase>
+  <phrase title="weeklydigest_unsubscribe" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Lopeta tilaus]]></phrase>
+  <phrase title="weeklydigest_weekly_digest" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Viikoittainen tiivistelmä]]></phrase>
+  <phrase title="weeklydigest_you_are_currently_subscribed" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Olet tilannut tällä hetkellä viikoittaisen tiivistelmän.]]></phrase>
+  <phrase title="weeklydigest_you_are_currently_unsubscribed" addon_id="Andy/WeeklyDigest" version_id="33" version_string="3.3"><![CDATA[Olet tällä hetkellä peruuttanut "Viikoittaisen tiivistelmän".]]></phrase>
   <phrase title="weeks" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[viikkoa]]></phrase>
   <phrase title="weight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Weight]]></phrase>
   <phrase title="weight_bold" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Lihavoitu]]></phrase>
@@ -13093,6 +13147,7 @@ Tilisi käyttöoikeudet voivat olla rajoitetut näiden toimien perusteella. Pid�
   <phrase title="widget_def.forum_statistics" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Statistiikka]]></phrase>
   <phrase title="widget_def.html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML]]></phrase>
   <phrase title="widget_def.member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member stat]]></phrase>
+  <phrase title="widget_def.membersRecentlyOnline" addon_id="Andy/MembersRecentlyOnline" version_id="10" version_string="1.0"><![CDATA[Members recently online]]></phrase>
   <phrase title="widget_def.members_online" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Jäseniä paikalla]]></phrase>
   <phrase title="widget_def.new_posts" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Uusia viestejä]]></phrase>
   <phrase title="widget_def.new_profile_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New profile posts]]></phrase>
@@ -13101,6 +13156,7 @@ Tilisi käyttöoikeudet voivat olla rajoitetut näiden toimien perusteella. Pid�
   <phrase title="widget_def.online_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Online statistics]]></phrase>
   <phrase title="widget_def.php_callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PHP callback]]></phrase>
   <phrase title="widget_def.share_page" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Jaa tämä sivu]]></phrase>
+  <phrase title="widget_def.similarThreads" addon_id="Andy/SimilarThreads" version_id="11" version_string="1.1"><![CDATA[Similar threads]]></phrase>
   <phrase title="widget_def.template_syntax" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template syntax]]></phrase>
   <phrase title="widget_def.th_post_thread_uix" addon_id="ThemeHouse/UIX" version_id="2010292" version_string="2.1.2 Patch Level 2"><![CDATA[Luo uusi keskustelu]]></phrase>
   <phrase title="widget_def.th_widget_login_uix" addon_id="ThemeHouse/UIX" version_id="2000070" version_string="2.0.0"><![CDATA[[UI.X] Login form]]></phrase>
@@ -13112,6 +13168,7 @@ Tilisi käyttöoikeudet voivat olla rajoitetut näiden toimien perusteella. Pid�
   <phrase title="widget_def_desc.forum_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays a block which that shows the forum's current statistics on things like total discussions, message and member count.]]></phrase>
   <phrase title="widget_def_desc.html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget that lets you add custom HTML. This widget supports XenForo template syntax.]]></phrase>
   <phrase title="widget_def_desc.member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays the list of users from the specified member stat cache.]]></phrase>
+  <phrase title="widget_def_desc.membersRecentlyOnline" addon_id="Andy/MembersRecentlyOnline" version_id="10" version_string="1.0"><![CDATA[Displays a block containing members recently online.]]></phrase>
   <phrase title="widget_def_desc.members_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays a summary of the number of online users, guests and robots, plus a summary of online members and people you follow.]]></phrase>
   <phrase title="widget_def_desc.new_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays a block containing a list of X threads which have most recently been posted in.]]></phrase>
   <phrase title="widget_def_desc.new_profile_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays a block containing a list of X recent profile posts.]]></phrase>
@@ -13120,6 +13177,7 @@ Tilisi käyttöoikeudet voivat olla rajoitetut näiden toimien perusteella. Pid�
   <phrase title="widget_def_desc.online_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays a block of statistics with a break down of the current visitors on the forum and whether they are registered, guests, or robots.]]></phrase>
   <phrase title="widget_def_desc.php_callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allows you to render the contents of a widget using a PHP callback. The callback should return the \XF\Widget\WidgetRenderer object, set up with the template name and params necessary to render the widget.]]></phrase>
   <phrase title="widget_def_desc.share_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Adds a set of sharing buttons into a block to allow the current page to be shared across social media.]]></phrase>
+  <phrase title="widget_def_desc.similarThreads" addon_id="Andy/SimilarThreads" version_id="11" version_string="1.1"><![CDATA[Displays a block containing similar threads.]]></phrase>
   <phrase title="widget_def_desc.template_syntax" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget that creates an associated template which will allow you to display XF template syntax and HTML.]]></phrase>
   <phrase title="widget_def_desc.th_post_thread_uix" addon_id="ThemeHouse/UIX" version_id="2000070" version_string="2.0.0"><![CDATA[Allows you to display a post new thread block in your sidebar]]></phrase>
   <phrase title="widget_def_desc.th_widget_login_uix" addon_id="ThemeHouse/UIX" version_id="2000070" version_string="2.0.0"><![CDATA[Allows you to display a login bar in your sidebar, or any other widget location.]]></phrase>

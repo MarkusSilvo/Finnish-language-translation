@@ -3,7 +3,7 @@
 Lataa osoitteesta: https://github.com/MarkusSilvo/Xenforo-Finnish-language-translation/releases  
 Tai lataa master versio: https://github.com/MarkusSilvo/Xenforo-Finnish-language-translation/archive/master.zip  
 
-Asennus: !HUOM! varmista että PHP upload_max_filesize on isompi kuin 2M lähettäessäsi tiedostoa.
+Asennus:  
 Lähetä .xml-tiedosto sivustosi ylläpitopaneelista (admin.php) kautta sivustollesi. Appearance -> Languages -> Import
 
 (Xenforon ylläpito osiota ei ole käännetty kokonaan)
@@ -14,7 +14,7 @@ Download from: https://github.com/MarkusSilvo/Xenforo-Finnish-language-translati
 Or download master version: https://github.com/MarkusSilvo/Xenforo-Finnish-language-translation/archive/master.zip  
 
 
-Installation: !NOTE! Make sure PHP upload_max_filesize is bigger than 2M.
+Installation:  
 Upload an .xml file from your site's admin panel (admin.php) to your site. Appearance -> Languages -> Import
 
 (Xenforo admin section is not completely translated)

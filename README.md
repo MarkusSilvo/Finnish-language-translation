@@ -6,7 +6,7 @@ Tai lataa master versio: https://github.com/MarkusSilvo/Xenforo-Finnish-language
 Asennus: 
 Lähetä .xml-tiedosto sivustosi ylläpitopaneelista (admin.php) kautta sivustollesi. Appearance -> Languages -> Import
 
-(Xenforon ylläpito osiota ei ole käänetty kokonaan)
+(Xenforon ylläpito osiota ei ole käännetty kokonaan)
 
 -------------------
 

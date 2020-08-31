@@ -21,5 +21,5 @@ Upload an .xml file from your site's admin panel (admin.php) to your site. Appea
 
 -------------------
 
-Jos saat tiedostoa lähettäessä virheen "Please upload a valid language XML file" varmista että PHP upload_max_filesize on isompi kuin 2M
-If you get a "Please upload a valid language XML file" error when uploading the file make sure PHP upload_max_filesize is larger than 2M
+Jos saat tiedostoa lähettäessä virheen "Please upload a valid language XML file" varmista että PHP upload_max_filesize on isompi kuin 2M  
+If you get a "Please upload a valid language XML file" error when uploading the file make sure PHP upload_max_filesize is larger than 2M  

@@ -4,6 +4,8 @@ Lataa osoitteesta: https://github.com/MarkusSilvo/Xenforo-Finnish-language-trans
 
 Tai lataa viimeisin versio: https://github.com/MarkusSilvo/Xenforo-Finnish-language-translation/archive/master.zip
 
+
+
 Asennus: 
 Lähetä .xml-tiedosto sivustosi ylläpitopaneelista (admin.php) kautta sivustollesi. Appearance -> Languages -> Import
 
@@ -14,6 +16,8 @@ Lähetä .xml-tiedosto sivustosi ylläpitopaneelista (admin.php) kautta sivustol
 Download from: https://github.com/MarkusSilvo/Xenforo-Finnish-language-translation/releases
 
 Or download latest version: https://github.com/MarkusSilvo/Xenforo-Finnish-language-translation/archive/master.zip
+
+
 
 Installation:
 Upload an .xml file from your site's admin panel (admin.php) to your site. Appearance -> Languages -> Import

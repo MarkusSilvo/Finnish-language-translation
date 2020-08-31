@@ -1085,7 +1085,7 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="button.merge" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Yhdistä]]></phrase>
   <phrase title="button.move" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Siirrä]]></phrase>
   <phrase title="button.preview" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Esikatsele]]></phrase>
-  <phrase title="button.purchase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchase]]></phrase>
+  <phrase title="button.purchase" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Osta]]></phrase>
   <phrase title="button.save" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Tallenna]]></phrase>
   <phrase title="button.search" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Etsi]]></phrase>
   <phrase title="button.show" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Näytä]]></phrase>
@@ -1440,7 +1440,7 @@ Jos olet muokannut näitä tiedostoja itse, voit ohittaa tämän viestin, muuten
   <phrase title="cost_currency_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<strong>Note:</strong> Ensure your merchant account with the selected payment profiles supports the above currencies. Currency support may vary by region.]]></phrase>
   <phrase title="could_not_create_directory_permissions" addon_id="AddOnInstaller" version_id="1000470" version_string="1.0.4"><![CDATA[Could not create temporary install directory. Please verify permissions are correct to write to the install/addons directory.]]></phrase>
   <phrase title="could_not_create_new_stripe_plan" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Could not create a new Stripe plan.]]></phrase>
-  <phrase title="could_not_find_subscriber_id_for_this_purchase_request" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Could not find Subscriber ID for this purchase request.]]></phrase>
+  <phrase title="could_not_find_subscriber_id_for_this_purchase_request" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tälle ostopyynnölle ei löytynyt tilaajatunnusta.]]></phrase>
   <phrase title="could_not_open_x" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Ei voitu avata {fileName}.]]></phrase>
   <phrase title="could_not_process_x_y" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Ei voitu prosessoida {fileName}: {errors}]]></phrase>
   <phrase title="count_messages_in_forum_toward_user_total" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Count messages posted in this forum toward user total]]></phrase>
@@ -1498,6 +1498,7 @@ Jos olet muokannut näitä tiedostoja itse, voit ohittaa tämän viestin, muuten
   <phrase title="cron_entry.uix_checkStyleUpdates" addon_id="uix" version_id="0" version_string=""><![CDATA[[UI.X] Tarkista tyylipäivitykset]]></phrase>
   <phrase title="cron_entry.userGroupPromotions" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Käyttäjäryhmien ylennykset]]></phrase>
   <phrase title="cron_entry.views" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Päivitä näyttökertojen laskurit]]></phrase>
+  <phrase title="cron_entry.views_extra" addon_id="SV/RedisViewCounter" version_id="1000000" version_string="1.0.0"><![CDATA[Update View Counters (Extra)]]></phrase>
   <phrase title="cron_entry.warningExpiry" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Käsittele vanhentuneita varoituksia]]></phrase>
   <phrase title="cron_entry_associated_with_inactive_add_on_cannot_run" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This cron entry is associated with an inactive add-on. It cannot be run unless the add-on is activated.]]></phrase>
   <phrase title="cron_entry_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron entry ID]]></phrase>
@@ -1979,6 +1980,7 @@ Jos olet muokannut näitä tiedostoja itse, voit ohittaa tämän viestin, muuten
   <phrase title="display_votes_publicly" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Näytä äänet julkisesti]]></phrase>
   <phrase title="display_widget_title_above_list_of_threads" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Display the widget title above the list of threads.]]></phrase>
   <phrase title="dnsbl_matched" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[DNSBL matched]]></phrase>
+  <phrase title="do_not_auto_embed_links_from_this_site" addon_id="s9e/MediaSites" version_id="2050054" version_string="2.5.0 Release Candidate 4"><![CDATA[Do not auto-embed links from this site]]></phrase>
   <phrase title="do_not_auto_embed_media_links" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Do not auto-embed media links]]></phrase>
   <phrase title="do_not_change" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Älä muuta]]></phrase>
   <phrase title="do_not_have_permission" addon_id="XF" version_id="0" version_string=""><![CDATA[Sinulla ei ole oikeuksia tämän toiminnon suorittamiseen.]]></phrase>
@@ -5432,7 +5434,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
 If you are sure you want to continue with the import, select the 'Skip import checks' option and try again.]]></phrase>
   <phrase title="imported_content" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Imported content]]></phrase>
   <phrase title="importing" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Tuodaan]]></phrase>
-  <phrase title="in_a_minute" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In a minute]]></phrase>
+  <phrase title="in_a_minute" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Minuutissa]]></phrase>
   <phrase title="in_a_moment" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In a moment]]></phrase>
   <phrase title="in_x_minutes" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[In {minutes} minutes]]></phrase>
   <phrase title="inactive_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inactive providers]]></phrase>
@@ -5523,7 +5525,7 @@ Various directories must be writable by the web server user to install from an a
   <phrase title="invalid_class_x" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Invalid class: {class}]]></phrase>
   <phrase title="invalid_or_unreadable_directory" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[The specified directory was not found or unreadable.]]></phrase>
   <phrase title="invalid_page_requested" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Invalid page requested.]]></phrase>
-  <phrase title="invalid_purchase_request" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Invalid purchase request. Your purchase cannot be processed at this time.]]></phrase>
+  <phrase title="invalid_purchase_request" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Virheellinen ostopyyntö. Ostostasi ei voida käsitellä tällä hetkellä.]]></phrase>
   <phrase title="invalid_regular_expression" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Invalid regular expression]]></phrase>
   <phrase title="invalid_subscription_endpoint_provided" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Invalid subscription endpoint provided.]]></phrase>
   <phrase title="invite" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Invite]]></phrase>
@@ -5559,7 +5561,7 @@ Various directories must be writable by the web server user to install from an a
   <phrase title="italic" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kursivoitu]]></phrase>
   <phrase title="item_cannot_be_deleted_associated_with_addon_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This item cannot be deleted as it is associated with an add-on or XenForo itself. If you do not wish to use this, please disable it instead.]]></phrase>
   <phrase title="item_will_remain_viewable_by_moderators_and_may_be_restored_at_later" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Säilyy tietokannassa, voidaan palauttaa tarvittaessa.]]></phrase>
-  <phrase title="items_of_this_type_cannot_be_purchased_at_moment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Items of this type cannot be purchased at the moment.]]></phrase>
+  <phrase title="items_of_this_type_cannot_be_purchased_at_moment" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tämän tyyppisiä tuotteita ei voi tällä hetkellä ostaa.]]></phrase>
   <phrase title="items_to_process_per_page" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Items to process per page]]></phrase>
   <phrase title="jQueryComplexifyComplexity" addon_id="jQueryComplexify" version_id="2" version_string="1.0.1"><![CDATA[Vahvuus]]></phrase>
   <phrase title="javascript_is_disabled_please_enable_before_proceeding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.]]></phrase>
@@ -6522,6 +6524,9 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.MrJinx_WhatsNewTweak_Countdown" addon_id="MrJinx/WhatsNewTweak" version_id="201030" version_string="2.1.3"><![CDATA[Näytä ajastin]]></phrase>
   <phrase title="option.MrJinx_WhatsNewTweak_HideNav" addon_id="MrJinx/WhatsNewTweak" version_id="201030" version_string="2.1.3"><![CDATA[Piilota uutta navigointipalkki (työpöytä)]]></phrase>
   <phrase title="option.MrJinx_WhatsNewTweak_HideNavMob" addon_id="MrJinx/WhatsNewTweak" version_id="201030" version_string="2.1.3"><![CDATA[Piilota uutta navigointipalkki (mobiili)]]></phrase>
+  <phrase title="option.MrJinx_WhatsNewTweak_HideNavNew" addon_id="MrJinx/WhatsNewTweak" version_id="201050" version_string="2.1.5"><![CDATA[Hide the What's new item from navigation bar]]></phrase>
+  <phrase title="option.MrJinx_WhatsNewTweak_MobileLightningBolt" addon_id="MrJinx/WhatsNewTweak" version_id="201050" version_string="2.1.5"><![CDATA[Change Mobile view lightning bolt so it points to whats-new/posts/]]></phrase>
+  <phrase title="option.MrJinx_WhatsNewTweak_RefreshDefault" addon_id="MrJinx/WhatsNewTweak" version_id="201050" version_string="2.1.5"><![CDATA[Enable refresh time by default]]></phrase>
   <phrase title="option.MrJinx_WhatsNewTweak_RefreshTime" addon_id="MrJinx/WhatsNewTweak" version_id="201030" version_string="2.1.3"><![CDATA[Oletuspäivitysaika (sekunteina)]]></phrase>
   <phrase title="option.MrJinx_WhatsNewTweak_RefreshTimeArray" addon_id="MrJinx/WhatsNewTweak" version_id="201030" version_string="2.1.3"><![CDATA[Päivitä käyttäjän valinta (sekunteina)]]></phrase>
   <phrase title="option.MrJinx_WhatsNewTweak_ReplaceURL" addon_id="MrJinx/WhatsNewTweak" version_id="201030" version_string="2.1.3"><![CDATA[Piilota hakutunnus Uusien viestien sivulta]]></phrase>
@@ -6768,6 +6773,27 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.reportIntoForumId" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Lähetä raportteja foorumiin]]></phrase>
   <phrase title="option.romanizeUrls" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Romanize otsikot URL-osoitteissa]]></phrase>
   <phrase title="option.rootBreadcrumb" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Root breadcrumb]]></phrase>
+  <phrase title="option.s9e_MediaSites_AMAZON_ASSOCIATE_TAG" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[Amazon Associate tag (.com)]]></phrase>
+  <phrase title="option.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_CA" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[Amazon Associate tag (.ca)]]></phrase>
+  <phrase title="option.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_DE" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[Amazon Associate tag (.de)]]></phrase>
+  <phrase title="option.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_ES" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[Amazon Associate tag (.es)]]></phrase>
+  <phrase title="option.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_FR" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[Amazon Associate tag (.fr)]]></phrase>
+  <phrase title="option.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_IN" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[Amazon Associate tag (.in)]]></phrase>
+  <phrase title="option.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_IT" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[Amazon Associate tag (.it)]]></phrase>
+  <phrase title="option.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_JP" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[Amazon Associate tag (.co.jp)]]></phrase>
+  <phrase title="option.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_UK" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[Amazon Associate tag (.co.uk)]]></phrase>
+  <phrase title="option.s9e_MediaSites_Amazon_Link" addon_id="s9e/MediaSites" version_id="2030470" version_string="2.3.4"><![CDATA[Add a link to Amazon product embeds]]></phrase>
+  <phrase title="option.s9e_MediaSites_ClickToLoad" addon_id="s9e/MediaSites" version_id="2060050" version_string="2.6.0 Release Candidate"><![CDATA[Replace embedded video players with a lightweight placeholder where available]]></phrase>
+  <phrase title="option.s9e_MediaSites_ClickToLoad_Oembed" addon_id="s9e/MediaSites" version_id="2060070" version_string="2.6.0"><![CDATA[Add a title to the click-to-load placeholders where available]]></phrase>
+  <phrase title="option.s9e_MediaSites_Facebook_Background" addon_id="s9e/MediaSites" version_id="2020170" version_string="2.2.1"><![CDATA[Force Facebook's embeds to have a white background]]></phrase>
+  <phrase title="option.s9e_MediaSites_Footer" addon_id="s9e/MediaSites" version_id="2060570" version_string="2.6.5"><![CDATA[Show your support]]></phrase>
+  <phrase title="option.s9e_MediaSites_Footer_Hide" addon_id="s9e/MediaSites" version_id="2060570" version_string="2.6.5"><![CDATA[I do not want to display a link to this add-on]]></phrase>
+  <phrase title="option.s9e_MediaSites_Footer_Show" addon_id="s9e/MediaSites" version_id="2060570" version_string="2.6.5"><![CDATA[I want to display a link to this add-on in the page footer]]></phrase>
+  <phrase title="option.s9e_MediaSites_Full_Width_Embeds" addon_id="s9e/MediaSites" version_id="2031870" version_string="2.3.18"><![CDATA[Enable full-width embeds by default]]></phrase>
+  <phrase title="option.s9e_MediaSites_Miniplayer" addon_id="s9e/MediaSites" version_id="2030070" version_string="2.3.0"><![CDATA[Add a miniplayer button to supported video players in wide layout]]></phrase>
+  <phrase title="option.s9e_MediaSites_Native_GIFs" addon_id="s9e/MediaSites" version_id="2050055" version_string="2.5.0 Release Candidate 5"><![CDATA[Replace GIF-like embeds with a native player where possible]]></phrase>
+  <phrase title="option.s9e_MediaSites_Native_Paused" addon_id="s9e/MediaSites" version_id="2050055" version_string="2.5.0 Release Candidate 5"><![CDATA[Disable autoplay in native players]]></phrase>
+  <phrase title="option.s9e_MediaSites_YouTube_Privacy" addon_id="s9e/MediaSites" version_id="2001370" version_string="2.0.13"><![CDATA[Enable YouTube's enhanced privacy mode]]></phrase>
   <phrase title="option.satellitePosition" addon_id="SidebarPositions" version_id="1" version_string="1.0"><![CDATA[Satellite Position]]></phrase>
   <phrase title="option.saveDrafts" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tallenna luonnoksia viestin luonnin aikana]]></phrase>
   <phrase title="option.searchLogDateFormat" addon_id="SearchLog" version_id="1" version_string="1.5"><![CDATA[Date Format]]></phrase>
@@ -6856,9 +6882,12 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.steamNavTab" addon_id="Steam" version_id="25" version_string="1.1.1"><![CDATA[Steam statistics navbar tab]]></phrase>
   <phrase title="option.steamVisitorPanel" addon_id="Steam" version_id="112" version_string="1.4.3"><![CDATA[Display Steam login bar on vistor panel]]></phrase>
   <phrase title="option.stopForumSpam" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Stop Forum Spam]]></phrase>
+  <phrase title="option.sv_convquery_threshold" addon_id="SV/OptimizedListQueries" version_id="2000000" version_string="2.0.0"><![CDATA[Better Conversation List Page Threshold]]></phrase>
+  <phrase title="option.sv_forumquery_threshold" addon_id="SV/OptimizedListQueries" version_id="2000000" version_string="2.0.0"><![CDATA[Better Thread List Page Threshold]]></phrase>
+  <phrase title="option.sv_memberlist_threshold" addon_id="SV/OptimizedListQueries" version_id="2000200" version_string="2.0.2"><![CDATA[Better Member List Page Threshold]]></phrase>
+  <phrase title="option.sv_reactionlist_threshold" addon_id="SV/OptimizedListQueries" version_id="2030102" version_string="2.3.1"><![CDATA[Better Reactions List Page Threshold]]></phrase>
   <phrase title="option.sv_threadcount_caching" addon_id="SV/RedisCache" version_id="1010100" version_string="1.1.1"><![CDATA[Thread Count Caching]]></phrase>
   <phrase title="option.sv_threadcount_short" addon_id="SV/RedisCache" version_id="1010100" version_string="1.1.1"><![CDATA[Small forum threshold]]></phrase>
-  <phrase title="option.sv_threadcount_sv_threadcount_moderated" addon_id="SV/RedisCache" version_id="2000700" version_string="2.0.7"><![CDATA[Count Moderated Threads]]></phrase>
   <phrase title="option.sv_threadcountcache_long" addon_id="SV/RedisCache" version_id="1010100" version_string="1.1.1"><![CDATA[Thread Count Expiry time]]></phrase>
   <phrase title="option.sv_threadcountcache_short" addon_id="SV/RedisCache" version_id="1010100" version_string="1.1.1"><![CDATA[Short Thread Count Expiry time]]></phrase>
   <phrase title="option.tagCloud" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Enable tag cloud with up to X tags:]]></phrase>
@@ -7220,6 +7249,9 @@ This setting should absolutely not be messed with unless you know exactly what y
   <phrase title="option_explain.MrJinx_WhatsNewTweak_Countdown" addon_id="MrJinx/WhatsNewTweak" version_id="201030" version_string="2.1.3"><![CDATA[Tämä näyttää lähtölaskurin, kunnes seuraava sivu päivitetään]]></phrase>
   <phrase title="option_explain.MrJinx_WhatsNewTweak_HideNav" addon_id="MrJinx/WhatsNewTweak" version_id="201030" version_string="2.1.3"><![CDATA[Tämä asetus piilottaa ylimääräisen navigointipalkin työpöydän (leveä) -näkymän Uutta-sivulla.]]></phrase>
   <phrase title="option_explain.MrJinx_WhatsNewTweak_HideNavMob" addon_id="MrJinx/WhatsNewTweak" version_id="201030" version_string="2.1.3"><![CDATA[Tämä asetus piilottaa ylimääräisen navigointipalkin Matkapuhelimen näkymän uudet -sivulla.]]></phrase>
+  <phrase title="option_explain.MrJinx_WhatsNewTweak_HideNavNew" addon_id="MrJinx/WhatsNewTweak" version_id="201050" version_string="2.1.5"><![CDATA[This will hide the What's new menu item from the extra navigation bar, as you cannot remove this link from within 'Public navigtion' control panel. It's hardcoded.]]></phrase>
+  <phrase title="option_explain.MrJinx_WhatsNewTweak_MobileLightningBolt" addon_id="MrJinx/WhatsNewTweak" version_id="201050" version_string="2.1.5"><![CDATA[In mobile view, a lightning bolt icon appears that points to the default whats-new page. With this option you can change it to whats-new/posts/]]></phrase>
+  <phrase title="option_explain.MrJinx_WhatsNewTweak_RefreshDefault" addon_id="MrJinx/WhatsNewTweak" version_id="201050" version_string="2.1.5"><![CDATA[If checked, the auto refresh function will be enabled by default for new users]]></phrase>
   <phrase title="option_explain.MrJinx_WhatsNewTweak_RefreshTime" addon_id="MrJinx/WhatsNewTweak" version_id="201030" version_string="2.1.3"><![CDATA[Päivitä uudet sivut automaattisesti joka x sekunti. <br />
 Aseta arvoon 0 automaattisen päivityksen poistamiseksi käytöstä. <br />
 Oletus = 60]]></phrase>
@@ -7715,6 +7747,25 @@ Untick this option to disable that.]]></phrase>
   <phrase title="option_explain.reportIntoForumId" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jos jokin foorumi valitaan tähän, raporttikeskus poistetaan käytöstä ja keskustelu lähetetään aina tänne, kun sisältö ilmoitetaan.]]></phrase>
   <phrase title="option_explain.romanizeUrls" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If selected, accented and non-Latin characters in a URL will be converted to Latin equivalents if possible.]]></phrase>
   <phrase title="option_explain.rootBreadcrumb" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Specify the navigation item that will serve as the 'root' of your breadcrumb list.]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_AMAZON_ASSOCIATE_TAG" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_CA" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_DE" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_ES" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_FR" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_IN" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_IT" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_JP" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_AMAZON_ASSOCIATE_TAG_UK" addon_id="s9e/MediaSites" version_id="20130" version_string="0.2.1 Beta"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_Amazon_Link" addon_id="s9e/MediaSites" version_id="2030470" version_string="2.3.4"><![CDATA[Adds a generic link to the product as a fallback if Amazon is blocked by the browser.]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_ClickToLoad" addon_id="s9e/MediaSites" version_id="2050270" version_string="2.5.2"><![CDATA[This will replace YouTube's normal player with a textless thumbnail. Clicking on it will load the embedded player.]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_ClickToLoad_Oembed" addon_id="s9e/MediaSites" version_id="2060070" version_string="2.6.0"><![CDATA[This will add the video's title, retrieved via oEmbed, to the lightweight placeholders.]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_Facebook_Background" addon_id="s9e/MediaSites" version_id="2020170" version_string="2.2.1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_Footer" addon_id="s9e/MediaSites" version_id="2001370" version_string="2.0.13"><![CDATA[You may also choose to support the author directly with a voluntary donation <a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6P6985GT2DLGL">in EUR</a> or <a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=ABGFV5AGE98AG">in USD</a>.]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_Full_Width_Embeds" addon_id="s9e/MediaSites" version_id="2031870" version_string="2.3.18"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_Miniplayer" addon_id="s9e/MediaSites" version_id="2030070" version_string="2.3.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_Native_GIFs" addon_id="s9e/MediaSites" version_id="2050055" version_string="2.5.0 Release Candidate 5"><![CDATA[Native videos have a simpler interface but they are not lazy-loaded and large video files may slow down the page.]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_Native_Paused" addon_id="s9e/MediaSites" version_id="2050055" version_string="2.5.0 Release Candidate 5"><![CDATA[]]></phrase>
+  <phrase title="option_explain.s9e_MediaSites_YouTube_Privacy" addon_id="s9e/MediaSites" version_id="2001370" version_string="2.0.13"><![CDATA[The <a target="_blank" href="https://support.google.com/youtube/answer/171780?hl=en">Privacy Enhanced Mode</a> only relates to tracking of viewer behavior, not ads-serving behavior.]]></phrase>
   <phrase title="option_explain.satellitePosition" addon_id="SidebarPositions" version_id="1" version_string="1.0"><![CDATA[Sidebar position for the Satellite add-on.]]></phrase>
   <phrase title="option_explain.saveDrafts" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[If enabled, drafts will be periodically sent to the server and stored to allow users to resume working on their messages later. Disabling this will also disable the automatic checking for new messages when composing a reply.]]></phrase>
   <phrase title="option_explain.searchLogDateFormat" addon_id="SearchLog" version_id="1" version_string="1.5"><![CDATA[Enter date format.
@@ -7807,10 +7858,13 @@ Note: if Show Below First Post and Show Below Quick Reply are both selected, sim
   <phrase title="option_explain.steamNavTab" addon_id="Steam" version_id="160" version_string="1.5.0"><![CDATA[Display a navigaton tab for public Steam statistics.]]></phrase>
   <phrase title="option_explain.steamVisitorPanel" addon_id="Steam" version_id="112" version_string="1.4.3"><![CDATA[Displays the login bar underneath the "Sign up now!" button.]]></phrase>
   <phrase title="option_explain.stopForumSpam" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[]]></phrase>
+  <phrase title="option_explain.sv_convquery_threshold" addon_id="SV/OptimizedListQueries" version_id="2000200" version_string="2.0.2"><![CDATA[After the configured number of pages, replaces the query to get conversation messages in a conversation with a query optimized for <b>large</b> data sets.<br/>May be incompatible with some add-ons.<br/>-1 to disable.]]></phrase>
   <phrase title="option_explain.sv_forceLazySpoilerTag" addon_id="SV_LazyImageLoader" version_id="100040" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="option_explain.sv_forumquery_threshold" addon_id="SV/OptimizedListQueries" version_id="2000200" version_string="2.0.2"><![CDATA[After the configured number of pages, replaces the query to get threads in a forum with a query optimized for <b>large</b> data sets.<br/>May be incompatible with some add-ons.<br/>-1 to disable.]]></phrase>
+  <phrase title="option_explain.sv_memberlist_threshold" addon_id="SV/OptimizedListQueries" version_id="2000200" version_string="2.0.2"><![CDATA[After the configured number of pages, replaces the query to get users in the user list with a query optimized for <b>large</b> data sets.<br/>May be incompatible with some add-ons.<br/>-1 to disable.]]></phrase>
+  <phrase title="option_explain.sv_reactionlist_threshold" addon_id="SV/OptimizedListQueries" version_id="2030102" version_string="2.3.1"><![CDATA[After the configured number of pages, replaces the query to get reactions with a query optimized for <b>large</b> data sets.<br/>May be incompatible with some add-ons.<br/>-1 to disable.]]></phrase>
   <phrase title="option_explain.sv_threadcount_caching" addon_id="SV/RedisCache" version_id="101000" version_string="1.1.0"><![CDATA[Caches per forum thread counts to reduce forum view page times.]]></phrase>
   <phrase title="option_explain.sv_threadcount_short" addon_id="SV/RedisCache" version_id="101000" version_string="1.1.0"><![CDATA[The number of pages for a forum to be consider a small forum.]]></phrase>
-  <phrase title="option_explain.sv_threadcount_sv_threadcount_moderated" addon_id="SV/RedisCache" version_id="101010" version_string="1.1.1"><![CDATA[If the user can see all other threads, do not count moderated threads. Disabling this option will cause per-user caching of forum counts rather than being shared.]]></phrase>
   <phrase title="option_explain.sv_threadcountcache_long" addon_id="SV/RedisCache" version_id="101000" version_string="1.1.0"><![CDATA[The default time in seconds to cache the thread counts per forum.]]></phrase>
   <phrase title="option_explain.sv_threadcountcache_short" addon_id="SV/RedisCache" version_id="101000" version_string="1.1.0"><![CDATA[The time in seconds to cache the thread counts per forum for a forum a small number of pages.]]></phrase>
   <phrase title="option_explain.tagCloud" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[If enabled, a tag cloud showing the most popular tags will be shown on the tag search page.]]></phrase>
@@ -8069,6 +8123,7 @@ Käytä yllä olevaa tekstikenttää määrittääksesi muodon. <b>{title}</b> k
   <phrase title="option_group.postRating" addon_id="PostRating" version_id="7326" version_string="0.0.1"><![CDATA[Post Ratings]]></phrase>
   <phrase title="option_group.rellect_favicon_for_links" addon_id="rellect_favicon_for_links" version_id="8" version_string="1.1.0"><![CDATA[[rellect] Favicon for Links]]></phrase>
   <phrase title="option_group.rellect_nodes_grid" addon_id="rellect_nodes_grid" version_id="6" version_string="2.0.0b1"><![CDATA[[rellect] Nodes Grid]]></phrase>
+  <phrase title="option_group.s9e_MediaSites" addon_id="s9e/MediaSites" version_id="2001370" version_string="2.0.13"><![CDATA[s9e/MediaSites]]></phrase>
   <phrase title="option_group.searchOptions" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Search Options]]></phrase>
   <phrase title="option_group.seo" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Search Engine Optimisation (SEO)]]></phrase>
   <phrase title="option_group.serviceProviders" addon_id="XF" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[External Service Providers]]></phrase>
@@ -8077,6 +8132,7 @@ Käytä yllä olevaa tekstikenttää määrittääksesi muodon. <b>{title}</b> k
   <phrase title="option_group.sitemap" addon_id="XF" version_id="1040470" version_string="1.4.4"><![CDATA[XML Sitemap Generation]]></phrase>
   <phrase title="option_group.spam" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Roskapostin hallinta]]></phrase>
   <phrase title="option_group.stats" addon_id="XF" version_id="0" version_string=""><![CDATA[Statistics and Metrics]]></phrase>
+  <phrase title="option_group.svOptimizedListQueries" addon_id="SV/OptimizedListQueries" version_id="2030102" version_string="2.3.1"><![CDATA[Optimized List Queries]]></phrase>
   <phrase title="option_group.tagging" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Content Tagging]]></phrase>
   <phrase title="option_group.taigaChat" addon_id="TaigaChat" version_id="20" version_string="1.0.0"><![CDATA[TaigaChat Pro]]></phrase>
   <phrase title="option_group.tapatalkBYOOptions" addon_id="tapatalk" version_id="12" version_string="1.4.0"><![CDATA[Tapatalk - Build Your Own - Options]]></phrase>
@@ -8179,6 +8235,7 @@ It is possible to filter the news feed down to just users you follow, or a singl
 Licensed to: markus.silvo@gmail.com]]></phrase>
   <phrase title="option_group_description.rellect_favicon_for_links" addon_id="rellect_favicon_for_links" version_id="8" version_string="1.1.0"><![CDATA[]]></phrase>
   <phrase title="option_group_description.rellect_nodes_grid" addon_id="rellect_nodes_grid" version_id="6" version_string="2.0.0b1"><![CDATA[]]></phrase>
+  <phrase title="option_group_description.s9e_MediaSites" addon_id="s9e/MediaSites" version_id="2001370" version_string="2.0.13"><![CDATA[Options related to the add-on]]></phrase>
   <phrase title="option_group_description.searchOptions" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[These options control the behavior of the search system built-in to XenForo to allow searching of messages and other content.]]></phrase>
   <phrase title="option_group_description.seo" addon_id="XF" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[You may tweak various link-building and content display options here.]]></phrase>
   <phrase title="option_group_description.serviceProviders" addon_id="XF" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[For some functions, XenForo will hand off to a third party service provider. You may change some of the defaults used here.]]></phrase>
@@ -8187,6 +8244,7 @@ Licensed to: markus.silvo@gmail.com]]></phrase>
   <phrase title="option_group_description.sitemap" addon_id="XF" version_id="1040470" version_string="1.4.4"><![CDATA[These options allow you to control how the XML sitemap is generated and submitted to search engines. The sitemap can be used to speed up search engine indexing of your site.]]></phrase>
   <phrase title="option_group_description.spam" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Roskapostin puhdistus- ja estämisjärjestelmien oletusasetukset sijaitsevat täällä.]]></phrase>
   <phrase title="option_group_description.stats" addon_id="XF" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[]]></phrase>
+  <phrase title="option_group_description.svOptimizedListQueries" addon_id="SV/OptimizedListQueries" version_id="2030102" version_string="2.3.1"><![CDATA[]]></phrase>
   <phrase title="option_group_description.tagging" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Options that control how tags can be applied to content.]]></phrase>
   <phrase title="option_group_description.taigaChat" addon_id="TaigaChat" version_id="28" version_string="1.0.4"><![CDATA[Realtime AJAX Shoutbox by Luke Foreman<br />
 Licensed to: markus.silvo@gmail.com]]></phrase>
@@ -8422,7 +8480,7 @@ Takaisinkutsun argumentit:
   <phrase title="people_may_reply_to_this_thread" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Keskusteluun voi vastata]]></phrase>
   <phrase title="people_x_follows" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jäsenet, joita {name} seuraa]]></phrase>
   <phrase title="people_you_follow" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Jäsenet joita seuraat]]></phrase>
-  <phrase title="performing_moderation_duties" addon_id="XF" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Performing moderation duties]]></phrase>
+  <phrase title="performing_moderation_duties" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Moderoimassa]]></phrase>
   <phrase title="performing_upgrade_check" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Suoritetaan päivitystarkistus]]></phrase>
   <phrase title="period" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Period]]></phrase>
   <phrase title="permanent" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Pysyvä]]></phrase>
@@ -8691,7 +8749,7 @@ Takaisinkutsun argumentit:
   <phrase title="please_answer_the_question_above" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Vastaa kysymykseen tässä.]]></phrase>
   <phrase title="please_choose_valid_moderator_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please choose a valid moderator type]]></phrase>
   <phrase title="please_choose_valid_node_type" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Please choose a valid node type.]]></phrase>
-  <phrase title="please_choose_valid_payment_profile_to_continue_with_your_purchase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please choose a valid payment profile to continue with your purchase.]]></phrase>
+  <phrase title="please_choose_valid_payment_profile_to_continue_with_your_purchase" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Valitse voimassa oleva maksuprofiili jatkaaksesi ostostasi.]]></phrase>
   <phrase title="please_choose_valid_text_color" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Please choose a valid text color.]]></phrase>
   <phrase title="please_complete_required_fields" addon_id="XF" version_id="0" version_string=""><![CDATA[Täytä kaikki vaaditut kentät, kiitos.]]></phrase>
   <phrase title="please_confirm_reversion_of_customized_components_from_style" addon_id="XF" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Please confirm that you want to revert {numTemplates} templates and {numProperties} style properties from the style <em>{style}</em> to their default values.]]></phrase>
@@ -9356,7 +9414,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="purchasable_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchasable type]]></phrase>
   <phrase title="purchase_request_contains_invalid_payment_profile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchase request contains an invalid payment profile.]]></phrase>
   <phrase title="purchase_request_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchase request key]]></phrase>
-  <phrase title="purchased_item" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchased item]]></phrase>
+  <phrase title="purchased_item" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Ostettu tuote]]></phrase>
   <phrase title="purchased_upgrades" addon_id="XF" version_id="1010470" version_string="1.1.4"><![CDATA[Tilatut ylennykset]]></phrase>
   <phrase title="push" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Push]]></phrase>
   <phrase title="push_alert_profile_post_insert" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{username} wrote a message on your profile.]]></phrase>
@@ -9537,12 +9595,14 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="redis_db_x_avg_ttl" addon_id="SV/RedisCache" version_id="1010900" version_string="1.1.9"><![CDATA[DB {database} Average TTL]]></phrase>
   <phrase title="redis_db_x_keys" addon_id="SV/RedisCache" version_id="1010900" version_string="1.1.9"><![CDATA[DB {database} Keys]]></phrase>
   <phrase title="redis_disabled" addon_id="SV/RedisCache" version_id="101030" version_string="1.1.3"><![CDATA[Redis is disabled.]]></phrase>
+  <phrase title="redis_free_memory" addon_id="SV/RedisCache" version_id="2030000" version_string="2.3.0"><![CDATA[Free memory]]></phrase>
   <phrase title="redis_info" addon_id="SV/RedisCache" version_id="101031" version_string="1.1.3a"><![CDATA[Redis Information]]></phrase>
   <phrase title="redis_input_kbps" addon_id="SV/RedisCache" version_id="101030" version_string="1.1.3"><![CDATA[To Redis (kbps)]]></phrase>
   <phrase title="redis_loading" addon_id="SV/RedisCache" version_id="101030" version_string="1.1.3"><![CDATA[Redis is still loading.]]></phrase>
   <phrase title="redis_lua" addon_id="SV/RedisCache" version_id="1011300" version_string="1.1.13"><![CDATA[Using Lua]]></phrase>
   <phrase title="redis_ops" addon_id="SV/RedisCache" version_id="101030" version_string="1.1.3"><![CDATA[Operations per second]]></phrase>
   <phrase title="redis_output_kbps" addon_id="SV/RedisCache" version_id="101030" version_string="1.1.3"><![CDATA[From Redis (kbps)]]></phrase>
+  <phrase title="redis_peak_memory" addon_id="SV/RedisCache" version_id="2030000" version_string="2.3.0"><![CDATA[Peak memory]]></phrase>
   <phrase title="redis_phpredis" addon_id="SV/RedisCache" version_id="1011300" version_string="1.1.13"><![CDATA[phpredis version]]></phrase>
   <phrase title="redis_serializer" addon_id="SV/RedisCache" version_id="2010100" version_string="2.1.1"><![CDATA[Serializer]]></phrase>
   <phrase title="redis_slave_address" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Address]]></phrase>
@@ -9550,6 +9610,7 @@ This also applies to MASTER phrases and code event listeners that begin with thi
   <phrase title="redis_slave_state" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[State]]></phrase>
   <phrase title="redis_slave_x" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Slave {i}]]></phrase>
   <phrase title="redis_slaves" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Slaves]]></phrase>
+  <phrase title="redis_used_memory" addon_id="SV/RedisCache" version_id="2030000" version_string="2.3.0"><![CDATA[Used memory]]></phrase>
   <phrase title="redis_version" addon_id="SV/RedisCache" version_id="101030" version_string="1.1.3"><![CDATA[Version]]></phrase>
   <phrase title="redo" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Uudelleen]]></phrase>
   <phrase title="referrer" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Referrer]]></phrase>
@@ -9767,6 +9828,7 @@ Content being reported:
   <phrase title="s2_maximum_selected" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[You can only select {count} item(s).]]></phrase>
   <phrase title="s2_no_results" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Ei tuloksia.]]></phrase>
   <phrase title="s2_searching" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Etsii...]]></phrase>
+  <phrase title="s9e_MediaSites_Footer_Credit" addon_id="s9e/MediaSites" global_cache="1" version_id="2060570" version_string="2.6.5"><![CDATA[Media embeds via s9e/MediaSites]]></phrase>
   <phrase title="save_and_exit" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tallenna ja poistu]]></phrase>
   <phrase title="save_as_default" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Tallenna oletukseksi]]></phrase>
   <phrase title="save_draft" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tallenna luonnos]]></phrase>
@@ -9833,7 +9895,7 @@ Content being reported:
   <phrase title="selected" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Valittu]]></phrase>
   <phrase title="selected_for_moderation" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Valittujen kohteiden lukumäärä moderoinnissa]]></phrase>
   <phrase title="selected_navigation_tab_id_is" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Selected Navigation Tab is]]></phrase>
-  <phrase title="selected_payment_profile_is_not_valid_for_this_purchase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The selected payment profile is not valid for this purchase.]]></phrase>
+  <phrase title="selected_payment_profile_is_not_valid_for_this_purchase" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Valittu maksuprofiili ei kelpaa tähän ostoon.]]></phrase>
   <phrase title="selected_scopes_only" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Selected scopes only]]></phrase>
   <phrase title="selected_tab_criteria_explain" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[ID of selected navigation tab, such as <b>forums</b>, <b>members</b> or <b>help</b>.]]></phrase>
   <phrase title="selected_user_groups" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Selected User Groups]]></phrase>
@@ -11624,9 +11686,6 @@ Viesti lähetetään osoitteeseen {email}.]]></phrase>
   <phrase title="tapatalk_search" addon_id="tapatalk" version_id="61" version_string="2.4.2"><![CDATA[[Käyttäen Tapatalkkia]Etsimässä]]></phrase>
   <phrase title="target_tag" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kohde avainsana]]></phrase>
   <phrase title="target_user" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Target user]]></phrase>
-  <phrase title="tckHCaptchaIntegration_hcaptcha_config_hint" addon_id="TickTackk/hCaptchaIntegration" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Sinun olisi hankittava omat API-avaimet <a href="https://dashboard.hcaptcha.com/" target="_blank">hCaptcha-hallintapaneelista</a> ja kirjoitettava ne alle.]]></phrase>
-  <phrase title="tckHCaptchaIntegration_use_hcaptcha" addon_id="TickTackk/hCaptchaIntegration" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Käytä hCAPTCHA]]></phrase>
-  <phrase title="tckHCaptchaIntegration_use_invisible_hcaptcha" addon_id="TickTackk/hCaptchaIntegration" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Käytä näkymätöntä hCAPTCHA]]></phrase>
   <phrase title="template" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Template]]></phrase>
   <phrase title="template_contains" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Template Contains]]></phrase>
   <phrase title="template_contents" addon_id="XF" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[Template Contents]]></phrase>
@@ -11992,7 +12051,7 @@ Antamaasi sähköpostiosoitteeseen lähetettiin linkki, jota sinun tulee klikata
 
 Tekaistulla sähköpostiosoitteella rekisteröityminen sivuillemme ei siis onnistu.
 ]]></phrase>
-  <phrase title="thanks_for_your_purchase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thanks for your purchase!]]></phrase>
+  <phrase title="thanks_for_your_purchase" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Kiitos ostoksestasi!]]></phrase>
   <phrase title="the_chosen_password_could_be_stronger" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Syötetty salasana voisi olla vahvempi.]]></phrase>
   <phrase title="the_following_reason_was_given" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[The following reason was given:]]></phrase>
   <phrase title="the_following_recipients_could_not_be_found_x" addon_id="XF" version_id="1010370" version_string="1.1.3"><![CDATA[Seuraavia jäseniä ei löytynyt: {names}.]]></phrase>
@@ -12005,7 +12064,7 @@ Tekaistulla sähköpostiosoitteella rekisteröityminen sivuillemme ei siis onnis
   <phrase title="there_are_x_items_in_total" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Löytyy {total} kohteita yhteensä]]></phrase>
   <phrase title="there_currently_no_add_ons_to_disable" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[There are currently no add-ons to disable.]]></phrase>
   <phrase title="there_currently_no_moderators_use_link_create" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[There are currently no moderators. Use the link above to create one.]]></phrase>
-  <phrase title="there_currently_no_purchasable_user_upgrades" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[There are currently no purchasable user upgrades.]]></phrase>
+  <phrase title="there_currently_no_purchasable_user_upgrades" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tällä hetkellä ei ole ostettavia käyttäjän päivityksiä.]]></phrase>
   <phrase title="there_currently_no_upgrades_available_for_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[There are currently no upgrades available for {title}.]]></phrase>
   <phrase title="there_currently_no_usable_external_account_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[There are currently no usable external account providers.]]></phrase>
   <phrase title="there_is_no_content_currently_awaiting_approval" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Tällä hetkellä ei ole sisältöä, joka odottaa hyväksyntää.]]></phrase>
@@ -12084,7 +12143,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="this_is_used_to_separate_labels_from_their_associated_values" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This is used to separate labels from their associated values.]]></phrase>
   <phrase title="this_is_used_to_uniquely_identify_modification_across_add_on_upgrades" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[This is used to uniquely identify a modification across add-on upgrades.]]></phrase>
   <phrase title="this_is_very_strong_password" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Tämä on erittäin vahva salasana.]]></phrase>
-  <phrase title="this_item_cannot_be_purchased_at_moment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This item cannot be purchased at the moment.]]></phrase>
+  <phrase title="this_item_cannot_be_purchased_at_moment" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Tätä tuotetta ei voi tällä hetkellä ostaa.]]></phrase>
   <phrase title="this_language_xml_file_was_not_built_for_this_version_of_xenforo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This language XML file was not built for this version of XenForo.]]></phrase>
   <phrase title="this_legacy_add_on_cannot_be_enabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This legacy add-on cannot be enabled.]]></phrase>
   <phrase title="this_link_could_not_be_verified" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[This link could not be verified. Please try from another link.]]></phrase>
